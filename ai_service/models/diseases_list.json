@@ -1,0 +1,2459 @@
+[
+  {
+    "name": "(Vertigo) Paroymsal  Positional Vertigo",
+    "name_en": "(Vertigo) Paroymsal  Positional Vertigo",
+    "name_fr": "(Vertigo) Paroymsal  Positional Vertigo",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Abdominal Injury",
+    "name_en": "Abdominal Injury",
+    "name_fr": "Abdominal Injury",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Abscess",
+    "name_en": "Abscess",
+    "name_fr": "Abscess",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Abscess Of Nose",
+    "name_en": "Abscess Of Nose",
+    "name_fr": "Abscess Of Nose",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Abscess Of The Lung",
+    "name_en": "Abscess Of The Lung",
+    "name_fr": "Abscess Of The Lung",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acinic Cell Carcinoma",
+    "name_en": "Acinic Cell Carcinoma",
+    "name_fr": "Acinic Cell Carcinoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acne",
+    "name_en": "Acne",
+    "name_fr": "Acne",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Actinic Keratosis",
+    "name_en": "Actinic Keratosis",
+    "name_fr": "Actinic Keratosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acute Bronchospasm",
+    "name_en": "Acute Bronchospasm",
+    "name_fr": "Acute Bronchospasm",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acute Glaucoma",
+    "name_en": "Acute Glaucoma",
+    "name_fr": "Acute Glaucoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acute Kidney Injury",
+    "name_en": "Acute Kidney Injury",
+    "name_fr": "Acute Kidney Injury",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acute Otitis Media",
+    "name_en": "Acute Otitis Media",
+    "name_fr": "Acute Otitis Media",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acute Pancreatitis",
+    "name_en": "Acute Pancreatitis",
+    "name_fr": "Acute Pancreatitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Acute Sinusitis",
+    "name_en": "Acute Sinusitis",
+    "name_fr": "Acute Sinusitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Adenoid Cystic Carcinoma",
+    "name_en": "Adenoid Cystic Carcinoma",
+    "name_fr": "Adenoid Cystic Carcinoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Adrenal Cancer",
+    "name_en": "Adrenal Cancer",
+    "name_fr": "Adrenal Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Aids",
+    "name_en": "Aids",
+    "name_fr": "Aids",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Alcohol Intoxication",
+    "name_en": "Alcohol Intoxication",
+    "name_fr": "Alcohol Intoxication",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Alcohol Use Disorder",
+    "name_en": "Alcohol Use Disorder",
+    "name_fr": "Alcohol Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Alcoholic Hepatitis",
+    "name_en": "Alcoholic Hepatitis",
+    "name_fr": "Alcoholic Hepatitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Allergy",
+    "name_en": "Allergy",
+    "name_fr": "Allergy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Anemia",
+    "name_en": "Anemia",
+    "name_fr": "Anemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Anemia Due To Chronic Kidney Disease",
+    "name_en": "Anemia Due To Chronic Kidney Disease",
+    "name_fr": "Anemia Due To Chronic Kidney Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Anemia Due To Malignancy",
+    "name_en": "Anemia Due To Malignancy",
+    "name_fr": "Anemia Due To Malignancy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Anemia Of Chronic Disease",
+    "name_en": "Anemia Of Chronic Disease",
+    "name_fr": "Anemia Of Chronic Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Angle-Closure Glaucoma",
+    "name_en": "Angle-Closure Glaucoma",
+    "name_fr": "Angle-Closure Glaucoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Anorexia Nervosa",
+    "name_en": "Anorexia Nervosa",
+    "name_fr": "Anorexia Nervosa",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Antihypertensives Poisoning",
+    "name_en": "Antihypertensives Poisoning",
+    "name_fr": "Antihypertensives Poisoning",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Antimicrobial Drugs Poisoning",
+    "name_en": "Antimicrobial Drugs Poisoning",
+    "name_fr": "Antimicrobial Drugs Poisoning",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Anxiety",
+    "name_en": "Anxiety",
+    "name_fr": "Anxiety",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Aplastic Anemia",
+    "name_en": "Aplastic Anemia",
+    "name_fr": "Aplastic Anemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Arthritis",
+    "name_en": "Arthritis",
+    "name_fr": "Arthritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Asthma",
+    "name_en": "Asthma",
+    "name_fr": "Asthma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Astigmatism",
+    "name_en": "Astigmatism",
+    "name_fr": "Astigmatism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Atelectasis",
+    "name_en": "Atelectasis",
+    "name_fr": "Atelectasis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Atrial Fibrillation",
+    "name_en": "Atrial Fibrillation",
+    "name_fr": "Atrial Fibrillation",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Atrophic Vaginitis",
+    "name_en": "Atrophic Vaginitis",
+    "name_fr": "Atrophic Vaginitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Attention Deficit Hyperactivity Disorder (Adhd)",
+    "name_en": "Attention Deficit Hyperactivity Disorder (Adhd)",
+    "name_fr": "Attention Deficit Hyperactivity Disorder (Adhd)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Autism",
+    "name_en": "Autism",
+    "name_fr": "Autism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Balanitis",
+    "name_en": "Balanitis",
+    "name_fr": "Balanitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Benign Kidney Cyst",
+    "name_en": "Benign Kidney Cyst",
+    "name_fr": "Benign Kidney Cyst",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Benzodiazepine Use Disorder",
+    "name_en": "Benzodiazepine Use Disorder",
+    "name_fr": "Benzodiazepine Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bipolar Disorder",
+    "name_en": "Bipolar Disorder",
+    "name_fr": "Bipolar Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bladder Cancer",
+    "name_en": "Bladder Cancer",
+    "name_fr": "Bladder Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bladder Disorder",
+    "name_en": "Bladder Disorder",
+    "name_fr": "Bladder Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bone Cancer",
+    "name_en": "Bone Cancer",
+    "name_fr": "Bone Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bone Spur Of The Calcaneus",
+    "name_en": "Bone Spur Of The Calcaneus",
+    "name_fr": "Bone Spur Of The Calcaneus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Breast Cancer",
+    "name_en": "Breast Cancer",
+    "name_fr": "Breast Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bronchial Asthma",
+    "name_en": "Bronchial Asthma",
+    "name_fr": "Bronchial Asthma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bronchitis",
+    "name_en": "Bronchitis",
+    "name_fr": "Bronchitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Bursitis",
+    "name_en": "Bursitis",
+    "name_fr": "Bursitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cannabis Use Disorder",
+    "name_en": "Cannabis Use Disorder",
+    "name_fr": "Cannabis Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Carbon Monoxide Poisoning",
+    "name_en": "Carbon Monoxide Poisoning",
+    "name_fr": "Carbon Monoxide Poisoning",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Carpal Tunnel Syndrome",
+    "name_en": "Carpal Tunnel Syndrome",
+    "name_fr": "Carpal Tunnel Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cat Scratch Disease",
+    "name_en": "Cat Scratch Disease",
+    "name_fr": "Cat Scratch Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cellulitis",
+    "name_en": "Cellulitis",
+    "name_fr": "Cellulitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cervical Spondylosis",
+    "name_en": "Cervical Spondylosis",
+    "name_fr": "Cervical Spondylosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chagas Disease",
+    "name_en": "Chagas Disease",
+    "name_fr": "Chagas Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chalazion",
+    "name_en": "Chalazion",
+    "name_fr": "Chalazion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chicken Pox",
+    "name_en": "Chicken Pox",
+    "name_fr": "Chicken Pox",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Choledocholithiasis",
+    "name_en": "Choledocholithiasis",
+    "name_fr": "Choledocholithiasis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cholesteatoma",
+    "name_en": "Cholesteatoma",
+    "name_fr": "Cholesteatoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chorioretinitis",
+    "name_en": "Chorioretinitis",
+    "name_fr": "Chorioretinitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Cholestasis",
+    "name_en": "Chronic Cholestasis",
+    "name_fr": "Chronic Cholestasis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Fatigue Syndrome",
+    "name_en": "Chronic Fatigue Syndrome",
+    "name_fr": "Chronic Fatigue Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Glaucoma",
+    "name_en": "Chronic Glaucoma",
+    "name_fr": "Chronic Glaucoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Inflammatory Demyelinating Polyneuropathy (Cidp)",
+    "name_en": "Chronic Inflammatory Demyelinating Polyneuropathy (Cidp)",
+    "name_fr": "Chronic Inflammatory Demyelinating Polyneuropathy (Cidp)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Kidney Disease",
+    "name_en": "Chronic Kidney Disease",
+    "name_fr": "Chronic Kidney Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Knee Pain",
+    "name_en": "Chronic Knee Pain",
+    "name_fr": "Chronic Knee Pain",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Otitis Media",
+    "name_en": "Chronic Otitis Media",
+    "name_fr": "Chronic Otitis Media",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Rheumatic Fever",
+    "name_en": "Chronic Rheumatic Fever",
+    "name_fr": "Chronic Rheumatic Fever",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Chronic Sinusitis",
+    "name_en": "Chronic Sinusitis",
+    "name_fr": "Chronic Sinusitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cirrhosis",
+    "name_en": "Cirrhosis",
+    "name_fr": "Cirrhosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Coagulation (Bleeding) Disorder",
+    "name_en": "Coagulation (Bleeding) Disorder",
+    "name_fr": "Coagulation (Bleeding) Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Common Cold",
+    "name_en": "Common Cold",
+    "name_fr": "Common Cold",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Complex Regional Pain Syndrome",
+    "name_en": "Complex Regional Pain Syndrome",
+    "name_fr": "Complex Regional Pain Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Complex Regional Pain Syndrome (Crps)",
+    "name_en": "Complex Regional Pain Syndrome (Crps)",
+    "name_fr": "Complex Regional Pain Syndrome (Crps)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Concussion",
+    "name_en": "Concussion",
+    "name_fr": "Concussion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Congenital Glaucoma",
+    "name_en": "Congenital Glaucoma",
+    "name_fr": "Congenital Glaucoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Congenital Rubella",
+    "name_en": "Congenital Rubella",
+    "name_fr": "Congenital Rubella",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Conjunctivitis Due To Allergy",
+    "name_en": "Conjunctivitis Due To Allergy",
+    "name_fr": "Conjunctivitis Due To Allergy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Conversion Disorder",
+    "name_en": "Conversion Disorder",
+    "name_fr": "Conversion Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cornea Infection",
+    "name_en": "Cornea Infection",
+    "name_fr": "Cornea Infection",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Corneal Abrasion",
+    "name_en": "Corneal Abrasion",
+    "name_fr": "Corneal Abrasion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Corneal Disorder",
+    "name_en": "Corneal Disorder",
+    "name_fr": "Corneal Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Coronary Atherosclerosis",
+    "name_en": "Coronary Atherosclerosis",
+    "name_fr": "Coronary Atherosclerosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cranial Nerve Palsy",
+    "name_en": "Cranial Nerve Palsy",
+    "name_fr": "Cranial Nerve Palsy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Crushing Injury",
+    "name_en": "Crushing Injury",
+    "name_fr": "Crushing Injury",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cryptorchidism",
+    "name_en": "Cryptorchidism",
+    "name_fr": "Cryptorchidism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cyst Of The Eyelid",
+    "name_en": "Cyst Of The Eyelid",
+    "name_fr": "Cyst Of The Eyelid",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Cystic Fibrosis",
+    "name_en": "Cystic Fibrosis",
+    "name_fr": "Cystic Fibrosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dengue",
+    "name_en": "Dengue",
+    "name_fr": "Dengue",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dengue Fever",
+    "name_en": "Dengue Fever",
+    "name_fr": "Dengue Fever",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dental Caries",
+    "name_en": "Dental Caries",
+    "name_fr": "Dental Caries",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dermatitis Due To Sun Exposure",
+    "name_en": "Dermatitis Due To Sun Exposure",
+    "name_fr": "Dermatitis Due To Sun Exposure",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Diabetes",
+    "name_en": "Diabetes",
+    "name_fr": "Diabetes",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Diabetic Kidney Disease",
+    "name_en": "Diabetic Kidney Disease",
+    "name_fr": "Diabetic Kidney Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Diabetic Retinopathy",
+    "name_en": "Diabetic Retinopathy",
+    "name_fr": "Diabetic Retinopathy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dimorphic Hemmorhoids(Piles)",
+    "name_en": "Dimorphic Hemmorhoids(Piles)",
+    "name_fr": "Dimorphic Hemmorhoids(Piles)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dislocation Of The Ankle",
+    "name_en": "Dislocation Of The Ankle",
+    "name_fr": "Dislocation Of The Ankle",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dislocation Of The Elbow",
+    "name_en": "Dislocation Of The Elbow",
+    "name_fr": "Dislocation Of The Elbow",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dislocation Of The Patella",
+    "name_en": "Dislocation Of The Patella",
+    "name_fr": "Dislocation Of The Patella",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Diverticulosis",
+    "name_en": "Diverticulosis",
+    "name_fr": "Diverticulosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Drug Abuse (Barbiturates)",
+    "name_en": "Drug Abuse (Barbiturates)",
+    "name_fr": "Drug Abuse (Barbiturates)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Drug Abuse (Cocaine)",
+    "name_en": "Drug Abuse (Cocaine)",
+    "name_fr": "Drug Abuse (Cocaine)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Drug Abuse (Methamphetamine)",
+    "name_en": "Drug Abuse (Methamphetamine)",
+    "name_fr": "Drug Abuse (Methamphetamine)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Drug Reaction",
+    "name_en": "Drug Reaction",
+    "name_fr": "Drug Reaction",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Drug Withdrawal",
+    "name_en": "Drug Withdrawal",
+    "name_fr": "Drug Withdrawal",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Dysthymic Disorder",
+    "name_en": "Dysthymic Disorder",
+    "name_fr": "Dysthymic Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ectopic Pregnancy",
+    "name_en": "Ectopic Pregnancy",
+    "name_fr": "Ectopic Pregnancy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Eczema",
+    "name_en": "Eczema",
+    "name_fr": "Eczema",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Edward Syndrome",
+    "name_en": "Edward Syndrome",
+    "name_fr": "Edward Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Emphysema",
+    "name_en": "Emphysema",
+    "name_fr": "Emphysema",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Empyema",
+    "name_en": "Empyema",
+    "name_fr": "Empyema",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Encephalitis",
+    "name_en": "Encephalitis",
+    "name_fr": "Encephalitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Endometrial Cancer",
+    "name_en": "Endometrial Cancer",
+    "name_fr": "Endometrial Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Endometriosis",
+    "name_en": "Endometriosis",
+    "name_fr": "Endometriosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Endophthalmitis",
+    "name_en": "Endophthalmitis",
+    "name_fr": "Endophthalmitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ependymoma",
+    "name_en": "Ependymoma",
+    "name_fr": "Ependymoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Esophageal Cancer",
+    "name_en": "Esophageal Cancer",
+    "name_fr": "Esophageal Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Esophageal Varices",
+    "name_en": "Esophageal Varices",
+    "name_fr": "Esophageal Varices",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ethylene Glycol Poisoning-1",
+    "name_en": "Ethylene Glycol Poisoning-1",
+    "name_fr": "Ethylene Glycol Poisoning-1",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ethylene Glycol Poisoning-2",
+    "name_en": "Ethylene Glycol Poisoning-2",
+    "name_fr": "Ethylene Glycol Poisoning-2",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ethylene Glycol Poisoning-3",
+    "name_en": "Ethylene Glycol Poisoning-3",
+    "name_fr": "Ethylene Glycol Poisoning-3",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Extrapyramidal Effect Of Drugs",
+    "name_en": "Extrapyramidal Effect Of Drugs",
+    "name_fr": "Extrapyramidal Effect Of Drugs",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Eye Alignment Disorder",
+    "name_en": "Eye Alignment Disorder",
+    "name_fr": "Eye Alignment Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fat Embolism",
+    "name_en": "Fat Embolism",
+    "name_fr": "Fat Embolism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Female Infertility Of Unknown Cause",
+    "name_en": "Female Infertility Of Unknown Cause",
+    "name_fr": "Female Infertility Of Unknown Cause",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fetal Alcohol Syndrome",
+    "name_en": "Fetal Alcohol Syndrome",
+    "name_fr": "Fetal Alcohol Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fibromyalgia",
+    "name_en": "Fibromyalgia",
+    "name_fr": "Fibromyalgia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Flat Feet",
+    "name_en": "Flat Feet",
+    "name_fr": "Flat Feet",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Food Allergy",
+    "name_en": "Food Allergy",
+    "name_fr": "Food Allergy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Foreign Body In The Gastrointestinal Tract",
+    "name_en": "Foreign Body In The Gastrointestinal Tract",
+    "name_fr": "Foreign Body In The Gastrointestinal Tract",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fracture",
+    "name_en": "Fracture",
+    "name_fr": "Fracture",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fracture Of The Arm",
+    "name_en": "Fracture Of The Arm",
+    "name_fr": "Fracture Of The Arm",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fracture Of The Neck",
+    "name_en": "Fracture Of The Neck",
+    "name_fr": "Fracture Of The Neck",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fracture Of The Patella",
+    "name_en": "Fracture Of The Patella",
+    "name_fr": "Fracture Of The Patella",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fracture Of The Rib",
+    "name_en": "Fracture Of The Rib",
+    "name_fr": "Fracture Of The Rib",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fracture Of The Shoulder",
+    "name_en": "Fracture Of The Shoulder",
+    "name_fr": "Fracture Of The Shoulder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fungal Infection",
+    "name_en": "Fungal Infection",
+    "name_fr": "Fungal Infection",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Fungal Infection Of The Skin",
+    "name_en": "Fungal Infection Of The Skin",
+    "name_fr": "Fungal Infection Of The Skin",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gastroenteritis",
+    "name_en": "Gastroenteritis",
+    "name_fr": "Gastroenteritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gastroenteritis (Stomach Flu)",
+    "name_en": "Gastroenteritis (Stomach Flu)",
+    "name_fr": "Gastroenteritis (Stomach Flu)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gastroesophageal Reflux Disease (Gerd)",
+    "name_en": "Gastroesophageal Reflux Disease (Gerd)",
+    "name_fr": "Gastroesophageal Reflux Disease (Gerd)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gastrointestinal Hemorrhage",
+    "name_en": "Gastrointestinal Hemorrhage",
+    "name_fr": "Gastrointestinal Hemorrhage",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gastroparesis",
+    "name_en": "Gastroparesis",
+    "name_fr": "Gastroparesis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gerd",
+    "name_en": "Gerd",
+    "name_fr": "Gerd",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Glucocorticoid Deficiency",
+    "name_en": "Glucocorticoid Deficiency",
+    "name_fr": "Glucocorticoid Deficiency",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Goiter",
+    "name_en": "Goiter",
+    "name_fr": "Goiter",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gonorrhea",
+    "name_en": "Gonorrhea",
+    "name_fr": "Gonorrhea",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gout",
+    "name_en": "Gout",
+    "name_fr": "Gout",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Gum Disease",
+    "name_en": "Gum Disease",
+    "name_fr": "Gum Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hallucinogen Use Disorder",
+    "name_en": "Hallucinogen Use Disorder",
+    "name_fr": "Hallucinogen Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hashimoto Thyroiditis",
+    "name_en": "Hashimoto Thyroiditis",
+    "name_fr": "Hashimoto Thyroiditis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Head And Neck Cancer",
+    "name_en": "Head And Neck Cancer",
+    "name_fr": "Head And Neck Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Heart Attack",
+    "name_en": "Heart Attack",
+    "name_fr": "Heart Attack",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Heart Block",
+    "name_en": "Heart Block",
+    "name_fr": "Heart Block",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hemarthrosis",
+    "name_en": "Hemarthrosis",
+    "name_fr": "Hemarthrosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hemolytic Anemia",
+    "name_en": "Hemolytic Anemia",
+    "name_fr": "Hemolytic Anemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hemophilia",
+    "name_en": "Hemophilia",
+    "name_fr": "Hemophilia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hemorrhoids",
+    "name_en": "Hemorrhoids",
+    "name_fr": "Hemorrhoids",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatic Encephalopathy",
+    "name_en": "Hepatic Encephalopathy",
+    "name_fr": "Hepatic Encephalopathy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatitis A",
+    "name_en": "Hepatitis A",
+    "name_fr": "Hepatitis A",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatitis B",
+    "name_en": "Hepatitis B",
+    "name_fr": "Hepatitis B",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatitis C",
+    "name_en": "Hepatitis C",
+    "name_fr": "Hepatitis C",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatitis D",
+    "name_en": "Hepatitis D",
+    "name_fr": "Hepatitis D",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatitis Due To A Toxin",
+    "name_en": "Hepatitis Due To A Toxin",
+    "name_fr": "Hepatitis Due To A Toxin",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hepatitis E",
+    "name_en": "Hepatitis E",
+    "name_fr": "Hepatitis E",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Herpangina",
+    "name_en": "Herpangina",
+    "name_fr": "Herpangina",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hiatal Hernia",
+    "name_en": "Hiatal Hernia",
+    "name_fr": "Hiatal Hernia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hirschsprung Disease",
+    "name_en": "Hirschsprung Disease",
+    "name_fr": "Hirschsprung Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Huntington Disease",
+    "name_en": "Huntington Disease",
+    "name_fr": "Huntington Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hydrocephalus",
+    "name_en": "Hydrocephalus",
+    "name_fr": "Hydrocephalus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hydronephrosis",
+    "name_en": "Hydronephrosis",
+    "name_fr": "Hydronephrosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypercalcemia",
+    "name_en": "Hypercalcemia",
+    "name_fr": "Hypercalcemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypercholesterolemia",
+    "name_en": "Hypercholesterolemia",
+    "name_fr": "Hypercholesterolemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hyperhidrosis",
+    "name_en": "Hyperhidrosis",
+    "name_fr": "Hyperhidrosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hyperkalemia",
+    "name_en": "Hyperkalemia",
+    "name_fr": "Hyperkalemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hyperosmotic Hyperketotic State",
+    "name_en": "Hyperosmotic Hyperketotic State",
+    "name_fr": "Hyperosmotic Hyperketotic State",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypertension",
+    "name_en": "Hypertension",
+    "name_fr": "Hypertension",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypertensive Heart Disease",
+    "name_en": "Hypertensive Heart Disease",
+    "name_fr": "Hypertensive Heart Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hyperthyroidism",
+    "name_en": "Hyperthyroidism",
+    "name_fr": "Hyperthyroidism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypertrophic Obstructive Cardiomyopathy (Hocm)",
+    "name_en": "Hypertrophic Obstructive Cardiomyopathy (Hocm)",
+    "name_fr": "Hypertrophic Obstructive Cardiomyopathy (Hocm)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypoglycemia",
+    "name_en": "Hypoglycemia",
+    "name_fr": "Hypoglycemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypospadias",
+    "name_en": "Hypospadias",
+    "name_fr": "Hypospadias",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Hypothyroidism",
+    "name_en": "Hypothyroidism",
+    "name_fr": "Hypothyroidism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Idiopathic Nonmenstrual Bleeding",
+    "name_en": "Idiopathic Nonmenstrual Bleeding",
+    "name_fr": "Idiopathic Nonmenstrual Bleeding",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Impetigo",
+    "name_en": "Impetigo",
+    "name_fr": "Impetigo",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Impulse Control Disorder",
+    "name_en": "Impulse Control Disorder",
+    "name_fr": "Impulse Control Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Indigestion",
+    "name_en": "Indigestion",
+    "name_fr": "Indigestion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Induced Abortion",
+    "name_en": "Induced Abortion",
+    "name_fr": "Induced Abortion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Infection Of Open Wound",
+    "name_en": "Infection Of Open Wound",
+    "name_fr": "Infection Of Open Wound",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Influenza (Flu)",
+    "name_en": "Influenza (Flu)",
+    "name_fr": "Influenza (Flu)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Injury To Internal Organ",
+    "name_en": "Injury To Internal Organ",
+    "name_fr": "Injury To Internal Organ",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Injury To The Finger",
+    "name_en": "Injury To The Finger",
+    "name_fr": "Injury To The Finger",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Injury To The Leg",
+    "name_en": "Injury To The Leg",
+    "name_fr": "Injury To The Leg",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Insect Bites",
+    "name_en": "Insect Bites",
+    "name_fr": "Insect Bites",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Insulin Overdose",
+    "name_en": "Insulin Overdose",
+    "name_fr": "Insulin Overdose",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Intertrigo",
+    "name_en": "Intertrigo",
+    "name_fr": "Intertrigo",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Intestinal Malabsorption",
+    "name_en": "Intestinal Malabsorption",
+    "name_fr": "Intestinal Malabsorption",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Intracranial Abscess",
+    "name_en": "Intracranial Abscess",
+    "name_fr": "Intracranial Abscess",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Intracranial Hemorrhage",
+    "name_en": "Intracranial Hemorrhage",
+    "name_fr": "Intracranial Hemorrhage",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ischemia Of The Bowel",
+    "name_en": "Ischemia Of The Bowel",
+    "name_fr": "Ischemia Of The Bowel",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Jaundice",
+    "name_en": "Jaundice",
+    "name_fr": "Jaundice",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Juvenile Rheumatoid Arthritis",
+    "name_en": "Juvenile Rheumatoid Arthritis",
+    "name_fr": "Juvenile Rheumatoid Arthritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Kidney Failure",
+    "name_en": "Kidney Failure",
+    "name_fr": "Kidney Failure",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Kidney Stone",
+    "name_en": "Kidney Stone",
+    "name_fr": "Kidney Stone",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Labyrinthitis",
+    "name_en": "Labyrinthitis",
+    "name_fr": "Labyrinthitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Lateral Epicondylitis (Tennis Elbow)",
+    "name_en": "Lateral Epicondylitis (Tennis Elbow)",
+    "name_fr": "Lateral Epicondylitis (Tennis Elbow)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Lead Poisoning",
+    "name_en": "Lead Poisoning",
+    "name_fr": "Lead Poisoning",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Leishmaniasis",
+    "name_en": "Leishmaniasis",
+    "name_fr": "Leishmaniasis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Leukemia",
+    "name_en": "Leukemia",
+    "name_fr": "Leukemia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Liver Cancer",
+    "name_en": "Liver Cancer",
+    "name_fr": "Liver Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ludwig'S Angina",
+    "name_en": "Ludwig'S Angina",
+    "name_fr": "Ludwig'S Angina",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Lung Contusion",
+    "name_en": "Lung Contusion",
+    "name_fr": "Lung Contusion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Lupus",
+    "name_en": "Lupus",
+    "name_fr": "Lupus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Lymphoma",
+    "name_en": "Lymphoma",
+    "name_fr": "Lymphoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Magnesium Deficiency",
+    "name_en": "Magnesium Deficiency",
+    "name_fr": "Magnesium Deficiency",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Malaria",
+    "name_en": "Malaria",
+    "name_fr": "Malaria",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Marijuana Abuse",
+    "name_en": "Marijuana Abuse",
+    "name_fr": "Marijuana Abuse",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Mastoiditis",
+    "name_en": "Mastoiditis",
+    "name_fr": "Mastoiditis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Meniere Disease",
+    "name_en": "Meniere Disease",
+    "name_fr": "Meniere Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Migraine",
+    "name_en": "Migraine",
+    "name_fr": "Migraine",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Mitral Valve Disease",
+    "name_en": "Mitral Valve Disease",
+    "name_fr": "Mitral Valve Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Mononucleosis",
+    "name_en": "Mononucleosis",
+    "name_fr": "Mononucleosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Mucoepidermoid Carcinoma",
+    "name_en": "Mucoepidermoid Carcinoma",
+    "name_fr": "Mucoepidermoid Carcinoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Mumps",
+    "name_en": "Mumps",
+    "name_fr": "Mumps",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Muscle Spasm",
+    "name_en": "Muscle Spasm",
+    "name_fr": "Muscle Spasm",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Muscular Dystrophy",
+    "name_en": "Muscular Dystrophy",
+    "name_fr": "Muscular Dystrophy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Myasthenia Gravis",
+    "name_en": "Myasthenia Gravis",
+    "name_fr": "Myasthenia Gravis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Myelodysplastic Syndrome",
+    "name_en": "Myelodysplastic Syndrome",
+    "name_fr": "Myelodysplastic Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Myoclonus",
+    "name_en": "Myoclonus",
+    "name_fr": "Myoclonus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Myopia",
+    "name_en": "Myopia",
+    "name_fr": "Myopia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Myositis",
+    "name_en": "Myositis",
+    "name_fr": "Myositis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Neonatal Jaundice",
+    "name_en": "Neonatal Jaundice",
+    "name_fr": "Neonatal Jaundice",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Neuromyelitis Optica",
+    "name_en": "Neuromyelitis Optica",
+    "name_fr": "Neuromyelitis Optica",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Nonalcoholic Liver Disease (Nash)",
+    "name_en": "Nonalcoholic Liver Disease (Nash)",
+    "name_fr": "Nonalcoholic Liver Disease (Nash)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Normal Pressure Hydrocephalus",
+    "name_en": "Normal Pressure Hydrocephalus",
+    "name_fr": "Normal Pressure Hydrocephalus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Nose Disorder",
+    "name_en": "Nose Disorder",
+    "name_fr": "Nose Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Omphalitis",
+    "name_en": "Omphalitis",
+    "name_fr": "Omphalitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Open Wound From Surgical Incision",
+    "name_en": "Open Wound From Surgical Incision",
+    "name_fr": "Open Wound From Surgical Incision",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Opioid Use Disorder",
+    "name_en": "Opioid Use Disorder",
+    "name_fr": "Opioid Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Optic Neuritis",
+    "name_en": "Optic Neuritis",
+    "name_fr": "Optic Neuritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Oral Leukoplakia",
+    "name_en": "Oral Leukoplakia",
+    "name_fr": "Oral Leukoplakia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Orbital Cellulitis",
+    "name_en": "Orbital Cellulitis",
+    "name_fr": "Orbital Cellulitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Osteoarthristis",
+    "name_en": "Osteoarthristis",
+    "name_fr": "Osteoarthristis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Osteoarthritis",
+    "name_en": "Osteoarthritis",
+    "name_fr": "Osteoarthritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Osteochondrosis",
+    "name_en": "Osteochondrosis",
+    "name_fr": "Osteochondrosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Osteoporosis",
+    "name_en": "Osteoporosis",
+    "name_fr": "Osteoporosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Otitis Media",
+    "name_en": "Otitis Media",
+    "name_fr": "Otitis Media",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Otosclerosis",
+    "name_en": "Otosclerosis",
+    "name_fr": "Otosclerosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Ovarian Torsion",
+    "name_en": "Ovarian Torsion",
+    "name_fr": "Ovarian Torsion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Overflow Incontinence",
+    "name_en": "Overflow Incontinence",
+    "name_fr": "Overflow Incontinence",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pain After An Operation",
+    "name_en": "Pain After An Operation",
+    "name_fr": "Pain After An Operation",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Panic Attack",
+    "name_en": "Panic Attack",
+    "name_fr": "Panic Attack",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Panic Disorder",
+    "name_en": "Panic Disorder",
+    "name_fr": "Panic Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Paralysis (Brain Hemorrhage)",
+    "name_en": "Paralysis (Brain Hemorrhage)",
+    "name_fr": "Paralysis (Brain Hemorrhage)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Parathyroid Adenoma",
+    "name_en": "Parathyroid Adenoma",
+    "name_fr": "Parathyroid Adenoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Parkinson Disease",
+    "name_en": "Parkinson Disease",
+    "name_fr": "Parkinson Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Parotid Stones",
+    "name_en": "Parotid Stones",
+    "name_fr": "Parotid Stones",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pelvic Organ Prolapse",
+    "name_en": "Pelvic Organ Prolapse",
+    "name_fr": "Pelvic Organ Prolapse",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Peptic Ulcer Diseae",
+    "name_en": "Peptic Ulcer Diseae",
+    "name_fr": "Peptic Ulcer Diseae",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pericarditis",
+    "name_en": "Pericarditis",
+    "name_fr": "Pericarditis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Peritonitis",
+    "name_en": "Peritonitis",
+    "name_fr": "Peritonitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Peritonsillar Abscess",
+    "name_en": "Peritonsillar Abscess",
+    "name_fr": "Peritonsillar Abscess",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pharyngitis",
+    "name_en": "Pharyngitis",
+    "name_fr": "Pharyngitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pigmentary Glaucoma",
+    "name_en": "Pigmentary Glaucoma",
+    "name_fr": "Pigmentary Glaucoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pilonidal Cyst",
+    "name_en": "Pilonidal Cyst",
+    "name_fr": "Pilonidal Cyst",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pinworm Infection",
+    "name_en": "Pinworm Infection",
+    "name_fr": "Pinworm Infection",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pituitary Adenoma",
+    "name_en": "Pituitary Adenoma",
+    "name_fr": "Pituitary Adenoma",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Plantar Fasciitis",
+    "name_en": "Plantar Fasciitis",
+    "name_fr": "Plantar Fasciitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pneumonia",
+    "name_en": "Pneumonia",
+    "name_fr": "Pneumonia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Poisoning Due To Analgesics",
+    "name_en": "Poisoning Due To Analgesics",
+    "name_fr": "Poisoning Due To Analgesics",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Poisoning Due To Antidepressants",
+    "name_en": "Poisoning Due To Antidepressants",
+    "name_fr": "Poisoning Due To Antidepressants",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Polycystic Kidney Disease",
+    "name_en": "Polycystic Kidney Disease",
+    "name_fr": "Polycystic Kidney Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Polycystic Ovarian Syndrome",
+    "name_en": "Polycystic Ovarian Syndrome",
+    "name_fr": "Polycystic Ovarian Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Polycythemia Vera",
+    "name_en": "Polycythemia Vera",
+    "name_fr": "Polycythemia Vera",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Polymyalgia Rheumatica",
+    "name_en": "Polymyalgia Rheumatica",
+    "name_fr": "Polymyalgia Rheumatica",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Postpartum Depression",
+    "name_en": "Postpartum Depression",
+    "name_fr": "Postpartum Depression",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Preeclampsia",
+    "name_en": "Preeclampsia",
+    "name_fr": "Preeclampsia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Premature Ventricular Contractions (Pvcs)",
+    "name_en": "Premature Ventricular Contractions (Pvcs)",
+    "name_fr": "Premature Ventricular Contractions (Pvcs)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Premenstrual Tension Syndrome",
+    "name_en": "Premenstrual Tension Syndrome",
+    "name_fr": "Premenstrual Tension Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Presbycusis",
+    "name_en": "Presbycusis",
+    "name_fr": "Presbycusis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Primary Insomnia",
+    "name_en": "Primary Insomnia",
+    "name_fr": "Primary Insomnia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Protein Deficiency",
+    "name_en": "Protein Deficiency",
+    "name_fr": "Protein Deficiency",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pseudohypoparathyroidism",
+    "name_en": "Pseudohypoparathyroidism",
+    "name_fr": "Pseudohypoparathyroidism",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Psoriasis",
+    "name_en": "Psoriasis",
+    "name_fr": "Psoriasis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pulmonary Congestion",
+    "name_en": "Pulmonary Congestion",
+    "name_fr": "Pulmonary Congestion",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pulmonary Fibrosis",
+    "name_en": "Pulmonary Fibrosis",
+    "name_fr": "Pulmonary Fibrosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pulmonic Valve Disease",
+    "name_en": "Pulmonic Valve Disease",
+    "name_fr": "Pulmonic Valve Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pyelonephritis",
+    "name_en": "Pyelonephritis",
+    "name_fr": "Pyelonephritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Pyloric Stenosis",
+    "name_en": "Pyloric Stenosis",
+    "name_fr": "Pyloric Stenosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Rabies",
+    "name_en": "Rabies",
+    "name_fr": "Rabies",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Restless Leg Syndrome",
+    "name_en": "Restless Leg Syndrome",
+    "name_fr": "Restless Leg Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Retinal Detachment",
+    "name_en": "Retinal Detachment",
+    "name_fr": "Retinal Detachment",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "name_en": "Rheumatoid Arthritis",
+    "name_fr": "Rheumatoid Arthritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Rotator Cuff Injury",
+    "name_en": "Rotator Cuff Injury",
+    "name_fr": "Rotator Cuff Injury",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Scabies",
+    "name_en": "Scabies",
+    "name_fr": "Scabies",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Scarlet Fever",
+    "name_en": "Scarlet Fever",
+    "name_fr": "Scarlet Fever",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Sciatica",
+    "name_en": "Sciatica",
+    "name_fr": "Sciatica",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Scleritis",
+    "name_en": "Scleritis",
+    "name_fr": "Scleritis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Scurvy",
+    "name_en": "Scurvy",
+    "name_fr": "Scurvy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Seborrheic Dermatitis",
+    "name_en": "Seborrheic Dermatitis",
+    "name_fr": "Seborrheic Dermatitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Sedative, Hypnotic, Or Anxiolytic Use Disorder",
+    "name_en": "Sedative, Hypnotic, Or Anxiolytic Use Disorder",
+    "name_fr": "Sedative, Hypnotic, Or Anxiolytic Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Sedatives Poisoning",
+    "name_en": "Sedatives Poisoning",
+    "name_fr": "Sedatives Poisoning",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Sialolithiasis",
+    "name_en": "Sialolithiasis",
+    "name_fr": "Sialolithiasis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Sjögren'S Syndrome",
+    "name_en": "Sjögren'S Syndrome",
+    "name_fr": "Sjögren'S Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Spondylitis",
+    "name_en": "Spondylitis",
+    "name_fr": "Spondylitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Spondylosis",
+    "name_en": "Spondylosis",
+    "name_fr": "Spondylosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Stenosis Of The Tear Duct",
+    "name_en": "Stenosis Of The Tear Duct",
+    "name_fr": "Stenosis Of The Tear Duct",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Stimulant Use Disorder",
+    "name_en": "Stimulant Use Disorder",
+    "name_fr": "Stimulant Use Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Stroke",
+    "name_en": "Stroke",
+    "name_fr": "Stroke",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Subdural Hemorrhage",
+    "name_en": "Subdural Hemorrhage",
+    "name_fr": "Subdural Hemorrhage",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Submandibular Stones",
+    "name_en": "Submandibular Stones",
+    "name_fr": "Submandibular Stones",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Syphilis",
+    "name_en": "Syphilis",
+    "name_fr": "Syphilis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Syringomyelia",
+    "name_en": "Syringomyelia",
+    "name_fr": "Syringomyelia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Temporomandibular Joint Disorder",
+    "name_en": "Temporomandibular Joint Disorder",
+    "name_fr": "Temporomandibular Joint Disorder",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Testicular Cancer",
+    "name_en": "Testicular Cancer",
+    "name_fr": "Testicular Cancer",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Thoracic Aortic Aneurysm",
+    "name_en": "Thoracic Aortic Aneurysm",
+    "name_fr": "Thoracic Aortic Aneurysm",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Threatened Pregnancy",
+    "name_en": "Threatened Pregnancy",
+    "name_fr": "Threatened Pregnancy",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Thrombocytopenia",
+    "name_en": "Thrombocytopenia",
+    "name_fr": "Thrombocytopenia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Thrombophlebitis",
+    "name_en": "Thrombophlebitis",
+    "name_fr": "Thrombophlebitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Thyroid Disease",
+    "name_en": "Thyroid Disease",
+    "name_fr": "Thyroid Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Torticollis",
+    "name_en": "Torticollis",
+    "name_fr": "Torticollis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Tuberculosis",
+    "name_en": "Tuberculosis",
+    "name_fr": "Tuberculosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Tuberous Sclerosis",
+    "name_en": "Tuberous Sclerosis",
+    "name_fr": "Tuberous Sclerosis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Turner Syndrome",
+    "name_en": "Turner Syndrome",
+    "name_fr": "Turner Syndrome",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Type 1 Diabetes",
+    "name_en": "Type 1 Diabetes",
+    "name_fr": "Type 1 Diabetes",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "name_en": "Type 2 Diabetes",
+    "name_fr": "Type 2 Diabetes",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Typhoid",
+    "name_en": "Typhoid",
+    "name_fr": "Typhoid",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Urethral Valves",
+    "name_en": "Urethral Valves",
+    "name_fr": "Urethral Valves",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Urinary Stones (Kidney Stones)",
+    "name_en": "Urinary Stones (Kidney Stones)",
+    "name_fr": "Urinary Stones (Kidney Stones)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Urinary Tract Infection",
+    "name_en": "Urinary Tract Infection",
+    "name_fr": "Urinary Tract Infection",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Urinary Tract Infection (Uti)",
+    "name_en": "Urinary Tract Infection (Uti)",
+    "name_fr": "Urinary Tract Infection (Uti)",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Uterine Fibroids",
+    "name_en": "Uterine Fibroids",
+    "name_fr": "Uterine Fibroids",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vaginal Yeast Infection",
+    "name_en": "Vaginal Yeast Infection",
+    "name_fr": "Vaginal Yeast Infection",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Varicose Veins",
+    "name_en": "Varicose Veins",
+    "name_fr": "Varicose Veins",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vasculitis",
+    "name_en": "Vasculitis",
+    "name_fr": "Vasculitis",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vesicoureteral Reflux",
+    "name_en": "Vesicoureteral Reflux",
+    "name_fr": "Vesicoureteral Reflux",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Viral Warts",
+    "name_en": "Viral Warts",
+    "name_fr": "Viral Warts",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vitamin A Deficiency",
+    "name_en": "Vitamin A Deficiency",
+    "name_fr": "Vitamin A Deficiency",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vitamin B12 Deficiency",
+    "name_en": "Vitamin B12 Deficiency",
+    "name_fr": "Vitamin B12 Deficiency",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vitreous Hemorrhage",
+    "name_en": "Vitreous Hemorrhage",
+    "name_fr": "Vitreous Hemorrhage",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vocal Cord Polyp",
+    "name_en": "Vocal Cord Polyp",
+    "name_fr": "Vocal Cord Polyp",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Volvulus",
+    "name_en": "Volvulus",
+    "name_fr": "Volvulus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Von Hippel-Lindau Disease",
+    "name_en": "Von Hippel-Lindau Disease",
+    "name_fr": "Von Hippel-Lindau Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Von Willebrand Disease",
+    "name_en": "Von Willebrand Disease",
+    "name_fr": "Von Willebrand Disease",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Vulvodynia",
+    "name_en": "Vulvodynia",
+    "name_fr": "Vulvodynia",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "West Nile Virus",
+    "name_en": "West Nile Virus",
+    "name_fr": "West Nile Virus",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Wharton'S Duct Stones",
+    "name_en": "Wharton'S Duct Stones",
+    "name_fr": "Wharton'S Duct Stones",
+    "icd10": "",
+    "severity": 3
+  },
+  {
+    "name": "Wilson Disease",
+    "name_en": "Wilson Disease",
+    "name_fr": "Wilson Disease",
+    "icd10": "",
+    "severity": 3
+  }
+]

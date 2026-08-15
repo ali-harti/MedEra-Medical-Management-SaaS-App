@@ -1,0 +1,93 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# ── Virtual Environments ────────────────────────────────
+venv/
+.venv/
+env/
+backend/venv/
+ai_service/venv/
+
+# ── Django ──────────────────────────────────────────────
+backend/db.sqlite3
+backend/*.log
+backend/staticfiles/
+backend/mediafiles/
+backend/.coverage
+backend/htmlcov/
+
+# ── AI Service — large binary and data files ────────────
+ai_service/models/symptom_classifier.joblib
+ai_service/data/release_train_patients.csv
+ai_service/data/release_validate_patients.csv
+ai_service/data/release_test_patients.csv
+ai_service/data/release_train_patients.zip
+ai_service/data/release_validate_patients.zip
+ai_service/data/release_test_patients.zip
+ai_service/data/extended_patients.csv
+ai_service/data/kaggle_training.csv
+ai_service/*.log
+
+# ── Environment files — NEVER commit secrets ────────────
+.env
+.env.local
+.env.production
+.env.development
+backend/.env
+backend/.env.local
+ai_service/.env
+ai_service/.env.local
+
+# ── Test and coverage artifacts ─────────────────────────
+.coverage
+htmlcov/
+.pytest_cache/
+coverage.xml
+*.coveragerc
+
+# ── Database dumps ──────────────────────────────────────
+*.sqlite3
+*.sql
+dump.rdb
+
+# ── OS files ────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# ── IDE ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Node (future frontend) ──────────────────────────────
+node_modules/
+dist/
+.next/
+.nuxt/
+
+# ── Logs ────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Temporary scratch files ─────────────────────────────
+scratch/
+*.tmp
+all_features.txt
+verif_results.txt
+
+# ── WhatsApp Agent ──────────────────────────────────────
+whatsapp_agent/.env
+whatsapp_agent/__pycache__/
+whatsapp_agent/*.pyc
+*.pkl

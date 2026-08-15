@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+{% load i18n %}
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<style>
+  @page {
+    size: A4;
+    margin: 20mm;
+    @bottom-right {
+      content: "Page " counter(page) " sur " counter(pages);
+      font-size: 8pt;
+      color: #64748b;
+    }
+  }
+  body { 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size: 10pt; 
+    color: #1e293b; 
+    line-height: 1.5;
+  }
+  .header { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-start;
+    border-bottom: 2px solid #546FFF; 
+    padding-bottom: 15px; 
+    margin-bottom: 25px; 
+  }
+  .brand-logo {
+    display: flex;
+    align-items: center;
+  }
+  /* Using an embedded SVG for the MedEra logo (pulse circle) */
+  .brand-icon {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    background-color: #4F46E5;
+    border-radius: 50%;
+    position: relative;
+    margin-right: 12px;
+    vertical-align: middle;
+    box-shadow: 0 0 15px rgba(79,70,229,0.4);
+  }
+  .brand-icon svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    color: white;
+  }
+  .brand-text { 
+    font-size: 26pt; 
+    font-weight: 800; 
+    color: #0f172a; 
+    letter-spacing: -0.5px;
+    vertical-align: middle;
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .subtitle { 
+    font-size: 10pt; 
+    color: #64748b; 
+    margin-top: 5px;
+    margin-left: 48px;
+  }
+  .doc-info {
+    text-align: right; 
+    font-size: 9.5pt; 
+    color: #475569;
+  }
+  .doc-name {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #0f172a;
+  }
+  .prescription-meta {
+    margin-bottom: 30px;
+    font-size: 10pt;
+    color: #64748b;
+    text-align: right;
+  }
+  .patient-card {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 30px;
+  }
+  .patient-card h2 {
+    margin-top: 0;
+    font-size: 12pt;
+    color: #546FFF;
+    border-bottom: 1px solid #cbd5e1;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  table.medications-table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 15px; 
+    margin-bottom: 30px;
+  }
+  .medications-table th { 
+    background: #546FFF; 
+    color: white; 
+    text-align: left; 
+    padding: 10px; 
+    font-size: 9.5pt; 
+    font-weight: 600;
+  }
+  .medications-table td { 
+    padding: 10px; 
+    border-bottom: 1px solid #e2e8f0; 
+    font-size: 10pt; 
+  }
+  .medications-table tr:nth-child(even) td { 
+    background: #f8fafc; 
+  }
+  .notes-section {
+    background: #f0fdf4;
+    border-left: 4px solid #22c55e;
+    padding: 12px 15px;
+    margin-bottom: 30px;
+    border-radius: 0 4px 4px 0;
+  }
+  .notes-section h3 {
+    margin-top: 0;
+    color: #166534;
+    font-size: 10pt;
+    margin-bottom: 5px;
+  }
+  .signature-block { 
+    margin-top: 50px; 
+    float: right;
+    width: 250px;
+    text-align: center;
+  }
+  .sig-line { 
+    border-top: 1px dashed #94a3b8; 
+    width: 100%; 
+    margin-top: 60px; 
+    margin-bottom: 10px;
+  }
+  .footer { 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px; 
+    font-size: 8pt; 
+    color: #94a3b8; 
+    text-align: center; 
+    border-top: 1px solid #e2e8f0; 
+    padding-top: 15px; 
+  }
+  .watermark {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 120pt;
+    color: rgba(239, 68, 68, 0.1);
+    font-weight: 900;
+    z-index: -100;
+  }
+  /* Simple table for patient info to avoid padding issues */
+  .info-table { border-collapse: collapse; }
+  .info-table td { padding: 3px 15px 3px 0; border: none; font-size: 10pt; }
+</style>
+</head>
+<body>
+
+{% if cancelled %}
+<div class="watermark">ANNULÉE</div>
+{% endif %}
+
+<table style="width: 100%; border-bottom: 2px solid #546FFF; padding-bottom: 15px; margin-bottom: 25px;">
+  <tr>
+    <td style="border: none; padding: 0; vertical-align: top;">
+      <div class="brand-logo">
+        <div class="brand-icon">
+          <!-- Inline SVG for MedEra Pulse -->
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
+          </svg>
+        </div>
+        <span class="brand-text">MedEra</span>
+      </div>
+      <div class="subtitle">Système de Gestion Clinique</div>
+    </td>
+    <td style="border: none; padding: 0; text-align: right; vertical-align: top;" class="doc-info">
+      <div class="doc-name">Dr. {{ doctor.full_name }}</div>
+      <div>{{ doctor.specialty|default:"Médecine Générale" }}</div>
+      {% if doctor.phone %}<div>Tél : {{ doctor.phone }}</div>{% endif %}
+      {% if doctor.email %}<div>{{ doctor.email }}</div>{% endif %}
+    </td>
+  </tr>
+</table>
+
+<div class="prescription-meta">
+  <strong>Ordonnance N° {{ prescription.id|stringformat:"s"|slice:":8"|upper }}</strong><br />
+  Émise le : {% language 'fr' %}{{ prescription.issued_at|date:"d F Y"|lower }}{% endlanguage %}
+</div>
+
+<div class="patient-card">
+  <h2>Informations du Patient</h2>
+  <table class="info-table">
+    <tr style="background: transparent;">
+      <td><strong>Nom complet :</strong></td>
+      <td>{{ patient.first_name }} {{ patient.last_name }}</td>
+    </tr>
+    <tr style="background: transparent;">
+      <td><strong>Date de naissance :</strong></td>
+      <td>{% language 'fr' %}{{ patient.date_of_birth|date:"d F Y"|lower|default:"Non spécifiée" }}{% endlanguage %}</td>
+    </tr>
+    {% if patient.blood_type %}
+    <tr style="background: transparent;">
+      <td><strong>Groupe sanguin :</strong></td>
+      <td>{{ patient.blood_type }}</td>
+    </tr>
+    {% endif %}
+  </table>
+</div>
+
+<h2 style="font-size: 14pt; color: #0f172a; margin-bottom: 10px; border-bottom: 2px solid #e2e8f0; padding-bottom: 5px;">Médicaments Prescrits</h2>
+<table class="medications-table">
+  <thead>
+    <tr>
+      <th style="width: 5%;">#</th>
+      <th style="width: 25%;">Médicament</th>
+      <th style="width: 15%;">Dosage & Forme</th>
+      <th style="width: 25%;">Posologie</th>
+      <th style="width: 10%;">Durée</th>
+      <th style="width: 20%;">Instructions Spéciales</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for med in medication_lines %}
+    <tr>
+      <td>{{ forloop.counter }}</td>
+      <td><strong>{{ med.drug_name }}</strong></td>
+      <td>
+        {{ med.dosage }}<br/>
+        <span style="font-size: 8pt; color: #64748b;">{{ med.form|default:"" }}</span>
+      </td>
+      <td>{{ med.dosology }}</td>
+      <td>{% if med.duration_days %}{{ med.duration_days }} jours{% else %}-{% endif %}</td>
+      <td><span style="font-size: 9pt; color: #475569;">{{ med.special_instructions|default:"-" }}</span></td>
+    </tr>
+    {% empty %}
+    <tr>
+      <td colspan="6" style="text-align: center; color: #64748b; padding: 20px;">Aucun médicament prescrit.</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% if prescription.general_instructions %}
+<div class="notes-section">
+  <h3>Instructions Générales</h3>
+  <p style="margin: 0; font-size: 9.5pt;">{{ prescription.general_instructions }}</p>
+</div>
+{% endif %}
+
+<div style="clear: both;"></div>
+
+<div class="signature-block">
+  <div class="sig-line"></div>
+  <strong>Signature & Cachet</strong><br />
+  <span style="font-size: 9pt; color: #64748b;">Dr. {{ doctor.last_name }}</span>
+</div>
+
+<div class="footer">
+  Ce document a été généré électroniquement par MedEra. Pour toute question, veuillez contacter votre médecin traitant.
+</div>
+</body>
+</html>

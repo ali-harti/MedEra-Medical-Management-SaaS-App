@@ -1,0 +1,17 @@
+{
+    "Malaria": "B54",
+    "Paludisme": "B54",
+    "Pyelonephritis": "N12",
+    "Pyélonéphrite": "N12",
+    "Encephalitis": "G04.90",
+    "Encéphalite": "G04.90",
+    "Pneumonia": "J18.9",
+    "Pneumonie": "J18.9",
+    "Hypertension": "I10",
+    "Diabetes": "E11.9",
+    "Diabète": "E11.9",
+    "Tuberculosis": "A15.0",
+    "Tuberculose": "A15.0",
+    "Influenza (Flu)": "J11.1",
+    "Grippe": "J11.1"
+}

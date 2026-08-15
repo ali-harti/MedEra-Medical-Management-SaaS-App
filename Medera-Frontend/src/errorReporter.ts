@@ -1,0 +1,30 @@
+window.onerror = function(message, source, lineno, colno, error) {
+  const div = document.createElement('div');
+  div.style.position = 'fixed';
+  div.style.top = '0';
+  div.style.left = '0';
+  div.style.width = '100vw';
+  div.style.height = '100vh';
+  div.style.backgroundColor = 'red';
+  div.style.color = 'white';
+  div.style.zIndex = '999999';
+  div.style.padding = '20px';
+  div.style.overflow = 'auto';
+  div.innerHTML = '<h1>GLOBAL ERROR CAUGHT</h1><pre>' + message + '\n' + (error ? error.stack : '') + '</pre>';
+  document.body.appendChild(div);
+};
+window.onunhandledrejection = function(event) {
+  const div = document.createElement('div');
+  div.style.position = 'fixed';
+  div.style.top = '0';
+  div.style.left = '0';
+  div.style.width = '100vw';
+  div.style.height = '100vh';
+  div.style.backgroundColor = 'darkred';
+  div.style.color = 'white';
+  div.style.zIndex = '999999';
+  div.style.padding = '20px';
+  div.style.overflow = 'auto';
+  div.innerHTML = '<h1>PROMISE ERROR CAUGHT</h1><pre>' + event.reason + '\n' + (event.reason ? event.reason.stack : '') + '</pre>';
+  document.body.appendChild(div);
+};

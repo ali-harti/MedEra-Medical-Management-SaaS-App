@@ -1,0 +1,4622 @@
+[
+  {
+    "value": "abdominal_cramps",
+    "label_en": "Abdominal cramps",
+    "label_fr": "Abdominal cramps"
+  },
+  {
+    "value": "abdominal_distension",
+    "label_en": "Abdominal distension",
+    "label_fr": "Abdominal distension"
+  },
+  {
+    "value": "abdominal_or_back_pain",
+    "label_en": "Abdominal or back pain",
+    "label_fr": "Abdominal or back pain"
+  },
+  {
+    "value": "abdominal_or_flank_pain",
+    "label_en": "Abdominal or flank pain",
+    "label_fr": "Abdominal or flank pain"
+  },
+  {
+    "value": "abdominal_pain",
+    "label_en": "Abdominal pain",
+    "label_fr": "Abdominal pain"
+  },
+  {
+    "value": "abdominal_pain_often_in_the_upper_right_quadrant",
+    "label_en": "Abdominal pain often in the upper right quadrant",
+    "label_fr": "Abdominal pain often in the upper right quadrant"
+  },
+  {
+    "value": "abdominal_pain_or_bloating",
+    "label_en": "Abdominal pain or bloating",
+    "label_fr": "Abdominal pain or bloating"
+  },
+  {
+    "value": "abdominal_pain_or_cramping",
+    "label_en": "Abdominal pain or cramping",
+    "label_fr": "Abdominal pain or cramping"
+  },
+  {
+    "value": "abdominal_pain_or_cramps",
+    "label_en": "Abdominal pain or cramps",
+    "label_fr": "Abdominal pain or cramps"
+  },
+  {
+    "value": "abdominal_pain_or_discomfort",
+    "label_en": "Abdominal pain or discomfort",
+    "label_fr": "Abdominal pain or discomfort"
+  },
+  {
+    "value": "abdominal_pain_or_swelling",
+    "label_en": "Abdominal pain or swelling",
+    "label_fr": "Abdominal pain or swelling"
+  },
+  {
+    "value": "abdominal_swelling_ascites",
+    "label_en": "Abdominal swelling ascites",
+    "label_fr": "Abdominal swelling ascites"
+  },
+  {
+    "value": "abdominal_swelling_or_pain",
+    "label_en": "Abdominal swelling or pain",
+    "label_fr": "Abdominal swelling or pain"
+  },
+  {
+    "value": "abdominal_tenderness",
+    "label_en": "Abdominal tenderness",
+    "label_fr": "Abdominal tenderness"
+  },
+  {
+    "value": "abnormal_bleeding_or_spotting",
+    "label_en": "Abnormal bleeding or spotting",
+    "label_fr": "Abnormal bleeding or spotting"
+  },
+  {
+    "value": "abnormal_discharge_from_the_genitals",
+    "label_en": "Abnormal discharge from the genitals",
+    "label_fr": "Abnormal discharge from the genitals"
+  },
+  {
+    "value": "abnormal_menstruation",
+    "label_en": "Abnormal menstruation",
+    "label_fr": "Abnormal menstruation"
+  },
+  {
+    "value": "abnormal_positioning_of_the_testicle_s_higher_in_the_groin_area",
+    "label_en": "Abnormal positioning of the testicle s higher in the groin area",
+    "label_fr": "Abnormal positioning of the testicle s higher in the groin area"
+  },
+  {
+    "value": "abnormal_positioning_of_the_urethral_opening_on_the_underside_of_the_penis",
+    "label_en": "Abnormal positioning of the urethral opening on the underside of the penis",
+    "label_fr": "Abnormal positioning of the urethral opening on the underside of the penis"
+  },
+  {
+    "value": "abnormal_sweating",
+    "label_en": "Abnormal sweating",
+    "label_fr": "Abnormal sweating"
+  },
+  {
+    "value": "abnormal_vaginal_bleeding",
+    "label_en": "Abnormal vaginal bleeding",
+    "label_fr": "Abnormal vaginal bleeding"
+  },
+  {
+    "value": "abnormal_vaginal_bleeding_outside_of_the_menstrual_period",
+    "label_en": "Abnormal vaginal bleeding outside of the menstrual period",
+    "label_fr": "Abnormal vaginal bleeding outside of the menstrual period"
+  },
+  {
+    "value": "abscess_formation",
+    "label_en": "Abscess formation",
+    "label_fr": "Abscess formation"
+  },
+  {
+    "value": "absence_or_undescended_testicle_s",
+    "label_en": "Absence or undescended testicle s",
+    "label_fr": "Absence or undescended testicle s"
+  },
+  {
+    "value": "acid_reflux",
+    "label_en": "Acid reflux",
+    "label_fr": "Acid reflux"
+  },
+  {
+    "value": "acidic_taste",
+    "label_en": "Acidic taste",
+    "label_fr": "Acidic taste"
+  },
+  {
+    "value": "acidity",
+    "label_en": "Acidity",
+    "label_fr": "Acidity"
+  },
+  {
+    "value": "acne",
+    "label_en": "Acne",
+    "label_fr": "Acne"
+  },
+  {
+    "value": "acute_liver_failure",
+    "label_en": "Acute liver failure",
+    "label_fr": "Acute liver failure"
+  },
+  {
+    "value": "age_related_factors",
+    "label_en": "Age related factors",
+    "label_fr": "Age related factors"
+  },
+  {
+    "value": "altered_judgment",
+    "label_en": "Altered judgment",
+    "label_fr": "Altered judgment"
+  },
+  {
+    "value": "altered_perception_of_reality",
+    "label_en": "Altered perception of reality",
+    "label_fr": "Altered perception of reality"
+  },
+  {
+    "value": "altered_perception_of_time",
+    "label_en": "Altered perception of time",
+    "label_fr": "Altered perception of time"
+  },
+  {
+    "value": "altered_sensorium",
+    "label_en": "Altered sensorium",
+    "label_fr": "Altered sensorium"
+  },
+  {
+    "value": "anal_or_vaginal_discharge",
+    "label_en": "Anal or vaginal discharge",
+    "label_fr": "Anal or vaginal discharge"
+  },
+  {
+    "value": "and_abnormal_head_positioning",
+    "label_en": "And abnormal head positioning",
+    "label_fr": "And abnormal head positioning"
+  },
+  {
+    "value": "and_oily_patches_of_skin",
+    "label_en": "And oily patches of skin",
+    "label_fr": "And oily patches of skin"
+  },
+  {
+    "value": "and_other_organs",
+    "label_en": "And other organs",
+    "label_fr": "And other organs"
+  },
+  {
+    "value": "and_pain_in_the_hand_and_fingers",
+    "label_en": "And pain in the hand and fingers",
+    "label_fr": "And pain in the hand and fingers"
+  },
+  {
+    "value": "and_psychiatric_symptoms",
+    "label_en": "And psychiatric symptoms",
+    "label_fr": "And psychiatric symptoms"
+  },
+  {
+    "value": "and_signs_of_fluid_overload",
+    "label_en": "And signs of fluid overload",
+    "label_fr": "And signs of fluid overload"
+  },
+  {
+    "value": "and_tenderness_along_a_vein",
+    "label_en": "And tenderness along a vein",
+    "label_fr": "And tenderness along a vein"
+  },
+  {
+    "value": "anemia",
+    "label_en": "Anemia",
+    "label_fr": "Anemia"
+  },
+  {
+    "value": "anxiety",
+    "label_en": "Anxiety",
+    "label_fr": "Anxiety"
+  },
+  {
+    "value": "anxiety_or_paranoia_in_some_individuals",
+    "label_en": "Anxiety or paranoia in some individuals",
+    "label_fr": "Anxiety or paranoia in some individuals"
+  },
+  {
+    "value": "anxiety_when_attempting_to_stop_or_reduce_use",
+    "label_en": "Anxiety when attempting to stop or reduce use",
+    "label_fr": "Anxiety when attempting to stop or reduce use"
+  },
+  {
+    "value": "apid_breathing",
+    "label_en": "Apid breathing",
+    "label_fr": "Apid breathing"
+  },
+  {
+    "value": "arm",
+    "label_en": "Arm",
+    "label_fr": "Arm"
+  },
+  {
+    "value": "back_or_flank_pain",
+    "label_en": "Back or flank pain",
+    "label_fr": "Back or flank pain"
+  },
+  {
+    "value": "back_pain",
+    "label_en": "Back pain",
+    "label_fr": "Back pain"
+  },
+  {
+    "value": "backache",
+    "label_en": "Backache",
+    "label_fr": "Backache"
+  },
+  {
+    "value": "bad_breath",
+    "label_en": "Bad breath",
+    "label_fr": "Bad breath"
+  },
+  {
+    "value": "bad_taste",
+    "label_en": "Bad taste",
+    "label_fr": "Bad taste"
+  },
+  {
+    "value": "balance_problems",
+    "label_en": "Balance problems",
+    "label_fr": "Balance problems"
+  },
+  {
+    "value": "bedwetting_in_children",
+    "label_en": "Bedwetting in children",
+    "label_fr": "Bedwetting in children"
+  },
+  {
+    "value": "belly_pain",
+    "label_en": "Belly pain",
+    "label_fr": "Belly pain"
+  },
+  {
+    "value": "benign_tumors_in_various_organs",
+    "label_en": "Benign tumors in various organs",
+    "label_fr": "Benign tumors in various organs"
+  },
+  {
+    "value": "black",
+    "label_en": "Black",
+    "label_fr": "Black"
+  },
+  {
+    "value": "blackheads",
+    "label_en": "Blackheads",
+    "label_fr": "Blackheads"
+  },
+  {
+    "value": "bladder_discomfort",
+    "label_en": "Bladder discomfort",
+    "label_fr": "Bladder discomfort"
+  },
+  {
+    "value": "bleeding",
+    "label_en": "Bleeding",
+    "label_fr": "Bleeding"
+  },
+  {
+    "value": "bleeding_after_menopause",
+    "label_en": "Bleeding after menopause",
+    "label_fr": "Bleeding after menopause"
+  },
+  {
+    "value": "bleeding_after_sexual_intercourse",
+    "label_en": "Bleeding after sexual intercourse",
+    "label_fr": "Bleeding after sexual intercourse"
+  },
+  {
+    "value": "bleeding_gums",
+    "label_en": "Bleeding gums",
+    "label_fr": "Bleeding gums"
+  },
+  {
+    "value": "bleeding_tendencies",
+    "label_en": "Bleeding tendencies",
+    "label_fr": "Bleeding tendencies"
+  },
+  {
+    "value": "blindness",
+    "label_en": "Blindness",
+    "label_fr": "Blindness"
+  },
+  {
+    "value": "blister",
+    "label_en": "Blister",
+    "label_fr": "Blister"
+  },
+  {
+    "value": "blistering",
+    "label_en": "Blistering",
+    "label_fr": "Blistering"
+  },
+  {
+    "value": "bloating",
+    "label_en": "Bloating",
+    "label_fr": "Bloating"
+  },
+  {
+    "value": "blood_in_sputum",
+    "label_en": "Blood in sputum",
+    "label_fr": "Blood in sputum"
+  },
+  {
+    "value": "blood_in_the_urine",
+    "label_en": "Blood in the urine",
+    "label_fr": "Blood in the urine"
+  },
+  {
+    "value": "blood_in_urine",
+    "label_en": "Blood in urine",
+    "label_fr": "Blood in urine"
+  },
+  {
+    "value": "blood_in_urine_or_stool",
+    "label_en": "Blood in urine or stool",
+    "label_fr": "Blood in urine or stool"
+  },
+  {
+    "value": "bloodshot_eyes",
+    "label_en": "Bloodshot eyes",
+    "label_fr": "Bloodshot eyes"
+  },
+  {
+    "value": "bloody_or_black_stools",
+    "label_en": "Bloody or black stools",
+    "label_fr": "Bloody or black stools"
+  },
+  {
+    "value": "bloody_stool",
+    "label_en": "Bloody stool",
+    "label_fr": "Bloody stool"
+  },
+  {
+    "value": "bloody_stools",
+    "label_en": "Bloody stools",
+    "label_fr": "Bloody stools"
+  },
+  {
+    "value": "blurred_and_distorted_vision",
+    "label_en": "Blurred and distorted vision",
+    "label_fr": "Blurred and distorted vision"
+  },
+  {
+    "value": "blurred_distance_vision",
+    "label_en": "Blurred distance vision",
+    "label_fr": "Blurred distance vision"
+  },
+  {
+    "value": "blurred_or_decreased_vision",
+    "label_en": "Blurred or decreased vision",
+    "label_fr": "Blurred or decreased vision"
+  },
+  {
+    "value": "blurred_or_distorted_vision",
+    "label_en": "Blurred or distorted vision",
+    "label_fr": "Blurred or distorted vision"
+  },
+  {
+    "value": "blurred_or_hazy_vision",
+    "label_en": "Blurred or hazy vision",
+    "label_fr": "Blurred or hazy vision"
+  },
+  {
+    "value": "blurred_vision",
+    "label_en": "Blurred vision",
+    "label_fr": "Blurred vision"
+  },
+  {
+    "value": "blurred_vision_if_the_chalazion_affects_the_line_of_sight",
+    "label_en": "Blurred vision if the chalazion affects the line of sight",
+    "label_fr": "Blurred vision if the chalazion affects the line of sight"
+  },
+  {
+    "value": "blurry_vision",
+    "label_en": "Blurry vision",
+    "label_fr": "Blurry vision"
+  },
+  {
+    "value": "body_aches",
+    "label_en": "Body aches",
+    "label_fr": "Body aches"
+  },
+  {
+    "value": "bone_pain",
+    "label_en": "Bone pain",
+    "label_fr": "Bone pain"
+  },
+  {
+    "value": "bowel_movement_difficulties",
+    "label_en": "Bowel movement difficulties",
+    "label_fr": "Bowel movement difficulties"
+  },
+  {
+    "value": "bowel_obstruction",
+    "label_en": "Bowel obstruction",
+    "label_fr": "Bowel obstruction"
+  },
+  {
+    "value": "brain",
+    "label_en": "Brain",
+    "label_fr": "Brain"
+  },
+  {
+    "value": "breast_lump",
+    "label_en": "Breast lump",
+    "label_fr": "Breast lump"
+  },
+  {
+    "value": "breast_pain",
+    "label_en": "Breast pain",
+    "label_fr": "Breast pain"
+  },
+  {
+    "value": "breast_tenderness",
+    "label_en": "Breast tenderness",
+    "label_fr": "Breast tenderness"
+  },
+  {
+    "value": "breathlessness",
+    "label_en": "Breathlessness",
+    "label_fr": "Breathlessness"
+  },
+  {
+    "value": "brief_muscle_contractions_or_jerks",
+    "label_en": "Brief muscle contractions or jerks",
+    "label_fr": "Brief muscle contractions or jerks"
+  },
+  {
+    "value": "brittle_nails",
+    "label_en": "Brittle nails",
+    "label_fr": "Brittle nails"
+  },
+  {
+    "value": "bruising",
+    "label_en": "Bruising",
+    "label_fr": "Bruising"
+  },
+  {
+    "value": "burning",
+    "label_en": "Burning",
+    "label_fr": "Burning"
+  },
+  {
+    "value": "burning_micturition",
+    "label_en": "Burning micturition",
+    "label_fr": "Burning micturition"
+  },
+  {
+    "value": "burning_sensation_during_urination",
+    "label_en": "Burning sensation during urination",
+    "label_fr": "Burning sensation during urination"
+  },
+  {
+    "value": "challenges_with_social_interaction",
+    "label_en": "Challenges with social interaction",
+    "label_fr": "Challenges with social interaction"
+  },
+  {
+    "value": "changes_in_appetite_or_sleep_patterns",
+    "label_en": "Changes in appetite or sleep patterns",
+    "label_fr": "Changes in appetite or sleep patterns"
+  },
+  {
+    "value": "changes_in_bowel_movements",
+    "label_en": "Changes in bowel movements",
+    "label_fr": "Changes in bowel movements"
+  },
+  {
+    "value": "changes_in_bowel_or_bladder_habits",
+    "label_en": "Changes in bowel or bladder habits",
+    "label_fr": "Changes in bowel or bladder habits"
+  },
+  {
+    "value": "changes_in_breast_size_or_shape",
+    "label_en": "Changes in breast size or shape",
+    "label_fr": "Changes in breast size or shape"
+  },
+  {
+    "value": "changes_in_coordination_or_balance",
+    "label_en": "Changes in coordination or balance",
+    "label_fr": "Changes in coordination or balance"
+  },
+  {
+    "value": "changes_in_heart_rate",
+    "label_en": "Changes in heart rate",
+    "label_fr": "Changes in heart rate"
+  },
+  {
+    "value": "changes_in_sensory_experiences",
+    "label_en": "Changes in sensory experiences",
+    "label_fr": "Changes in sensory experiences"
+  },
+  {
+    "value": "changes_in_skin_color_or_temperature",
+    "label_en": "Changes in skin color or temperature",
+    "label_fr": "Changes in skin color or temperature"
+  },
+  {
+    "value": "changes_in_skin_temperature",
+    "label_en": "Changes in skin temperature",
+    "label_fr": "Changes in skin temperature"
+  },
+  {
+    "value": "changes_in_sleep_and_appetite",
+    "label_en": "Changes in sleep and appetite",
+    "label_fr": "Changes in sleep and appetite"
+  },
+  {
+    "value": "changes_in_testicular_size_or_shape",
+    "label_en": "Changes in testicular size or shape",
+    "label_fr": "Changes in testicular size or shape"
+  },
+  {
+    "value": "changes_in_vision",
+    "label_en": "Changes in vision",
+    "label_fr": "Changes in vision"
+  },
+  {
+    "value": "chest_congestion",
+    "label_en": "Chest congestion",
+    "label_fr": "Chest congestion"
+  },
+  {
+    "value": "chest_discomfort_or_tightness",
+    "label_en": "Chest discomfort or tightness",
+    "label_fr": "Chest discomfort or tightness"
+  },
+  {
+    "value": "chest_or_back_pain",
+    "label_en": "Chest or back pain",
+    "label_fr": "Chest or back pain"
+  },
+  {
+    "value": "chest_pain",
+    "label_en": "Chest pain",
+    "label_fr": "Chest pain"
+  },
+  {
+    "value": "chest_pain_or_angina",
+    "label_en": "Chest pain or angina",
+    "label_fr": "Chest pain or angina"
+  },
+  {
+    "value": "chest_pain_or_discomfort",
+    "label_en": "Chest pain or discomfort",
+    "label_fr": "Chest pain or discomfort"
+  },
+  {
+    "value": "chest_pain_or_discomfort_angina",
+    "label_en": "Chest pain or discomfort angina",
+    "label_fr": "Chest pain or discomfort angina"
+  },
+  {
+    "value": "chest_pain_or_pressure",
+    "label_en": "Chest pain or pressure",
+    "label_fr": "Chest pain or pressure"
+  },
+  {
+    "value": "chest_pain_sharp_and_stabbing",
+    "label_en": "Chest pain sharp and stabbing",
+    "label_fr": "Chest pain sharp and stabbing"
+  },
+  {
+    "value": "chest_pain_sharp_or_dull",
+    "label_en": "Chest pain sharp or dull",
+    "label_fr": "Chest pain sharp or dull"
+  },
+  {
+    "value": "chest_tightness",
+    "label_en": "Chest tightness",
+    "label_fr": "Chest tightness"
+  },
+  {
+    "value": "chest_wall_bruising",
+    "label_en": "Chest wall bruising",
+    "label_fr": "Chest wall bruising"
+  },
+  {
+    "value": "chills",
+    "label_en": "Chills",
+    "label_fr": "Chills"
+  },
+  {
+    "value": "choking_or_gagging",
+    "label_en": "Choking or gagging",
+    "label_fr": "Choking or gagging"
+  },
+  {
+    "value": "cholecystectomy",
+    "label_en": "Cholecystectomy",
+    "label_fr": "Cholecystectomy"
+  },
+  {
+    "value": "chronic_back_pain_and_stiffness",
+    "label_en": "Chronic back pain and stiffness",
+    "label_fr": "Chronic back pain and stiffness"
+  },
+  {
+    "value": "chronic_constipation",
+    "label_en": "Chronic constipation",
+    "label_fr": "Chronic constipation"
+  },
+  {
+    "value": "chronic_cough",
+    "label_en": "Chronic cough",
+    "label_fr": "Chronic cough"
+  },
+  {
+    "value": "chronic_diarrhea",
+    "label_en": "Chronic diarrhea",
+    "label_fr": "Chronic diarrhea"
+  },
+  {
+    "value": "chronic_pain",
+    "label_en": "Chronic pain",
+    "label_fr": "Chronic pain"
+  },
+  {
+    "value": "clicking_or_popping_sounds_in_the_jaw_joint",
+    "label_en": "Clicking or popping sounds in the jaw joint",
+    "label_fr": "Clicking or popping sounds in the jaw joint"
+  },
+  {
+    "value": "cloudy_or_bloody_urine",
+    "label_en": "Cloudy or bloody urine",
+    "label_fr": "Cloudy or bloody urine"
+  },
+  {
+    "value": "cloudy_or_hazy_eyes",
+    "label_en": "Cloudy or hazy eyes",
+    "label_fr": "Cloudy or hazy eyes"
+  },
+  {
+    "value": "cloudy_urine",
+    "label_en": "Cloudy urine",
+    "label_fr": "Cloudy urine"
+  },
+  {
+    "value": "clumpy_vaginal_discharge_resembling_cottage_cheese",
+    "label_en": "Clumpy vaginal discharge resembling cottage cheese",
+    "label_fr": "Clumpy vaginal discharge resembling cottage cheese"
+  },
+  {
+    "value": "cognitive",
+    "label_en": "Cognitive",
+    "label_fr": "Cognitive"
+  },
+  {
+    "value": "cognitive_decline_or_dementia_like_symptoms",
+    "label_en": "Cognitive decline or dementia like symptoms",
+    "label_fr": "Cognitive decline or dementia like symptoms"
+  },
+  {
+    "value": "cognitive_difficulties",
+    "label_en": "Cognitive difficulties",
+    "label_fr": "Cognitive difficulties"
+  },
+  {
+    "value": "cognitive_difficulties_fibro_fog",
+    "label_en": "Cognitive difficulties fibro fog",
+    "label_fr": "Cognitive difficulties fibro fog"
+  },
+  {
+    "value": "cognitive_impairments",
+    "label_en": "Cognitive impairments",
+    "label_fr": "Cognitive impairments"
+  },
+  {
+    "value": "cognitive_or_developmental_problems",
+    "label_en": "Cognitive or developmental problems",
+    "label_fr": "Cognitive or developmental problems"
+  },
+  {
+    "value": "cold_hands_and_feets",
+    "label_en": "Cold hands and feets",
+    "label_fr": "Cold hands and feets"
+  },
+  {
+    "value": "color_vision_impairment",
+    "label_en": "Color vision impairment",
+    "label_fr": "Color vision impairment"
+  },
+  {
+    "value": "coma",
+    "label_en": "Coma",
+    "label_fr": "Coma"
+  },
+  {
+    "value": "communication_difficulties",
+    "label_en": "Communication difficulties",
+    "label_fr": "Communication difficulties"
+  },
+  {
+    "value": "compulsive_use_of_opioids",
+    "label_en": "Compulsive use of opioids",
+    "label_fr": "Compulsive use of opioids"
+  },
+  {
+    "value": "confusion",
+    "label_en": "Confusion",
+    "label_fr": "Confusion"
+  },
+  {
+    "value": "congestion",
+    "label_en": "Congestion",
+    "label_fr": "Congestion"
+  },
+  {
+    "value": "constipation",
+    "label_en": "Constipation",
+    "label_fr": "Constipation"
+  },
+  {
+    "value": "continued_use_despite_negative_consequences_such_as_legal_issues",
+    "label_en": "Continued use despite negative consequences such as legal issues",
+    "label_fr": "Continued use despite negative consequences such as legal issues"
+  },
+  {
+    "value": "continued_use_despite_negative_consequences_such_as_relationship_problems",
+    "label_en": "Continued use despite negative consequences such as relationship problems",
+    "label_fr": "Continued use despite negative consequences such as relationship problems"
+  },
+  {
+    "value": "continuous_feel_of_urine",
+    "label_en": "Continuous feel of urine",
+    "label_fr": "Continuous feel of urine"
+  },
+  {
+    "value": "continuous_sneezing",
+    "label_en": "Continuous sneezing",
+    "label_fr": "Continuous sneezing"
+  },
+  {
+    "value": "corneal_abrasions_or_ulcers",
+    "label_en": "Corneal abrasions or ulcers",
+    "label_fr": "Corneal abrasions or ulcers"
+  },
+  {
+    "value": "cough",
+    "label_en": "Cough",
+    "label_fr": "Cough"
+  },
+  {
+    "value": "cough_with_phlegm_or_pus",
+    "label_en": "Cough with phlegm or pus",
+    "label_fr": "Cough with phlegm or pus"
+  },
+  {
+    "value": "coughing",
+    "label_en": "Coughing",
+    "label_fr": "Coughing"
+  },
+  {
+    "value": "coughing_or_wheezing",
+    "label_en": "Coughing or wheezing",
+    "label_fr": "Coughing or wheezing"
+  },
+  {
+    "value": "coughing_up_blood_or_pink_tinged_sputum",
+    "label_en": "Coughing up blood or pink tinged sputum",
+    "label_fr": "Coughing up blood or pink tinged sputum"
+  },
+  {
+    "value": "cramping",
+    "label_en": "Cramping",
+    "label_fr": "Cramping"
+  },
+  {
+    "value": "cramps",
+    "label_en": "Cramps",
+    "label_fr": "Cramps"
+  },
+  {
+    "value": "cravings_for_alcohol",
+    "label_en": "Cravings for alcohol",
+    "label_fr": "Cravings for alcohol"
+  },
+  {
+    "value": "curtain_like_shadow_over_vision",
+    "label_en": "Curtain like shadow over vision",
+    "label_fr": "Curtain like shadow over vision"
+  },
+  {
+    "value": "cyanosis_bluish_discoloration_of_the_skin",
+    "label_en": "Cyanosis bluish discoloration of the skin",
+    "label_fr": "Cyanosis bluish discoloration of the skin"
+  },
+  {
+    "value": "dandruff",
+    "label_en": "Dandruff",
+    "label_fr": "Dandruff"
+  },
+  {
+    "value": "dark_or_empty_areas_in_the_visual_field",
+    "label_en": "Dark or empty areas in the visual field",
+    "label_fr": "Dark or empty areas in the visual field"
+  },
+  {
+    "value": "dark_spots_on_the_teeth",
+    "label_en": "Dark spots on the teeth",
+    "label_fr": "Dark spots on the teeth"
+  },
+  {
+    "value": "dark_urine",
+    "label_en": "Dark urine",
+    "label_fr": "Dark urine"
+  },
+  {
+    "value": "daytime_sleepiness",
+    "label_en": "Daytime sleepiness",
+    "label_fr": "Daytime sleepiness"
+  },
+  {
+    "value": "decreased_appetite",
+    "label_en": "Decreased appetite",
+    "label_fr": "Decreased appetite"
+  },
+  {
+    "value": "decreased_exercise_tolerance",
+    "label_en": "Decreased exercise tolerance",
+    "label_fr": "Decreased exercise tolerance"
+  },
+  {
+    "value": "decreased_oxygen_levels",
+    "label_en": "Decreased oxygen levels",
+    "label_fr": "Decreased oxygen levels"
+  },
+  {
+    "value": "decreased_urine_output",
+    "label_en": "Decreased urine output",
+    "label_fr": "Decreased urine output"
+  },
+  {
+    "value": "decreased_vision",
+    "label_en": "Decreased vision",
+    "label_fr": "Decreased vision"
+  },
+  {
+    "value": "deformity",
+    "label_en": "Deformity",
+    "label_fr": "Deformity"
+  },
+  {
+    "value": "dehydration",
+    "label_en": "Dehydration",
+    "label_fr": "Dehydration"
+  },
+  {
+    "value": "delayed_wound_healing",
+    "label_en": "Delayed wound healing",
+    "label_fr": "Delayed wound healing"
+  },
+  {
+    "value": "depends_on_the_specific_cranial_nerve_involved_symptoms_can_include_vision_changes",
+    "label_en": "Depends on the specific cranial nerve involved symptoms can include vision changes",
+    "label_fr": "Depends on the specific cranial nerve involved symptoms can include vision changes"
+  },
+  {
+    "value": "depression",
+    "label_en": "Depression",
+    "label_fr": "Depression"
+  },
+  {
+    "value": "depressive_episodes",
+    "label_en": "Depressive episodes",
+    "label_fr": "Depressive episodes"
+  },
+  {
+    "value": "developmental_delays",
+    "label_en": "Developmental delays",
+    "label_fr": "Developmental delays"
+  },
+  {
+    "value": "developmental_delays_in_children",
+    "label_en": "Developmental delays in children",
+    "label_fr": "Developmental delays in children"
+  },
+  {
+    "value": "diarrhea",
+    "label_en": "Diarrhea",
+    "label_fr": "Diarrhea"
+  },
+  {
+    "value": "diarrhoea",
+    "label_en": "Diarrhoea",
+    "label_fr": "Diarrhoea"
+  },
+  {
+    "value": "difficulty",
+    "label_en": "Difficulty",
+    "label_fr": "Difficulty"
+  },
+  {
+    "value": "difficulty_bonding_with_the_baby",
+    "label_en": "Difficulty bonding with the baby",
+    "label_fr": "Difficulty bonding with the baby"
+  },
+  {
+    "value": "difficulty_breathing",
+    "label_en": "Difficulty breathing",
+    "label_fr": "Difficulty breathing"
+  },
+  {
+    "value": "difficulty_breathing_or_shortness_of_breath",
+    "label_en": "Difficulty breathing or shortness of breath",
+    "label_fr": "Difficulty breathing or shortness of breath"
+  },
+  {
+    "value": "difficulty_chewing_or_opening_the_mouth",
+    "label_en": "Difficulty chewing or opening the mouth",
+    "label_fr": "Difficulty chewing or opening the mouth"
+  },
+  {
+    "value": "difficulty_concentrating",
+    "label_en": "Difficulty concentrating",
+    "label_fr": "Difficulty concentrating"
+  },
+  {
+    "value": "difficulty_eating",
+    "label_en": "Difficulty eating",
+    "label_fr": "Difficulty eating"
+  },
+  {
+    "value": "difficulty_emptying_the_bladder",
+    "label_en": "Difficulty emptying the bladder",
+    "label_fr": "Difficulty emptying the bladder"
+  },
+  {
+    "value": "difficulty_falling_asleep_or_staying_asleep",
+    "label_en": "Difficulty falling asleep or staying asleep",
+    "label_fr": "Difficulty falling asleep or staying asleep"
+  },
+  {
+    "value": "difficulty_gripping_or_using_the_finger",
+    "label_en": "Difficulty gripping or using the finger",
+    "label_fr": "Difficulty gripping or using the finger"
+  },
+  {
+    "value": "difficulty_hearing_high_pitched_sounds",
+    "label_en": "Difficulty hearing high pitched sounds",
+    "label_fr": "Difficulty hearing high pitched sounds"
+  },
+  {
+    "value": "difficulty_in_urination",
+    "label_en": "Difficulty in urination",
+    "label_fr": "Difficulty in urination"
+  },
+  {
+    "value": "difficulty_maintaining_proper_posture",
+    "label_en": "Difficulty maintaining proper posture",
+    "label_fr": "Difficulty maintaining proper posture"
+  },
+  {
+    "value": "difficulty_moving",
+    "label_en": "Difficulty moving",
+    "label_fr": "Difficulty moving"
+  },
+  {
+    "value": "difficulty_moving_or_turning_the_head",
+    "label_en": "Difficulty moving or turning the head",
+    "label_fr": "Difficulty moving or turning the head"
+  },
+  {
+    "value": "difficulty_moving_or_using_the_affected_area",
+    "label_en": "Difficulty moving or using the affected area",
+    "label_fr": "Difficulty moving or using the affected area"
+  },
+  {
+    "value": "difficulty_or_poor_urinary_stream",
+    "label_en": "Difficulty or poor urinary stream",
+    "label_fr": "Difficulty or poor urinary stream"
+  },
+  {
+    "value": "difficulty_resisting_urges",
+    "label_en": "Difficulty resisting urges",
+    "label_fr": "Difficulty resisting urges"
+  },
+  {
+    "value": "difficulty_speaking",
+    "label_en": "Difficulty speaking",
+    "label_fr": "Difficulty speaking"
+  },
+  {
+    "value": "difficulty_speaking_or_walking",
+    "label_en": "Difficulty speaking or walking",
+    "label_fr": "Difficulty speaking or walking"
+  },
+  {
+    "value": "difficulty_straightening_or_bending_the_knee",
+    "label_en": "Difficulty straightening or bending the knee",
+    "label_fr": "Difficulty straightening or bending the knee"
+  },
+  {
+    "value": "difficulty_swallowing",
+    "label_en": "Difficulty swallowing",
+    "label_fr": "Difficulty swallowing"
+  },
+  {
+    "value": "difficulty_swallowing_or_breathing",
+    "label_en": "Difficulty swallowing or breathing",
+    "label_fr": "Difficulty swallowing or breathing"
+  },
+  {
+    "value": "difficulty_swallowing_or_speaking",
+    "label_en": "Difficulty swallowing or speaking",
+    "label_fr": "Difficulty swallowing or speaking"
+  },
+  {
+    "value": "difficulty_walking",
+    "label_en": "Difficulty walking",
+    "label_fr": "Difficulty walking"
+  },
+  {
+    "value": "difficulty_walking_or_moving",
+    "label_en": "Difficulty walking or moving",
+    "label_fr": "Difficulty walking or moving"
+  },
+  {
+    "value": "difficulty_with_foot_and_ankle_movement",
+    "label_en": "Difficulty with foot and ankle movement",
+    "label_fr": "Difficulty with foot and ankle movement"
+  },
+  {
+    "value": "difficulty_with_forearm_movements",
+    "label_en": "Difficulty with forearm movements",
+    "label_fr": "Difficulty with forearm movements"
+  },
+  {
+    "value": "dilated_pupils",
+    "label_en": "Dilated pupils",
+    "label_fr": "Dilated pupils"
+  },
+  {
+    "value": "discharge",
+    "label_en": "Discharge",
+    "label_fr": "Discharge"
+  },
+  {
+    "value": "discharge_from_the_eye",
+    "label_en": "Discharge from the eye",
+    "label_fr": "Discharge from the eye"
+  },
+  {
+    "value": "discharge_from_the_nose",
+    "label_en": "Discharge from the nose",
+    "label_fr": "Discharge from the nose"
+  },
+  {
+    "value": "discharge_from_the_wound",
+    "label_en": "Discharge from the wound",
+    "label_fr": "Discharge from the wound"
+  },
+  {
+    "value": "dischromic_patches",
+    "label_en": "Dischromic patches",
+    "label_fr": "Dischromic patches"
+  },
+  {
+    "value": "discomfort",
+    "label_en": "Discomfort",
+    "label_fr": "Discomfort"
+  },
+  {
+    "value": "discomfort_or_pain_during_intercourse",
+    "label_en": "Discomfort or pain during intercourse",
+    "label_fr": "Discomfort or pain during intercourse"
+  },
+  {
+    "value": "discomfort_or_pain_in_the_neck",
+    "label_en": "Discomfort or pain in the neck",
+    "label_fr": "Discomfort or pain in the neck"
+  },
+  {
+    "value": "distention_of_abdomen",
+    "label_en": "Distention of abdomen",
+    "label_fr": "Distention of abdomen"
+  },
+  {
+    "value": "distinct_facial_features_small_jaw",
+    "label_en": "Distinct facial features small jaw",
+    "label_fr": "Distinct facial features small jaw"
+  },
+  {
+    "value": "distorted_body_image",
+    "label_en": "Distorted body image",
+    "label_fr": "Distorted body image"
+  },
+  {
+    "value": "distorted_or_irregular_corneal_shape",
+    "label_en": "Distorted or irregular corneal shape",
+    "label_fr": "Distorted or irregular corneal shape"
+  },
+  {
+    "value": "dizziness",
+    "label_en": "Dizziness",
+    "label_fr": "Dizziness"
+  },
+  {
+    "value": "dizziness_or_balance_problems",
+    "label_en": "Dizziness or balance problems",
+    "label_fr": "Dizziness or balance problems"
+  },
+  {
+    "value": "dizziness_or_lightheadedness",
+    "label_en": "Dizziness or lightheadedness",
+    "label_fr": "Dizziness or lightheadedness"
+  },
+  {
+    "value": "dizziness_or_vertigo",
+    "label_en": "Dizziness or vertigo",
+    "label_fr": "Dizziness or vertigo"
+  },
+  {
+    "value": "double_vision",
+    "label_en": "Double vision",
+    "label_fr": "Double vision"
+  },
+  {
+    "value": "drainage_of_fluid_or_pus_from_the_ear",
+    "label_en": "Drainage of fluid or pus from the ear",
+    "label_fr": "Drainage of fluid or pus from the ear"
+  },
+  {
+    "value": "drainage_of_pus_or_blood",
+    "label_en": "Drainage of pus or blood",
+    "label_fr": "Drainage of pus or blood"
+  },
+  {
+    "value": "drooling",
+    "label_en": "Drooling",
+    "label_fr": "Drooling"
+  },
+  {
+    "value": "drowsiness",
+    "label_en": "Drowsiness",
+    "label_fr": "Drowsiness"
+  },
+  {
+    "value": "drug_cravings",
+    "label_en": "Drug cravings",
+    "label_fr": "Drug cravings"
+  },
+  {
+    "value": "dry_cough",
+    "label_en": "Dry cough",
+    "label_fr": "Dry cough"
+  },
+  {
+    "value": "dry_eyes",
+    "label_en": "Dry eyes",
+    "label_fr": "Dry eyes"
+  },
+  {
+    "value": "dry_mouth",
+    "label_en": "Dry mouth",
+    "label_fr": "Dry mouth"
+  },
+  {
+    "value": "dry_mouth_and_eyes",
+    "label_en": "Dry mouth and eyes",
+    "label_fr": "Dry mouth and eyes"
+  },
+  {
+    "value": "dry_or_rough_skin",
+    "label_en": "Dry or rough skin",
+    "label_fr": "Dry or rough skin"
+  },
+  {
+    "value": "dry_skin",
+    "label_en": "Dry skin",
+    "label_fr": "Dry skin"
+  },
+  {
+    "value": "drying_and_tingling_lips",
+    "label_en": "Drying and tingling lips",
+    "label_fr": "Drying and tingling lips"
+  },
+  {
+    "value": "dryness_or_excessive_tearing",
+    "label_en": "Dryness or excessive tearing",
+    "label_fr": "Dryness or excessive tearing"
+  },
+  {
+    "value": "ear_drainage",
+    "label_en": "Ear drainage",
+    "label_fr": "Ear drainage"
+  },
+  {
+    "value": "ear_fullness",
+    "label_en": "Ear fullness",
+    "label_fr": "Ear fullness"
+  },
+  {
+    "value": "ear_pain",
+    "label_en": "Ear pain",
+    "label_fr": "Ear pain"
+  },
+  {
+    "value": "ear_pain_particularly_behind_the_ear",
+    "label_en": "Ear pain particularly behind the ear",
+    "label_fr": "Ear pain particularly behind the ear"
+  },
+  {
+    "value": "earache",
+    "label_en": "Earache",
+    "label_fr": "Earache"
+  },
+  {
+    "value": "early_satiety",
+    "label_en": "Early satiety",
+    "label_fr": "Early satiety"
+  },
+  {
+    "value": "easy_bleeding_or_bruising",
+    "label_en": "Easy bleeding or bruising",
+    "label_fr": "Easy bleeding or bruising"
+  },
+  {
+    "value": "easy_bruising",
+    "label_en": "Easy bruising",
+    "label_fr": "Easy bruising"
+  },
+  {
+    "value": "easy_bruising_and_bleeding",
+    "label_en": "Easy bruising and bleeding",
+    "label_fr": "Easy bruising and bleeding"
+  },
+  {
+    "value": "easy_bruising_or_bleeding",
+    "label_en": "Easy bruising or bleeding",
+    "label_fr": "Easy bruising or bleeding"
+  },
+  {
+    "value": "easy_or_excessive_bruising",
+    "label_en": "Easy or excessive bruising",
+    "label_fr": "Easy or excessive bruising"
+  },
+  {
+    "value": "elevated_cholesterol_levels",
+    "label_en": "Elevated cholesterol levels",
+    "label_fr": "Elevated cholesterol levels"
+  },
+  {
+    "value": "elevated_liver_enzymes",
+    "label_en": "Elevated liver enzymes",
+    "label_fr": "Elevated liver enzymes"
+  },
+  {
+    "value": "emotional_distress",
+    "label_en": "Emotional distress",
+    "label_fr": "Emotional distress"
+  },
+  {
+    "value": "emptiness",
+    "label_en": "Emptiness",
+    "label_fr": "Emptiness"
+  },
+  {
+    "value": "empty_scrotum",
+    "label_en": "Empty scrotum",
+    "label_fr": "Empty scrotum"
+  },
+  {
+    "value": "endoscopic_retrograde_cholangiopancreatography_ercp_with_stone_removal",
+    "label_en": "Endoscopic retrograde cholangiopancreatography ercp with stone removal",
+    "label_fr": "Endoscopic retrograde cholangiopancreatography ercp with stone removal"
+  },
+  {
+    "value": "enlarged",
+    "label_en": "Enlarged",
+    "label_fr": "Enlarged"
+  },
+  {
+    "value": "enlarged_abdomen_or_uterus",
+    "label_en": "Enlarged abdomen or uterus",
+    "label_fr": "Enlarged abdomen or uterus"
+  },
+  {
+    "value": "enlarged_head_in_infants",
+    "label_en": "Enlarged head in infants",
+    "label_fr": "Enlarged head in infants"
+  },
+  {
+    "value": "enlarged_liver",
+    "label_en": "Enlarged liver",
+    "label_fr": "Enlarged liver"
+  },
+  {
+    "value": "enlarged_spleen",
+    "label_en": "Enlarged spleen",
+    "label_fr": "Enlarged spleen"
+  },
+  {
+    "value": "enlarged_spleen_or_liver",
+    "label_en": "Enlarged spleen or liver",
+    "label_fr": "Enlarged spleen or liver"
+  },
+  {
+    "value": "enlarged_thyroid",
+    "label_en": "Enlarged thyroid",
+    "label_fr": "Enlarged thyroid"
+  },
+  {
+    "value": "enlarged_thyroid_gland_in_the_neck",
+    "label_en": "Enlarged thyroid gland in the neck",
+    "label_fr": "Enlarged thyroid gland in the neck"
+  },
+  {
+    "value": "erectile_dysfunction",
+    "label_en": "Erectile dysfunction",
+    "label_fr": "Erectile dysfunction"
+  },
+  {
+    "value": "especially_at_night",
+    "label_en": "Especially at night",
+    "label_fr": "Especially at night"
+  },
+  {
+    "value": "especially_at_night_or_in_response_to_triggers_such_as_allergens_or_exercise",
+    "label_en": "Especially at night or in response to triggers such as allergens or exercise",
+    "label_fr": "Especially at night or in response to triggers such as allergens or exercise"
+  },
+  {
+    "value": "especially_during_physical_activity_or_exertion",
+    "label_en": "Especially during physical activity or exertion",
+    "label_fr": "Especially during physical activity or exertion"
+  },
+  {
+    "value": "especially_in_the_morning_or_after_periods_of_inactivity",
+    "label_en": "Especially in the morning or after periods of inactivity",
+    "label_fr": "Especially in the morning or after periods of inactivity"
+  },
+  {
+    "value": "especially_when_walking_or_standing",
+    "label_en": "Especially when walking or standing",
+    "label_fr": "Especially when walking or standing"
+  },
+  {
+    "value": "euphoria",
+    "label_en": "Euphoria",
+    "label_fr": "Euphoria"
+  },
+  {
+    "value": "excessive_bleeding_and_bruising",
+    "label_en": "Excessive bleeding and bruising",
+    "label_fr": "Excessive bleeding and bruising"
+  },
+  {
+    "value": "excessive_bleeding_from_minor_cuts_or_abrasions",
+    "label_en": "Excessive bleeding from minor cuts or abrasions",
+    "label_fr": "Excessive bleeding from minor cuts or abrasions"
+  },
+  {
+    "value": "excessive_hair_growth",
+    "label_en": "Excessive hair growth",
+    "label_fr": "Excessive hair growth"
+  },
+  {
+    "value": "excessive_hunger",
+    "label_en": "Excessive hunger",
+    "label_fr": "Excessive hunger"
+  },
+  {
+    "value": "excessive_menstrual_bleeding",
+    "label_en": "Excessive menstrual bleeding",
+    "label_fr": "Excessive menstrual bleeding"
+  },
+  {
+    "value": "excessive_sweating_beyond_what_is_necessary_for_temperature_regulation",
+    "label_en": "Excessive sweating beyond what is necessary for temperature regulation",
+    "label_fr": "Excessive sweating beyond what is necessary for temperature regulation"
+  },
+  {
+    "value": "excessive_tearing",
+    "label_en": "Excessive tearing",
+    "label_fr": "Excessive tearing"
+  },
+  {
+    "value": "excessive_thirst",
+    "label_en": "Excessive thirst",
+    "label_fr": "Excessive thirst"
+  },
+  {
+    "value": "excessive_worrying",
+    "label_en": "Excessive worrying",
+    "label_fr": "Excessive worrying"
+  },
+  {
+    "value": "extra_marital_contacts",
+    "label_en": "Extra marital contacts",
+    "label_fr": "Extra marital contacts"
+  },
+  {
+    "value": "extreme_fatigue",
+    "label_en": "Extreme fatigue",
+    "label_fr": "Extreme fatigue"
+  },
+  {
+    "value": "extreme_weight_loss",
+    "label_en": "Extreme weight loss",
+    "label_fr": "Extreme weight loss"
+  },
+  {
+    "value": "eye_discharge",
+    "label_en": "Eye discharge",
+    "label_fr": "Eye discharge"
+  },
+  {
+    "value": "eye_fatigue",
+    "label_en": "Eye fatigue",
+    "label_fr": "Eye fatigue"
+  },
+  {
+    "value": "eye_movement_abnormalities",
+    "label_en": "Eye movement abnormalities",
+    "label_fr": "Eye movement abnormalities"
+  },
+  {
+    "value": "eye_pain",
+    "label_en": "Eye pain",
+    "label_fr": "Eye pain"
+  },
+  {
+    "value": "eye_pain_or_discomfort",
+    "label_en": "Eye pain or discomfort",
+    "label_fr": "Eye pain or discomfort"
+  },
+  {
+    "value": "eye_pain_with_eye_movement",
+    "label_en": "Eye pain with eye movement",
+    "label_fr": "Eye pain with eye movement"
+  },
+  {
+    "value": "eye_redness",
+    "label_en": "Eye redness",
+    "label_fr": "Eye redness"
+  },
+  {
+    "value": "eye_strain",
+    "label_en": "Eye strain",
+    "label_fr": "Eye strain"
+  },
+  {
+    "value": "eyestrain",
+    "label_en": "Eyestrain",
+    "label_fr": "Eyestrain"
+  },
+  {
+    "value": "facial_abnormalities",
+    "label_en": "Facial abnormalities",
+    "label_fr": "Facial abnormalities"
+  },
+  {
+    "value": "facial_changes",
+    "label_en": "Facial changes",
+    "label_fr": "Facial changes"
+  },
+  {
+    "value": "facial_numbness",
+    "label_en": "Facial numbness",
+    "label_fr": "Facial numbness"
+  },
+  {
+    "value": "facial_pain_or_pressure",
+    "label_en": "Facial pain or pressure",
+    "label_fr": "Facial pain or pressure"
+  },
+  {
+    "value": "facial_paralysis",
+    "label_en": "Facial paralysis",
+    "label_fr": "Facial paralysis"
+  },
+  {
+    "value": "facial_weakness",
+    "label_en": "Facial weakness",
+    "label_fr": "Facial weakness"
+  },
+  {
+    "value": "facial_weakness_or_paralysis",
+    "label_en": "Facial weakness or paralysis",
+    "label_fr": "Facial weakness or paralysis"
+  },
+  {
+    "value": "failure_to_pass_meconium_in_newborns",
+    "label_en": "Failure to pass meconium in newborns",
+    "label_fr": "Failure to pass meconium in newborns"
+  },
+  {
+    "value": "failure_to_thrive",
+    "label_en": "Failure to thrive",
+    "label_fr": "Failure to thrive"
+  },
+  {
+    "value": "fainting",
+    "label_en": "Fainting",
+    "label_fr": "Fainting"
+  },
+  {
+    "value": "fainting_or_lightheadedness",
+    "label_en": "Fainting or lightheadedness",
+    "label_fr": "Fainting or lightheadedness"
+  },
+  {
+    "value": "fainting_or_near_fainting_episodes",
+    "label_en": "Fainting or near fainting episodes",
+    "label_fr": "Fainting or near fainting episodes"
+  },
+  {
+    "value": "family_history",
+    "label_en": "Family history",
+    "label_fr": "Family history"
+  },
+  {
+    "value": "fast_heart_rate",
+    "label_en": "Fast heart rate",
+    "label_fr": "Fast heart rate"
+  },
+  {
+    "value": "fatigue",
+    "label_en": "Fatigue",
+    "label_fr": "Fatigue"
+  },
+  {
+    "value": "fatty_deposits_xanthomas_on_the_skin_or_tendons",
+    "label_en": "Fatty deposits xanthomas on the skin or tendons",
+    "label_fr": "Fatty deposits xanthomas on the skin or tendons"
+  },
+  {
+    "value": "fear_of_gaining_weight",
+    "label_en": "Fear of gaining weight",
+    "label_fr": "Fear of gaining weight"
+  },
+  {
+    "value": "fear_of_losing_control",
+    "label_en": "Fear of losing control",
+    "label_fr": "Fear of losing control"
+  },
+  {
+    "value": "feelings_of_connection_or_disconnection",
+    "label_en": "Feelings of connection or disconnection",
+    "label_fr": "Feelings of connection or disconnection"
+  },
+  {
+    "value": "feelings_of_guilt_or_worthlessness",
+    "label_en": "Feelings of guilt or worthlessness",
+    "label_fr": "Feelings of guilt or worthlessness"
+  },
+  {
+    "value": "feet",
+    "label_en": "Feet",
+    "label_fr": "Feet"
+  },
+  {
+    "value": "fever",
+    "label_en": "Fever",
+    "label_fr": "Fever"
+  },
+  {
+    "value": "fever_in_some_cases",
+    "label_en": "Fever in some cases",
+    "label_fr": "Fever in some cases"
+  },
+  {
+    "value": "flaky_scalp",
+    "label_en": "Flaky scalp",
+    "label_fr": "Flaky scalp"
+  },
+  {
+    "value": "flank_pain",
+    "label_en": "Flank pain",
+    "label_fr": "Flank pain"
+  },
+  {
+    "value": "flashbacks_in_some_individuals",
+    "label_en": "Flashbacks in some individuals",
+    "label_fr": "Flashbacks in some individuals"
+  },
+  {
+    "value": "flashes_of_light",
+    "label_en": "Flashes of light",
+    "label_fr": "Flashes of light"
+  },
+  {
+    "value": "flashing_lights_or_floaters",
+    "label_en": "Flashing lights or floaters",
+    "label_fr": "Flashing lights or floaters"
+  },
+  {
+    "value": "floaters",
+    "label_en": "Floaters",
+    "label_fr": "Floaters"
+  },
+  {
+    "value": "floaters_dark_spots_or_cobwebs_in_the_vision",
+    "label_en": "Floaters dark spots or cobwebs in the vision",
+    "label_fr": "Floaters dark spots or cobwebs in the vision"
+  },
+  {
+    "value": "floaters_in_vision",
+    "label_en": "Floaters in vision",
+    "label_fr": "Floaters in vision"
+  },
+  {
+    "value": "floaters_spots_or_cobweb_like_shapes_in_vision",
+    "label_en": "Floaters spots or cobweb like shapes in vision",
+    "label_fr": "Floaters spots or cobweb like shapes in vision"
+  },
+  {
+    "value": "flu_like_symptoms_fever",
+    "label_en": "Flu like symptoms fever",
+    "label_fr": "Flu like symptoms fever"
+  },
+  {
+    "value": "fluid_drainage_from_the_ear",
+    "label_en": "Fluid drainage from the ear",
+    "label_fr": "Fluid drainage from the ear"
+  },
+  {
+    "value": "fluid_overload_1",
+    "label_en": "Fluid overload 1",
+    "label_fr": "Fluid overload 1"
+  },
+  {
+    "value": "fluid_retention",
+    "label_en": "Fluid retention",
+    "label_fr": "Fluid retention"
+  },
+  {
+    "value": "foot_fatigue",
+    "label_en": "Foot fatigue",
+    "label_fr": "Foot fatigue"
+  },
+  {
+    "value": "foot_pain_or_achiness",
+    "label_en": "Foot pain or achiness",
+    "label_fr": "Foot pain or achiness"
+  },
+  {
+    "value": "foreign_body_sensation",
+    "label_en": "Foreign body sensation",
+    "label_fr": "Foreign body sensation"
+  },
+  {
+    "value": "forgetfulness",
+    "label_en": "Forgetfulness",
+    "label_fr": "Forgetfulness"
+  },
+  {
+    "value": "foul_odor_around_the_umbilical_area",
+    "label_en": "Foul odor around the umbilical area",
+    "label_fr": "Foul odor around the umbilical area"
+  },
+  {
+    "value": "foul_smell_of_urine",
+    "label_en": "Foul smell of urine",
+    "label_fr": "Foul smell of urine"
+  },
+  {
+    "value": "fractures",
+    "label_en": "Fractures",
+    "label_fr": "Fractures"
+  },
+  {
+    "value": "fragile_bones",
+    "label_en": "Fragile bones",
+    "label_fr": "Fragile bones"
+  },
+  {
+    "value": "frequent_crying",
+    "label_en": "Frequent crying",
+    "label_fr": "Frequent crying"
+  },
+  {
+    "value": "frequent_infections",
+    "label_en": "Frequent infections",
+    "label_fr": "Frequent infections"
+  },
+  {
+    "value": "frequent_nosebleeds",
+    "label_en": "Frequent nosebleeds",
+    "label_fr": "Frequent nosebleeds"
+  },
+  {
+    "value": "frequent_or_constant_dribbling_of_urine",
+    "label_en": "Frequent or constant dribbling of urine",
+    "label_fr": "Frequent or constant dribbling of urine"
+  },
+  {
+    "value": "frequent_urinary_tract_infections",
+    "label_en": "Frequent urinary tract infections",
+    "label_fr": "Frequent urinary tract infections"
+  },
+  {
+    "value": "frequent_urination",
+    "label_en": "Frequent urination",
+    "label_fr": "Frequent urination"
+  },
+  {
+    "value": "fruity_breath_odor",
+    "label_en": "Fruity breath odor",
+    "label_fr": "Fruity breath odor"
+  },
+  {
+    "value": "fussiness",
+    "label_en": "Fussiness",
+    "label_fr": "Fussiness"
+  },
+  {
+    "value": "gait_disturbances",
+    "label_en": "Gait disturbances",
+    "label_fr": "Gait disturbances"
+  },
+  {
+    "value": "gambling",
+    "label_en": "Gambling",
+    "label_fr": "Gambling"
+  },
+  {
+    "value": "gastrointestinal_bleeding",
+    "label_en": "Gastrointestinal bleeding",
+    "label_fr": "Gastrointestinal bleeding"
+  },
+  {
+    "value": "gastrointestinal_symptoms",
+    "label_en": "Gastrointestinal symptoms",
+    "label_fr": "Gastrointestinal symptoms"
+  },
+  {
+    "value": "general_malaise",
+    "label_en": "General malaise",
+    "label_fr": "General malaise"
+  },
+  {
+    "value": "gonadal_dysgenesis",
+    "label_en": "Gonadal dysgenesis",
+    "label_fr": "Gonadal dysgenesis"
+  },
+  {
+    "value": "gradual_hearing_loss",
+    "label_en": "Gradual hearing loss",
+    "label_fr": "Gradual hearing loss"
+  },
+  {
+    "value": "gradual_vision_loss",
+    "label_en": "Gradual vision loss",
+    "label_fr": "Gradual vision loss"
+  },
+  {
+    "value": "growth_abnormalities_in_children",
+    "label_en": "Growth abnormalities in children",
+    "label_fr": "Growth abnormalities in children"
+  },
+  {
+    "value": "growth_deficiencies",
+    "label_en": "Growth deficiencies",
+    "label_fr": "Growth deficiencies"
+  },
+  {
+    "value": "hair_loss",
+    "label_en": "Hair loss",
+    "label_fr": "Hair loss"
+  },
+  {
+    "value": "hallucinations",
+    "label_en": "Hallucinations",
+    "label_fr": "Hallucinations"
+  },
+  {
+    "value": "halos_around_lights",
+    "label_en": "Halos around lights",
+    "label_fr": "Halos around lights"
+  },
+  {
+    "value": "head_tilting",
+    "label_en": "Head tilting",
+    "label_fr": "Head tilting"
+  },
+  {
+    "value": "headache",
+    "label_en": "Headache",
+    "label_fr": "Headache"
+  },
+  {
+    "value": "headaches",
+    "label_en": "Headaches",
+    "label_fr": "Headaches"
+  },
+  {
+    "value": "health_issues",
+    "label_en": "Health issues",
+    "label_fr": "Health issues"
+  },
+  {
+    "value": "health_problems",
+    "label_en": "Health problems",
+    "label_fr": "Health problems"
+  },
+  {
+    "value": "health_risks",
+    "label_en": "Health risks",
+    "label_fr": "Health risks"
+  },
+  {
+    "value": "hearing_loss",
+    "label_en": "Hearing loss",
+    "label_fr": "Hearing loss"
+  },
+  {
+    "value": "hearing_loss_gradual_and_progressive",
+    "label_en": "Hearing loss gradual and progressive",
+    "label_fr": "Hearing loss gradual and progressive"
+  },
+  {
+    "value": "hearing_loss_or_impaired_hearing",
+    "label_en": "Hearing loss or impaired hearing",
+    "label_fr": "Hearing loss or impaired hearing"
+  },
+  {
+    "value": "hearing_loss_or_muffled_hearing_in_the_affected_ear",
+    "label_en": "Hearing loss or muffled hearing in the affected ear",
+    "label_fr": "Hearing loss or muffled hearing in the affected ear"
+  },
+  {
+    "value": "heart_and_digestive_problems",
+    "label_en": "Heart and digestive problems",
+    "label_fr": "Heart and digestive problems"
+  },
+  {
+    "value": "heart_attack_when_a_coronary_artery_becomes_completely_blocked",
+    "label_en": "Heart attack when a coronary artery becomes completely blocked",
+    "label_fr": "Heart attack when a coronary artery becomes completely blocked"
+  },
+  {
+    "value": "heart_attacks",
+    "label_en": "Heart attacks",
+    "label_fr": "Heart attacks"
+  },
+  {
+    "value": "heart_defects",
+    "label_en": "Heart defects",
+    "label_fr": "Heart defects"
+  },
+  {
+    "value": "heart_inflammation",
+    "label_en": "Heart inflammation",
+    "label_fr": "Heart inflammation"
+  },
+  {
+    "value": "heart_palpitations",
+    "label_en": "Heart palpitations",
+    "label_fr": "Heart palpitations"
+  },
+  {
+    "value": "heart_palpitations_rapid_or_irregular_heartbeat",
+    "label_en": "Heart palpitations rapid or irregular heartbeat",
+    "label_fr": "Heart palpitations rapid or irregular heartbeat"
+  },
+  {
+    "value": "heartburn",
+    "label_en": "Heartburn",
+    "label_fr": "Heartburn"
+  },
+  {
+    "value": "heavy_menstrual_bleeding",
+    "label_en": "Heavy menstrual bleeding",
+    "label_fr": "Heavy menstrual bleeding"
+  },
+  {
+    "value": "heavy_or_prolonged_menstrual_periods",
+    "label_en": "Heavy or prolonged menstrual periods",
+    "label_fr": "Heavy or prolonged menstrual periods"
+  },
+  {
+    "value": "heel_pain",
+    "label_en": "Heel pain",
+    "label_fr": "Heel pain"
+  },
+  {
+    "value": "hemangioblastomas_tumors_in_the_brain",
+    "label_en": "Hemangioblastomas tumors in the brain",
+    "label_fr": "Hemangioblastomas tumors in the brain"
+  },
+  {
+    "value": "high_blood_pressure",
+    "label_en": "High blood pressure",
+    "label_fr": "High blood pressure"
+  },
+  {
+    "value": "high_blood_pressure_in_severe_cases",
+    "label_en": "High blood pressure in severe cases",
+    "label_fr": "High blood pressure in severe cases"
+  },
+  {
+    "value": "high_fever",
+    "label_en": "High fever",
+    "label_fr": "High fever"
+  },
+  {
+    "value": "high_levels_of_cholesterol_in_the_blood",
+    "label_en": "High levels of cholesterol in the blood",
+    "label_fr": "High levels of cholesterol in the blood"
+  },
+  {
+    "value": "hip_joint_pain",
+    "label_en": "Hip joint pain",
+    "label_fr": "Hip joint pain"
+  },
+  {
+    "value": "history_of_alcohol_consumption",
+    "label_en": "History of alcohol consumption",
+    "label_fr": "History of alcohol consumption"
+  },
+  {
+    "value": "hoarseness",
+    "label_en": "Hoarseness",
+    "label_fr": "Hoarseness"
+  },
+  {
+    "value": "hormonal_imbalances",
+    "label_en": "Hormonal imbalances",
+    "label_fr": "Hormonal imbalances"
+  },
+  {
+    "value": "hormonal_imbalances_such_as_excessive_production_or_deficiency_of_specific_hormones",
+    "label_en": "Hormonal imbalances such as excessive production or deficiency of specific hormones",
+    "label_fr": "Hormonal imbalances such as excessive production or deficiency of specific hormones"
+  },
+  {
+    "value": "hyperactivity",
+    "label_en": "Hyperactivity",
+    "label_fr": "Hyperactivity"
+  },
+  {
+    "value": "hypocalcemia_low_calcium_levels",
+    "label_en": "Hypocalcemia low calcium levels",
+    "label_fr": "Hypocalcemia low calcium levels"
+  },
+  {
+    "value": "impaired_color_vision",
+    "label_en": "Impaired color vision",
+    "label_fr": "Impaired color vision"
+  },
+  {
+    "value": "impaired_coordination",
+    "label_en": "Impaired coordination",
+    "label_fr": "Impaired coordination"
+  },
+  {
+    "value": "impaired_immunity",
+    "label_en": "Impaired immunity",
+    "label_fr": "Impaired immunity"
+  },
+  {
+    "value": "impaired_memory_and_cognition",
+    "label_en": "Impaired memory and cognition",
+    "label_fr": "Impaired memory and cognition"
+  },
+  {
+    "value": "impaired_memory_and_concentration",
+    "label_en": "Impaired memory and concentration",
+    "label_fr": "Impaired memory and concentration"
+  },
+  {
+    "value": "impulsive_behaviors_e_g",
+    "label_en": "Impulsive behaviors e g",
+    "label_fr": "Impulsive behaviors e g"
+  },
+  {
+    "value": "impulsivity",
+    "label_en": "Impulsivity",
+    "label_fr": "Impulsivity"
+  },
+  {
+    "value": "inability_to_bear_weight",
+    "label_en": "Inability to bear weight",
+    "label_fr": "Inability to bear weight"
+  },
+  {
+    "value": "inability_to_completely_empty_the_bladder",
+    "label_en": "Inability to completely empty the bladder",
+    "label_fr": "Inability to completely empty the bladder"
+  },
+  {
+    "value": "inability_to_conceive_after_one_year_of_unprotected_intercourse",
+    "label_en": "Inability to conceive after one year of unprotected intercourse",
+    "label_fr": "Inability to conceive after one year of unprotected intercourse"
+  },
+  {
+    "value": "inability_to_control_or_limit_alcohol_consumption",
+    "label_en": "Inability to control or limit alcohol consumption",
+    "label_fr": "Inability to control or limit alcohol consumption"
+  },
+  {
+    "value": "inability_to_control_or_reduce_opioid_use",
+    "label_en": "Inability to control or reduce opioid use",
+    "label_fr": "Inability to control or reduce opioid use"
+  },
+  {
+    "value": "inability_to_move_the_elbow",
+    "label_en": "Inability to move the elbow",
+    "label_fr": "Inability to move the elbow"
+  },
+  {
+    "value": "inability_to_straighten_the_leg",
+    "label_en": "Inability to straighten the leg",
+    "label_fr": "Inability to straighten the leg"
+  },
+  {
+    "value": "inattention",
+    "label_en": "Inattention",
+    "label_fr": "Inattention"
+  },
+  {
+    "value": "including_rash",
+    "label_en": "Including rash",
+    "label_fr": "Including rash"
+  },
+  {
+    "value": "increased_appetite",
+    "label_en": "Increased appetite",
+    "label_fr": "Increased appetite"
+  },
+  {
+    "value": "increased_blood_sugar_levels",
+    "label_en": "Increased blood sugar levels",
+    "label_fr": "Increased blood sugar levels"
+  },
+  {
+    "value": "increased_energy",
+    "label_en": "Increased energy",
+    "label_fr": "Increased energy"
+  },
+  {
+    "value": "increased_energy_and_alertness",
+    "label_en": "Increased energy and alertness",
+    "label_fr": "Increased energy and alertness"
+  },
+  {
+    "value": "increased_heart_rate",
+    "label_en": "Increased heart rate",
+    "label_fr": "Increased heart rate"
+  },
+  {
+    "value": "increased_heart_rate_and_blood_pressure",
+    "label_en": "Increased heart rate and blood pressure",
+    "label_fr": "Increased heart rate and blood pressure"
+  },
+  {
+    "value": "increased_hunger",
+    "label_en": "Increased hunger",
+    "label_fr": "Increased hunger"
+  },
+  {
+    "value": "increased_ketone_production",
+    "label_en": "Increased ketone production",
+    "label_fr": "Increased ketone production"
+  },
+  {
+    "value": "increased_need_to_urinate",
+    "label_en": "Increased need to urinate",
+    "label_fr": "Increased need to urinate"
+  },
+  {
+    "value": "increased_red_blood_cell_count",
+    "label_en": "Increased red blood cell count",
+    "label_fr": "Increased red blood cell count"
+  },
+  {
+    "value": "increased_sensitivity_to_light",
+    "label_en": "Increased sensitivity to light",
+    "label_fr": "Increased sensitivity to light"
+  },
+  {
+    "value": "increased_sensitivity_to_light_photophobia",
+    "label_en": "Increased sensitivity to light photophobia",
+    "label_fr": "Increased sensitivity to light photophobia"
+  },
+  {
+    "value": "increased_thirst",
+    "label_en": "Increased thirst",
+    "label_fr": "Increased thirst"
+  },
+  {
+    "value": "increased_urination_or_urine_changes",
+    "label_en": "Increased urination or urine changes",
+    "label_fr": "Increased urination or urine changes"
+  },
+  {
+    "value": "indigestion",
+    "label_en": "Indigestion",
+    "label_fr": "Indigestion"
+  },
+  {
+    "value": "infertility",
+    "label_en": "Infertility",
+    "label_fr": "Infertility"
+  },
+  {
+    "value": "infertility_or_recurrent_miscarriages_in_some_cases",
+    "label_en": "Infertility or recurrent miscarriages in some cases",
+    "label_fr": "Infertility or recurrent miscarriages in some cases"
+  },
+  {
+    "value": "inflamed_skin",
+    "label_en": "Inflamed skin",
+    "label_fr": "Inflamed skin"
+  },
+  {
+    "value": "inflammation",
+    "label_en": "Inflammation",
+    "label_fr": "Inflammation"
+  },
+  {
+    "value": "inflammation_and_pain_in_other_joints_such_as_hips",
+    "label_en": "Inflammation and pain in other joints such as hips",
+    "label_fr": "Inflammation and pain in other joints such as hips"
+  },
+  {
+    "value": "inflammation_of_blood_vessels_leading_to_various_symptoms_depending_on_the_affected_organs",
+    "label_en": "Inflammation of blood vessels leading to various symptoms depending on the affected organs",
+    "label_fr": "Inflammation of blood vessels leading to various symptoms depending on the affected organs"
+  },
+  {
+    "value": "inflammation_of_the_glans_penis_tip_of_the_penis",
+    "label_en": "Inflammation of the glans penis tip of the penis",
+    "label_fr": "Inflammation of the glans penis tip of the penis"
+  },
+  {
+    "value": "inflammation_of_the_surrounding_tissue",
+    "label_en": "Inflammation of the surrounding tissue",
+    "label_fr": "Inflammation of the surrounding tissue"
+  },
+  {
+    "value": "inflammatory_nails",
+    "label_en": "Inflammatory nails",
+    "label_fr": "Inflammatory nails"
+  },
+  {
+    "value": "inguinal_hernia",
+    "label_en": "Inguinal hernia",
+    "label_fr": "Inguinal hernia"
+  },
+  {
+    "value": "insomnia",
+    "label_en": "Insomnia",
+    "label_fr": "Insomnia"
+  },
+  {
+    "value": "insomnia_when_attempting_to_stop_or_reduce_cannabis_use",
+    "label_en": "Insomnia when attempting to stop or reduce cannabis use",
+    "label_fr": "Insomnia when attempting to stop or reduce cannabis use"
+  },
+  {
+    "value": "insulin_resistance",
+    "label_en": "Insulin resistance",
+    "label_fr": "Insulin resistance"
+  },
+  {
+    "value": "intellectual_disability",
+    "label_en": "Intellectual disability",
+    "label_fr": "Intellectual disability"
+  },
+  {
+    "value": "intense_burning_pain",
+    "label_en": "Intense burning pain",
+    "label_fr": "Intense burning pain"
+  },
+  {
+    "value": "intense_itching",
+    "label_en": "Intense itching",
+    "label_fr": "Intense itching"
+  },
+  {
+    "value": "intense_joint_pain",
+    "label_en": "Intense joint pain",
+    "label_fr": "Intense joint pain"
+  },
+  {
+    "value": "intercourse",
+    "label_en": "Intercourse",
+    "label_fr": "Intercourse"
+  },
+  {
+    "value": "internal_itching",
+    "label_en": "Internal itching",
+    "label_fr": "Internal itching"
+  },
+  {
+    "value": "introspective_thoughts",
+    "label_en": "Introspective thoughts",
+    "label_fr": "Introspective thoughts"
+  },
+  {
+    "value": "involuntary_movements",
+    "label_en": "Involuntary movements",
+    "label_fr": "Involuntary movements"
+  },
+  {
+    "value": "involuntary_muscle_contractions",
+    "label_en": "Involuntary muscle contractions",
+    "label_fr": "Involuntary muscle contractions"
+  },
+  {
+    "value": "irregular_heart_rhythms",
+    "label_en": "Irregular heart rhythms",
+    "label_fr": "Irregular heart rhythms"
+  },
+  {
+    "value": "irregular_heartbeat",
+    "label_en": "Irregular heartbeat",
+    "label_fr": "Irregular heartbeat"
+  },
+  {
+    "value": "irregular_heartbeat_or_palpitations",
+    "label_en": "Irregular heartbeat or palpitations",
+    "label_fr": "Irregular heartbeat or palpitations"
+  },
+  {
+    "value": "irregular_or_absent_menstrual_cycles",
+    "label_en": "Irregular or absent menstrual cycles",
+    "label_fr": "Irregular or absent menstrual cycles"
+  },
+  {
+    "value": "irregular_or_rapid_heartbeat",
+    "label_en": "Irregular or rapid heartbeat",
+    "label_fr": "Irregular or rapid heartbeat"
+  },
+  {
+    "value": "irregular_periods",
+    "label_en": "Irregular periods",
+    "label_fr": "Irregular periods"
+  },
+  {
+    "value": "irregular_sugar_level",
+    "label_en": "Irregular sugar level",
+    "label_fr": "Irregular sugar level"
+  },
+  {
+    "value": "irritability",
+    "label_en": "Irritability",
+    "label_fr": "Irritability"
+  },
+  {
+    "value": "irritability_in_infants_and_young_children",
+    "label_en": "Irritability in infants and young children",
+    "label_fr": "Irritability in infants and young children"
+  },
+  {
+    "value": "irritation_in_anus",
+    "label_en": "Irritation in anus",
+    "label_fr": "Irritation in anus"
+  },
+  {
+    "value": "itching",
+    "label_en": "Itching",
+    "label_fr": "Itching"
+  },
+  {
+    "value": "itching_and_irritation_in_the_vagina_and_vulva",
+    "label_en": "Itching and irritation in the vagina and vulva",
+    "label_fr": "Itching and irritation in the vagina and vulva"
+  },
+  {
+    "value": "itching_around_the_anus_or_vagina",
+    "label_en": "Itching around the anus or vagina",
+    "label_fr": "Itching around the anus or vagina"
+  },
+  {
+    "value": "itching_or_burning_sensation",
+    "label_en": "Itching or burning sensation",
+    "label_fr": "Itching or burning sensation"
+  },
+  {
+    "value": "itchy",
+    "label_en": "Itchy",
+    "label_fr": "Itchy"
+  },
+  {
+    "value": "itchy_bumps",
+    "label_en": "Itchy bumps",
+    "label_fr": "Itchy bumps"
+  },
+  {
+    "value": "jaundice",
+    "label_en": "Jaundice",
+    "label_fr": "Jaundice"
+  },
+  {
+    "value": "jaundice_yellowing_of_the_skin_and_eyes",
+    "label_en": "Jaundice yellowing of the skin and eyes",
+    "label_fr": "Jaundice yellowing of the skin and eyes"
+  },
+  {
+    "value": "jaw_or_arm_pain_in_some_cases",
+    "label_en": "Jaw or arm pain in some cases",
+    "label_fr": "Jaw or arm pain in some cases"
+  },
+  {
+    "value": "jaw_pain_or_tenderness",
+    "label_en": "Jaw pain or tenderness",
+    "label_fr": "Jaw pain or tenderness"
+  },
+  {
+    "value": "job_difficulties",
+    "label_en": "Job difficulties",
+    "label_fr": "Job difficulties"
+  },
+  {
+    "value": "joint_and_muscle_pain",
+    "label_en": "Joint and muscle pain",
+    "label_fr": "Joint and muscle pain"
+  },
+  {
+    "value": "joint_pain",
+    "label_en": "Joint pain",
+    "label_fr": "Joint pain"
+  },
+  {
+    "value": "joint_swelling",
+    "label_en": "Joint swelling",
+    "label_fr": "Joint swelling"
+  },
+  {
+    "value": "kidney_cysts",
+    "label_en": "Kidney cysts",
+    "label_fr": "Kidney cysts"
+  },
+  {
+    "value": "kidney_stones",
+    "label_en": "Kidney stones",
+    "label_fr": "Kidney stones"
+  },
+  {
+    "value": "knee_pain",
+    "label_en": "Knee pain",
+    "label_fr": "Knee pain"
+  },
+  {
+    "value": "knees",
+    "label_en": "Knees",
+    "label_fr": "Knees"
+  },
+  {
+    "value": "lack_of_concentration",
+    "label_en": "Lack of concentration",
+    "label_fr": "Lack of concentration"
+  },
+  {
+    "value": "lack_of_interest",
+    "label_en": "Lack of interest",
+    "label_fr": "Lack of interest"
+  },
+  {
+    "value": "lasting_for_at_least_two_years",
+    "label_en": "Lasting for at least two years",
+    "label_fr": "Lasting for at least two years"
+  },
+  {
+    "value": "latent_stage_no_symptoms",
+    "label_en": "Latent stage no symptoms",
+    "label_fr": "Latent stage no symptoms"
+  },
+  {
+    "value": "leg_pain",
+    "label_en": "Leg pain",
+    "label_fr": "Leg pain"
+  },
+  {
+    "value": "legs",
+    "label_en": "Legs",
+    "label_fr": "Legs"
+  },
+  {
+    "value": "lethargy",
+    "label_en": "Lethargy",
+    "label_fr": "Lethargy"
+  },
+  {
+    "value": "lightheadedness",
+    "label_en": "Lightheadedness",
+    "label_fr": "Lightheadedness"
+  },
+  {
+    "value": "limited_mobility_or_difficulty_moving_the_arm",
+    "label_en": "Limited mobility or difficulty moving the arm",
+    "label_fr": "Limited mobility or difficulty moving the arm"
+  },
+  {
+    "value": "limited_range_of_motion",
+    "label_en": "Limited range of motion",
+    "label_fr": "Limited range of motion"
+  },
+  {
+    "value": "limited_range_of_motion_in_the_spine",
+    "label_en": "Limited range of motion in the spine",
+    "label_fr": "Limited range of motion in the spine"
+  },
+  {
+    "value": "liver_or_kidney_damage",
+    "label_en": "Liver or kidney damage",
+    "label_fr": "Liver or kidney damage"
+  },
+  {
+    "value": "liver_or_spleen_enlargement",
+    "label_en": "Liver or spleen enlargement",
+    "label_fr": "Liver or spleen enlargement"
+  },
+  {
+    "value": "localized_inflammation_and_swelling",
+    "label_en": "Localized inflammation and swelling",
+    "label_fr": "Localized inflammation and swelling"
+  },
+  {
+    "value": "loss_of_appetite",
+    "label_en": "Loss of appetite",
+    "label_fr": "Loss of appetite"
+  },
+  {
+    "value": "loss_of_balance",
+    "label_en": "Loss of balance",
+    "label_fr": "Loss of balance"
+  },
+  {
+    "value": "loss_of_bladder_or_bowel_control",
+    "label_en": "Loss of bladder or bowel control",
+    "label_fr": "Loss of bladder or bowel control"
+  },
+  {
+    "value": "loss_of_consciousness",
+    "label_en": "Loss of consciousness",
+    "label_fr": "Loss of consciousness"
+  },
+  {
+    "value": "loss_of_function",
+    "label_en": "Loss of function",
+    "label_fr": "Loss of function"
+  },
+  {
+    "value": "loss_of_height_over_time",
+    "label_en": "Loss of height over time",
+    "label_fr": "Loss of height over time"
+  },
+  {
+    "value": "loss_of_interest_or_pleasure_in_activities",
+    "label_en": "Loss of interest or pleasure in activities",
+    "label_fr": "Loss of interest or pleasure in activities"
+  },
+  {
+    "value": "loss_of_sensation",
+    "label_en": "Loss of sensation",
+    "label_fr": "Loss of sensation"
+  },
+  {
+    "value": "loss_of_sensation_in_the_face_or_other_areas",
+    "label_en": "Loss of sensation in the face or other areas",
+    "label_fr": "Loss of sensation in the face or other areas"
+  },
+  {
+    "value": "loss_of_smell",
+    "label_en": "Loss of smell",
+    "label_fr": "Loss of smell"
+  },
+  {
+    "value": "low_blood_pressure",
+    "label_en": "Low blood pressure",
+    "label_fr": "Low blood pressure"
+  },
+  {
+    "value": "low_blood_sugar_hypoglycemia_symptoms_e_g",
+    "label_en": "Low blood sugar hypoglycemia symptoms e g",
+    "label_fr": "Low blood sugar hypoglycemia symptoms e g"
+  },
+  {
+    "value": "low_set_ears",
+    "label_en": "Low set ears",
+    "label_fr": "Low set ears"
+  },
+  {
+    "value": "lower_back_pain",
+    "label_en": "Lower back pain",
+    "label_fr": "Lower back pain"
+  },
+  {
+    "value": "lump",
+    "label_en": "Lump",
+    "label_fr": "Lump"
+  },
+  {
+    "value": "lump_or_swelling_in_the_testicles",
+    "label_en": "Lump or swelling in the testicles",
+    "label_fr": "Lump or swelling in the testicles"
+  },
+  {
+    "value": "lymph_node_enlargement",
+    "label_en": "Lymph node enlargement",
+    "label_fr": "Lymph node enlargement"
+  },
+  {
+    "value": "lymphedema",
+    "label_en": "Lymphedema",
+    "label_fr": "Lymphedema"
+  },
+  {
+    "value": "malaise",
+    "label_en": "Malaise",
+    "label_fr": "Malaise"
+  },
+  {
+    "value": "manic_episodes",
+    "label_en": "Manic episodes",
+    "label_fr": "Manic episodes"
+  },
+  {
+    "value": "mastoid_bone_protrusion_or_swelling",
+    "label_en": "Mastoid bone protrusion or swelling",
+    "label_fr": "Mastoid bone protrusion or swelling"
+  },
+  {
+    "value": "may_appear_in_clusters_or_as_single_lesions",
+    "label_en": "May appear in clusters or as single lesions",
+    "label_fr": "May appear in clusters or as single lesions"
+  },
+  {
+    "value": "may_interfere_with_daily_activities",
+    "label_en": "May interfere with daily activities",
+    "label_fr": "May interfere with daily activities"
+  },
+  {
+    "value": "memory_impairment",
+    "label_en": "Memory impairment",
+    "label_fr": "Memory impairment"
+  },
+  {
+    "value": "memory_loss_or_cognitive_difficulties",
+    "label_en": "Memory loss or cognitive difficulties",
+    "label_fr": "Memory loss or cognitive difficulties"
+  },
+  {
+    "value": "memory_problems",
+    "label_en": "Memory problems",
+    "label_fr": "Memory problems"
+  },
+  {
+    "value": "menstrual_irregularities",
+    "label_en": "Menstrual irregularities",
+    "label_fr": "Menstrual irregularities"
+  },
+  {
+    "value": "mental_confusion",
+    "label_en": "Mental confusion",
+    "label_fr": "Mental confusion"
+  },
+  {
+    "value": "metabolic_acidosis",
+    "label_en": "Metabolic acidosis",
+    "label_fr": "Metabolic acidosis"
+  },
+  {
+    "value": "mild_discomfort",
+    "label_en": "Mild discomfort",
+    "label_fr": "Mild discomfort"
+  },
+  {
+    "value": "mild_fever",
+    "label_en": "Mild fever",
+    "label_fr": "Mild fever"
+  },
+  {
+    "value": "minerals",
+    "label_en": "Minerals",
+    "label_fr": "Minerals"
+  },
+  {
+    "value": "mood_changes",
+    "label_en": "Mood changes",
+    "label_fr": "Mood changes"
+  },
+  {
+    "value": "mood_swings",
+    "label_en": "Mood swings",
+    "label_fr": "Mood swings"
+  },
+  {
+    "value": "motor",
+    "label_en": "Motor",
+    "label_fr": "Motor"
+  },
+  {
+    "value": "movement_stiffness",
+    "label_en": "Movement stiffness",
+    "label_fr": "Movement stiffness"
+  },
+  {
+    "value": "mucoid_sputum",
+    "label_en": "Mucoid sputum",
+    "label_fr": "Mucoid sputum"
+  },
+  {
+    "value": "muscle_aches",
+    "label_en": "Muscle aches",
+    "label_fr": "Muscle aches"
+  },
+  {
+    "value": "muscle_aches_and_stiffness",
+    "label_en": "Muscle aches and stiffness",
+    "label_fr": "Muscle aches and stiffness"
+  },
+  {
+    "value": "muscle_and_joint_pain",
+    "label_en": "Muscle and joint pain",
+    "label_fr": "Muscle and joint pain"
+  },
+  {
+    "value": "muscle_pain",
+    "label_en": "Muscle pain",
+    "label_fr": "Muscle pain"
+  },
+  {
+    "value": "muscle_pain_and_stiffness",
+    "label_en": "Muscle pain and stiffness",
+    "label_fr": "Muscle pain and stiffness"
+  },
+  {
+    "value": "muscle_stiffness",
+    "label_en": "Muscle stiffness",
+    "label_fr": "Muscle stiffness"
+  },
+  {
+    "value": "muscle_twitches_or_cramps",
+    "label_en": "Muscle twitches or cramps",
+    "label_fr": "Muscle twitches or cramps"
+  },
+  {
+    "value": "muscle_wasting",
+    "label_en": "Muscle wasting",
+    "label_fr": "Muscle wasting"
+  },
+  {
+    "value": "muscle_weakness",
+    "label_en": "Muscle weakness",
+    "label_fr": "Muscle weakness"
+  },
+  {
+    "value": "muscle_weakness_or_fatigue",
+    "label_en": "Muscle weakness or fatigue",
+    "label_fr": "Muscle weakness or fatigue"
+  },
+  {
+    "value": "nasal_congestion",
+    "label_en": "Nasal congestion",
+    "label_fr": "Nasal congestion"
+  },
+  {
+    "value": "nausea",
+    "label_en": "Nausea",
+    "label_fr": "Nausea"
+  },
+  {
+    "value": "nausea_and_vomiting",
+    "label_en": "Nausea and vomiting",
+    "label_fr": "Nausea and vomiting"
+  },
+  {
+    "value": "nausea_or_vomiting",
+    "label_en": "Nausea or vomiting",
+    "label_fr": "Nausea or vomiting"
+  },
+  {
+    "value": "neck_mass",
+    "label_en": "Neck mass",
+    "label_fr": "Neck mass"
+  },
+  {
+    "value": "neck_or_back_pain",
+    "label_en": "Neck or back pain",
+    "label_fr": "Neck or back pain"
+  },
+  {
+    "value": "neck_pain",
+    "label_en": "Neck pain",
+    "label_fr": "Neck pain"
+  },
+  {
+    "value": "neck_pain_or_stiffness",
+    "label_en": "Neck pain or stiffness",
+    "label_fr": "Neck pain or stiffness"
+  },
+  {
+    "value": "neglecting_responsibilities",
+    "label_en": "Neglecting responsibilities",
+    "label_fr": "Neglecting responsibilities"
+  },
+  {
+    "value": "neurological_deficits",
+    "label_en": "Neurological deficits",
+    "label_fr": "Neurological deficits"
+  },
+  {
+    "value": "neurological_symptoms",
+    "label_en": "Neurological symptoms",
+    "label_fr": "Neurological symptoms"
+  },
+  {
+    "value": "neurological_symptoms_that_cannot_be_explained_by_a_medical_condition_or_injury",
+    "label_en": "Neurological symptoms that cannot be explained by a medical condition or injury",
+    "label_fr": "Neurological symptoms that cannot be explained by a medical condition or injury"
+  },
+  {
+    "value": "neurological_symptoms_tremors",
+    "label_en": "Neurological symptoms tremors",
+    "label_fr": "Neurological symptoms tremors"
+  },
+  {
+    "value": "night_blindness",
+    "label_en": "Night blindness",
+    "label_fr": "Night blindness"
+  },
+  {
+    "value": "nipple_changes",
+    "label_en": "Nipple changes",
+    "label_fr": "Nipple changes"
+  },
+  {
+    "value": "nodal_skin_eruptions",
+    "label_en": "Nodal skin eruptions",
+    "label_fr": "Nodal skin eruptions"
+  },
+  {
+    "value": "nosebleeds",
+    "label_en": "Nosebleeds",
+    "label_fr": "Nosebleeds"
+  },
+  {
+    "value": "numbness",
+    "label_en": "Numbness",
+    "label_fr": "Numbness"
+  },
+  {
+    "value": "numbness_or_tingling",
+    "label_en": "Numbness or tingling",
+    "label_fr": "Numbness or tingling"
+  },
+  {
+    "value": "numbness_or_tingling_in_the_hand_arm",
+    "label_en": "Numbness or tingling in the hand arm",
+    "label_fr": "Numbness or tingling in the hand arm"
+  },
+  {
+    "value": "numbness_or_weakness_in_the_arms_or_legs",
+    "label_en": "Numbness or weakness in the arms or legs",
+    "label_fr": "Numbness or weakness in the arms or legs"
+  },
+  {
+    "value": "numbness_or_weakness_in_the_extremities",
+    "label_en": "Numbness or weakness in the extremities",
+    "label_fr": "Numbness or weakness in the extremities"
+  },
+  {
+    "value": "nutrient_deficiencies_vitamins",
+    "label_en": "Nutrient deficiencies vitamins",
+    "label_fr": "Nutrient deficiencies vitamins"
+  },
+  {
+    "value": "obesity",
+    "label_en": "Obesity",
+    "label_fr": "Obesity"
+  },
+  {
+    "value": "often_affecting_the_arms",
+    "label_en": "Often affecting the arms",
+    "label_fr": "Often affecting the arms"
+  },
+  {
+    "value": "often_in_the_legs",
+    "label_en": "Often in the legs",
+    "label_fr": "Often in the legs"
+  },
+  {
+    "value": "often_in_the_limbs",
+    "label_en": "Often in the limbs",
+    "label_fr": "Often in the limbs"
+  },
+  {
+    "value": "often_on_the_tongue_or_inside_of_the_cheeks",
+    "label_en": "Often on the tongue or inside of the cheeks",
+    "label_fr": "Often on the tongue or inside of the cheeks"
+  },
+  {
+    "value": "optic_neuritis_vision_loss",
+    "label_en": "Optic neuritis vision loss",
+    "label_fr": "Optic neuritis vision loss"
+  },
+  {
+    "value": "or_bowel_movements",
+    "label_en": "Or bowel movements",
+    "label_fr": "Or bowel movements"
+  },
+  {
+    "value": "or_difficulty_speaking",
+    "label_en": "Or difficulty speaking",
+    "label_fr": "Or difficulty speaking"
+  },
+  {
+    "value": "or_face",
+    "label_en": "Or face",
+    "label_fr": "Or face"
+  },
+  {
+    "value": "or_hopelessness",
+    "label_en": "Or hopelessness",
+    "label_fr": "Or hopelessness"
+  },
+  {
+    "value": "or_inflamed_skin_in_skin_folds_such_as_armpits_or_groin",
+    "label_en": "Or inflamed skin in skin folds such as armpits or groin",
+    "label_fr": "Or inflamed skin in skin folds such as armpits or groin"
+  },
+  {
+    "value": "or_leg_typically_on_one_side_of_the_body",
+    "label_en": "Or leg typically on one side of the body",
+    "label_fr": "Or leg typically on one side of the body"
+  },
+  {
+    "value": "or_legs",
+    "label_en": "Or legs",
+    "label_fr": "Or legs"
+  },
+  {
+    "value": "or_numbness_that_radiates_from_the_lower_back_through_the_hips_and_down_the_leg",
+    "label_en": "Or numbness that radiates from the lower back through the hips and down the leg",
+    "label_fr": "Or numbness that radiates from the lower back through the hips and down the leg"
+  },
+  {
+    "value": "or_other_organs",
+    "label_en": "Or other organs",
+    "label_fr": "Or other organs"
+  },
+  {
+    "value": "or_painful_veins_in_the_rectal_area",
+    "label_en": "Or painful veins in the rectal area",
+    "label_fr": "Or painful veins in the rectal area"
+  },
+  {
+    "value": "or_paralysis_of_the_limbs",
+    "label_en": "Or paralysis of the limbs",
+    "label_fr": "Or paralysis of the limbs"
+  },
+  {
+    "value": "organ_dysfunction",
+    "label_en": "Organ dysfunction",
+    "label_fr": "Organ dysfunction"
+  },
+  {
+    "value": "other",
+    "label_en": "Other",
+    "label_fr": "Other"
+  },
+  {
+    "value": "other_tumors_or_cysts",
+    "label_en": "Other tumors or cysts",
+    "label_fr": "Other tumors or cysts"
+  },
+  {
+    "value": "ovarian_cysts",
+    "label_en": "Ovarian cysts",
+    "label_fr": "Ovarian cysts"
+  },
+  {
+    "value": "overwhelming_fatigue",
+    "label_en": "Overwhelming fatigue",
+    "label_fr": "Overwhelming fatigue"
+  },
+  {
+    "value": "pain",
+    "label_en": "Pain",
+    "label_fr": "Pain"
+  },
+  {
+    "value": "pain_behind_the_eyes",
+    "label_en": "Pain behind the eyes",
+    "label_fr": "Pain behind the eyes"
+  },
+  {
+    "value": "pain_during_bowel_movements",
+    "label_en": "Pain during bowel movements",
+    "label_fr": "Pain during bowel movements"
+  },
+  {
+    "value": "pain_during_intercourse",
+    "label_en": "Pain during intercourse",
+    "label_fr": "Pain during intercourse"
+  },
+  {
+    "value": "pain_during_sexual_intercourse",
+    "label_en": "Pain during sexual intercourse",
+    "label_fr": "Pain during sexual intercourse"
+  },
+  {
+    "value": "pain_during_urination",
+    "label_en": "Pain during urination",
+    "label_fr": "Pain during urination"
+  },
+  {
+    "value": "pain_in_anal_region",
+    "label_en": "Pain in anal region",
+    "label_fr": "Pain in anal region"
+  },
+  {
+    "value": "pain_or_discomfort",
+    "label_en": "Pain or discomfort",
+    "label_fr": "Pain or discomfort"
+  },
+  {
+    "value": "pain_or_discomfort_in_the_tailbone_area",
+    "label_en": "Pain or discomfort in the tailbone area",
+    "label_fr": "Pain or discomfort in the tailbone area"
+  },
+  {
+    "value": "pain_or_tenderness_at_the_wound_site",
+    "label_en": "Pain or tenderness at the wound site",
+    "label_fr": "Pain or tenderness at the wound site"
+  },
+  {
+    "value": "pain_or_tenderness_on_the_outer_side_of_the_elbow",
+    "label_en": "Pain or tenderness on the outer side of the elbow",
+    "label_fr": "Pain or tenderness on the outer side of the elbow"
+  },
+  {
+    "value": "pain_when_swallowing_and_speaking",
+    "label_en": "Pain when swallowing and speaking",
+    "label_fr": "Pain when swallowing and speaking"
+  },
+  {
+    "value": "pain_with_eye_movement",
+    "label_en": "Pain with eye movement",
+    "label_fr": "Pain with eye movement"
+  },
+  {
+    "value": "painful",
+    "label_en": "Painful",
+    "label_fr": "Painful"
+  },
+  {
+    "value": "painful_intercourse",
+    "label_en": "Painful intercourse",
+    "label_fr": "Painful intercourse"
+  },
+  {
+    "value": "painful_lump_or_swelling_on_the_eyelid",
+    "label_en": "Painful lump or swelling on the eyelid",
+    "label_fr": "Painful lump or swelling on the eyelid"
+  },
+  {
+    "value": "painful_periods",
+    "label_en": "Painful periods",
+    "label_fr": "Painful periods"
+  },
+  {
+    "value": "painful_sores_or_blisters_in_the_mouth_and_throat",
+    "label_en": "Painful sores or blisters in the mouth and throat",
+    "label_fr": "Painful sores or blisters in the mouth and throat"
+  },
+  {
+    "value": "painful_urination",
+    "label_en": "Painful urination",
+    "label_fr": "Painful urination"
+  },
+  {
+    "value": "painful_walking",
+    "label_en": "Painful walking",
+    "label_fr": "Painful walking"
+  },
+  {
+    "value": "pale_skin",
+    "label_en": "Pale skin",
+    "label_fr": "Pale skin"
+  },
+  {
+    "value": "pale_stools",
+    "label_en": "Pale stools",
+    "label_fr": "Pale stools"
+  },
+  {
+    "value": "palpable_mass",
+    "label_en": "Palpable mass",
+    "label_fr": "Palpable mass"
+  },
+  {
+    "value": "palpitations",
+    "label_en": "Palpitations",
+    "label_fr": "Palpitations"
+  },
+  {
+    "value": "pancreatic_cysts_tumors",
+    "label_en": "Pancreatic cysts tumors",
+    "label_fr": "Pancreatic cysts tumors"
+  },
+  {
+    "value": "panic_attacks",
+    "label_en": "Panic attacks",
+    "label_fr": "Panic attacks"
+  },
+  {
+    "value": "paranoia",
+    "label_en": "Paranoia",
+    "label_fr": "Paranoia"
+  },
+  {
+    "value": "passage_of_gases",
+    "label_en": "Passage of gases",
+    "label_fr": "Passage of gases"
+  },
+  {
+    "value": "patches_in_throat",
+    "label_en": "Patches in throat",
+    "label_fr": "Patches in throat"
+  },
+  {
+    "value": "peeling_skin",
+    "label_en": "Peeling skin",
+    "label_fr": "Peeling skin"
+  },
+  {
+    "value": "pelvic_pain",
+    "label_en": "Pelvic pain",
+    "label_fr": "Pelvic pain"
+  },
+  {
+    "value": "pelvic_pain_during_menstruation",
+    "label_en": "Pelvic pain during menstruation",
+    "label_fr": "Pelvic pain during menstruation"
+  },
+  {
+    "value": "pelvic_pain_or_discomfort",
+    "label_en": "Pelvic pain or discomfort",
+    "label_fr": "Pelvic pain or discomfort"
+  },
+  {
+    "value": "pelvic_pain_or_pressure",
+    "label_en": "Pelvic pain or pressure",
+    "label_fr": "Pelvic pain or pressure"
+  },
+  {
+    "value": "pelvic_pressure_or_heaviness",
+    "label_en": "Pelvic pressure or heaviness",
+    "label_fr": "Pelvic pressure or heaviness"
+  },
+  {
+    "value": "penile_curvature",
+    "label_en": "Penile curvature",
+    "label_fr": "Penile curvature"
+  },
+  {
+    "value": "perforation_of_the_digestive_tract",
+    "label_en": "Perforation of the digestive tract",
+    "label_fr": "Perforation of the digestive tract"
+  },
+  {
+    "value": "peripheral_vision_impairment",
+    "label_en": "Peripheral vision impairment",
+    "label_fr": "Peripheral vision impairment"
+  },
+  {
+    "value": "persistent_cough_with_thick_mucus",
+    "label_en": "Persistent cough with thick mucus",
+    "label_fr": "Persistent cough with thick mucus"
+  },
+  {
+    "value": "persistent_cough_with_yellow_or_green_mucus",
+    "label_en": "Persistent cough with yellow or green mucus",
+    "label_fr": "Persistent cough with yellow or green mucus"
+  },
+  {
+    "value": "persistent_depressive_symptoms_low_mood",
+    "label_en": "Persistent depressive symptoms low mood",
+    "label_fr": "Persistent depressive symptoms low mood"
+  },
+  {
+    "value": "persistent_feelings_of_sadness",
+    "label_en": "Persistent feelings of sadness",
+    "label_fr": "Persistent feelings of sadness"
+  },
+  {
+    "value": "persistent_hunger",
+    "label_en": "Persistent hunger",
+    "label_fr": "Persistent hunger"
+  },
+  {
+    "value": "persistent_knee_pain",
+    "label_en": "Persistent knee pain",
+    "label_fr": "Persistent knee pain"
+  },
+  {
+    "value": "persistent_pain_or_discomfort_in_the_vulva",
+    "label_en": "Persistent pain or discomfort in the vulva",
+    "label_fr": "Persistent pain or discomfort in the vulva"
+  },
+  {
+    "value": "persistent_sore_throat",
+    "label_en": "Persistent sore throat",
+    "label_fr": "Persistent sore throat"
+  },
+  {
+    "value": "personality_changes",
+    "label_en": "Personality changes",
+    "label_fr": "Personality changes"
+  },
+  {
+    "value": "petechiae_red_or_purple_spots_on_the_skin",
+    "label_en": "Petechiae red or purple spots on the skin",
+    "label_fr": "Petechiae red or purple spots on the skin"
+  },
+  {
+    "value": "petechial_rash_small_red_or_purple_spots",
+    "label_en": "Petechial rash small red or purple spots",
+    "label_fr": "Petechial rash small red or purple spots"
+  },
+  {
+    "value": "pheochromocytomas_adrenal_gland_tumors",
+    "label_en": "Pheochromocytomas adrenal gland tumors",
+    "label_fr": "Pheochromocytomas adrenal gland tumors"
+  },
+  {
+    "value": "phlegm",
+    "label_en": "Phlegm",
+    "label_fr": "Phlegm"
+  },
+  {
+    "value": "polyuria",
+    "label_en": "Polyuria",
+    "label_fr": "Polyuria"
+  },
+  {
+    "value": "poor_appetite",
+    "label_en": "Poor appetite",
+    "label_fr": "Poor appetite"
+  },
+  {
+    "value": "poor_coordination",
+    "label_en": "Poor coordination",
+    "label_fr": "Poor coordination"
+  },
+  {
+    "value": "poor_depth_perception",
+    "label_en": "Poor depth perception",
+    "label_fr": "Poor depth perception"
+  },
+  {
+    "value": "poor_growth_or_weight_gain",
+    "label_en": "Poor growth or weight gain",
+    "label_fr": "Poor growth or weight gain"
+  },
+  {
+    "value": "poor_weight_gain",
+    "label_en": "Poor weight gain",
+    "label_fr": "Poor weight gain"
+  },
+  {
+    "value": "poor_wound_healing",
+    "label_en": "Poor wound healing",
+    "label_fr": "Poor wound healing"
+  },
+  {
+    "value": "post_nasal_drip",
+    "label_en": "Post nasal drip",
+    "label_fr": "Post nasal drip"
+  },
+  {
+    "value": "postnasal_drip",
+    "label_en": "Postnasal drip",
+    "label_fr": "Postnasal drip"
+  },
+  {
+    "value": "primary_stage_painless_sores_chancre_at_the_site_of_infection",
+    "label_en": "Primary stage painless sores chancre at the site of infection",
+    "label_fr": "Primary stage painless sores chancre at the site of infection"
+  },
+  {
+    "value": "productive_cough_with_foul_smelling_or_bloody_sputum",
+    "label_en": "Productive cough with foul smelling or bloody sputum",
+    "label_fr": "Productive cough with foul smelling or bloody sputum"
+  },
+  {
+    "value": "progressive_muscle_weakness_and_degeneration",
+    "label_en": "Progressive muscle weakness and degeneration",
+    "label_fr": "Progressive muscle weakness and degeneration"
+  },
+  {
+    "value": "prolonged_bleeding_after_injury_or_surgery",
+    "label_en": "Prolonged bleeding after injury or surgery",
+    "label_fr": "Prolonged bleeding after injury or surgery"
+  },
+  {
+    "value": "prolonged_bleeding_from_cuts",
+    "label_en": "Prolonged bleeding from cuts",
+    "label_fr": "Prolonged bleeding from cuts"
+  },
+  {
+    "value": "prolonged_bleeding_from_wounds_or_after_dental_work_or_surgery",
+    "label_en": "Prolonged bleeding from wounds or after dental work or surgery",
+    "label_fr": "Prolonged bleeding from wounds or after dental work or surgery"
+  },
+  {
+    "value": "prolonged_bleeding_or_bruising",
+    "label_en": "Prolonged bleeding or bruising",
+    "label_fr": "Prolonged bleeding or bruising"
+  },
+  {
+    "value": "prolonged_or_excessive_bleeding_from_cuts_or_injuries",
+    "label_en": "Prolonged or excessive bleeding from cuts or injuries",
+    "label_fr": "Prolonged or excessive bleeding from cuts or injuries"
+  },
+  {
+    "value": "prolonged_or_heavy_bleeding",
+    "label_en": "Prolonged or heavy bleeding",
+    "label_fr": "Prolonged or heavy bleeding"
+  },
+  {
+    "value": "prominent_veins_on_calf",
+    "label_en": "Prominent veins on calf",
+    "label_fr": "Prominent veins on calf"
+  },
+  {
+    "value": "proteinuria",
+    "label_en": "Proteinuria",
+    "label_fr": "Proteinuria"
+  },
+  {
+    "value": "psychosis_in_severe_cases",
+    "label_en": "Psychosis in severe cases",
+    "label_fr": "Psychosis in severe cases"
+  },
+  {
+    "value": "puffy_face_and_eyes",
+    "label_en": "Puffy face and eyes",
+    "label_fr": "Puffy face and eyes"
+  },
+  {
+    "value": "pus_filled_pimples",
+    "label_en": "Pus filled pimples",
+    "label_fr": "Pus filled pimples"
+  },
+  {
+    "value": "pus_formation",
+    "label_en": "Pus formation",
+    "label_fr": "Pus formation"
+  },
+  {
+    "value": "pus_or_drainage_from_the_wound",
+    "label_en": "Pus or drainage from the wound",
+    "label_fr": "Pus or drainage from the wound"
+  },
+  {
+    "value": "rapid_breathing",
+    "label_en": "Rapid breathing",
+    "label_fr": "Rapid breathing"
+  },
+  {
+    "value": "rapid_heart_rate",
+    "label_en": "Rapid heart rate",
+    "label_fr": "Rapid heart rate"
+  },
+  {
+    "value": "rapid_heartbeat",
+    "label_en": "Rapid heartbeat",
+    "label_fr": "Rapid heartbeat"
+  },
+  {
+    "value": "rapid_or_irregular_heartbeats",
+    "label_en": "Rapid or irregular heartbeats",
+    "label_fr": "Rapid or irregular heartbeats"
+  },
+  {
+    "value": "rapid_or_shallow_breathing",
+    "label_en": "Rapid or shallow breathing",
+    "label_fr": "Rapid or shallow breathing"
+  },
+  {
+    "value": "rapid_pulse",
+    "label_en": "Rapid pulse",
+    "label_fr": "Rapid pulse"
+  },
+  {
+    "value": "rash",
+    "label_en": "Rash",
+    "label_fr": "Rash"
+  },
+  {
+    "value": "rash_at_birth",
+    "label_en": "Rash at birth",
+    "label_fr": "Rash at birth"
+  },
+  {
+    "value": "rash_or_soreness_in_the_affected_area",
+    "label_en": "Rash or soreness in the affected area",
+    "label_fr": "Rash or soreness in the affected area"
+  },
+  {
+    "value": "rash_red",
+    "label_en": "Rash red",
+    "label_fr": "Rash red"
+  },
+  {
+    "value": "raw",
+    "label_en": "Raw",
+    "label_fr": "Raw"
+  },
+  {
+    "value": "rawness",
+    "label_en": "Rawness",
+    "label_fr": "Rawness"
+  },
+  {
+    "value": "receiving_blood_transfusion",
+    "label_en": "Receiving blood transfusion",
+    "label_fr": "Receiving blood transfusion"
+  },
+  {
+    "value": "receiving_unsterile_injections",
+    "label_en": "Receiving unsterile injections",
+    "label_fr": "Receiving unsterile injections"
+  },
+  {
+    "value": "recurrent_ear_infections",
+    "label_en": "Recurrent ear infections",
+    "label_fr": "Recurrent ear infections"
+  },
+  {
+    "value": "recurrent_episodes_of_wheezing",
+    "label_en": "Recurrent episodes of wheezing",
+    "label_fr": "Recurrent episodes of wheezing"
+  },
+  {
+    "value": "recurrent_eye_infections",
+    "label_en": "Recurrent eye infections",
+    "label_fr": "Recurrent eye infections"
+  },
+  {
+    "value": "recurrent_lung_infections",
+    "label_en": "Recurrent lung infections",
+    "label_fr": "Recurrent lung infections"
+  },
+  {
+    "value": "red",
+    "label_en": "Red",
+    "label_fr": "Red"
+  },
+  {
+    "value": "red_lump_or_swelling_on_the_eyelid",
+    "label_en": "Red lump or swelling on the eyelid",
+    "label_fr": "Red lump or swelling on the eyelid"
+  },
+  {
+    "value": "red_sore_around_nose",
+    "label_en": "Red sore around nose",
+    "label_fr": "Red sore around nose"
+  },
+  {
+    "value": "red_spots_over_body",
+    "label_en": "Red spots over body",
+    "label_fr": "Red spots over body"
+  },
+  {
+    "value": "redness",
+    "label_en": "Redness",
+    "label_fr": "Redness"
+  },
+  {
+    "value": "redness_and_swelling_of_the_vulva",
+    "label_en": "Redness and swelling of the vulva",
+    "label_fr": "Redness and swelling of the vulva"
+  },
+  {
+    "value": "redness_of_eyes",
+    "label_en": "Redness of eyes",
+    "label_fr": "Redness of eyes"
+  },
+  {
+    "value": "redness_or_irritation_of_the_eye",
+    "label_en": "Redness or irritation of the eye",
+    "label_fr": "Redness or irritation of the eye"
+  },
+  {
+    "value": "reduced_anxiety",
+    "label_en": "Reduced anxiety",
+    "label_fr": "Reduced anxiety"
+  },
+  {
+    "value": "reduced_range_of_motion",
+    "label_en": "Reduced range of motion",
+    "label_fr": "Reduced range of motion"
+  },
+  {
+    "value": "relaxation",
+    "label_en": "Relaxation",
+    "label_fr": "Relaxation"
+  },
+  {
+    "value": "renal_cell_carcinomas_kidney_tumors",
+    "label_en": "Renal cell carcinomas kidney tumors",
+    "label_fr": "Renal cell carcinomas kidney tumors"
+  },
+  {
+    "value": "respiratory_depression",
+    "label_en": "Respiratory depression",
+    "label_fr": "Respiratory depression"
+  },
+  {
+    "value": "respiratory_distress",
+    "label_en": "Respiratory distress",
+    "label_fr": "Respiratory distress"
+  },
+  {
+    "value": "respiratory_symptoms",
+    "label_en": "Respiratory symptoms",
+    "label_fr": "Respiratory symptoms"
+  },
+  {
+    "value": "restless_sleep",
+    "label_en": "Restless sleep",
+    "label_fr": "Restless sleep"
+  },
+  {
+    "value": "restlessness",
+    "label_en": "Restlessness",
+    "label_fr": "Restlessness"
+  },
+  {
+    "value": "restricted_interests_or_repetitive_behaviors",
+    "label_en": "Restricted interests or repetitive behaviors",
+    "label_fr": "Restricted interests or repetitive behaviors"
+  },
+  {
+    "value": "restricted_range_of_motion",
+    "label_en": "Restricted range of motion",
+    "label_fr": "Restricted range of motion"
+  },
+  {
+    "value": "retinal_angiomas_abnormal_blood_vessel_growth_in_the_retina",
+    "label_en": "Retinal angiomas abnormal blood vessel growth in the retina",
+    "label_fr": "Retinal angiomas abnormal blood vessel growth in the retina"
+  },
+  {
+    "value": "rib_fractures_associated_injuries",
+    "label_en": "Rib fractures associated injuries",
+    "label_fr": "Rib fractures associated injuries"
+  },
+  {
+    "value": "risk_of_heart_attack_or_stroke",
+    "label_en": "Risk of heart attack or stroke",
+    "label_fr": "Risk of heart attack or stroke"
+  },
+  {
+    "value": "rose_spots",
+    "label_en": "Rose spots",
+    "label_fr": "Rose spots"
+  },
+  {
+    "value": "rough",
+    "label_en": "Rough",
+    "label_fr": "Rough"
+  },
+  {
+    "value": "rough_growths_on_the_skin_or_mucous_membranes",
+    "label_en": "Rough growths on the skin or mucous membranes",
+    "label_fr": "Rough growths on the skin or mucous membranes"
+  },
+  {
+    "value": "rounded_face",
+    "label_en": "Rounded face",
+    "label_fr": "Rounded face"
+  },
+  {
+    "value": "runny_nose",
+    "label_en": "Runny nose",
+    "label_fr": "Runny nose"
+  },
+  {
+    "value": "rusty_sputum",
+    "label_en": "Rusty sputum",
+    "label_fr": "Rusty sputum"
+  },
+  {
+    "value": "salty_tasting_skin",
+    "label_en": "Salty tasting skin",
+    "label_fr": "Salty tasting skin"
+  },
+  {
+    "value": "sandpaper_like",
+    "label_en": "Sandpaper like",
+    "label_fr": "Sandpaper like"
+  },
+  {
+    "value": "scaly_patches_on_the_skin",
+    "label_en": "Scaly patches on the skin",
+    "label_fr": "Scaly patches on the skin"
+  },
+  {
+    "value": "scurring",
+    "label_en": "Scurring",
+    "label_fr": "Scurring"
+  },
+  {
+    "value": "secondary_stage_skin_rash",
+    "label_en": "Secondary stage skin rash",
+    "label_fr": "Secondary stage skin rash"
+  },
+  {
+    "value": "sedation",
+    "label_en": "Sedation",
+    "label_fr": "Sedation"
+  },
+  {
+    "value": "seizures",
+    "label_en": "Seizures",
+    "label_fr": "Seizures"
+  },
+  {
+    "value": "sensitivity_to_cold",
+    "label_en": "Sensitivity to cold",
+    "label_fr": "Sensitivity to cold"
+  },
+  {
+    "value": "sensitivity_to_light",
+    "label_en": "Sensitivity to light",
+    "label_fr": "Sensitivity to light"
+  },
+  {
+    "value": "sensitivity_to_light_and_sound",
+    "label_en": "Sensitivity to light and sound",
+    "label_fr": "Sensitivity to light and sound"
+  },
+  {
+    "value": "sensitivity_to_light_or_noise",
+    "label_en": "Sensitivity to light or noise",
+    "label_fr": "Sensitivity to light or noise"
+  },
+  {
+    "value": "sensitivity_to_light_photophobia",
+    "label_en": "Sensitivity to light photophobia",
+    "label_fr": "Sensitivity to light photophobia"
+  },
+  {
+    "value": "severe_abdominal_or_back_pain",
+    "label_en": "Severe abdominal or back pain",
+    "label_fr": "Severe abdominal or back pain"
+  },
+  {
+    "value": "severe_abdominal_pain",
+    "label_en": "Severe abdominal pain",
+    "label_fr": "Severe abdominal pain"
+  },
+  {
+    "value": "severe_and_chronic_pain",
+    "label_en": "Severe and chronic pain",
+    "label_fr": "Severe and chronic pain"
+  },
+  {
+    "value": "severe_and_persistent_pain",
+    "label_en": "Severe and persistent pain",
+    "label_fr": "Severe and persistent pain"
+  },
+  {
+    "value": "severe_eye_pain",
+    "label_en": "Severe eye pain",
+    "label_fr": "Severe eye pain"
+  },
+  {
+    "value": "severe_headache",
+    "label_en": "Severe headache",
+    "label_fr": "Severe headache"
+  },
+  {
+    "value": "severe_headaches",
+    "label_en": "Severe headaches",
+    "label_fr": "Severe headaches"
+  },
+  {
+    "value": "severe_kidney_damage",
+    "label_en": "Severe kidney damage",
+    "label_fr": "Severe kidney damage"
+  },
+  {
+    "value": "severe_neck_pain",
+    "label_en": "Severe neck pain",
+    "label_fr": "Severe neck pain"
+  },
+  {
+    "value": "severe_pain",
+    "label_en": "Severe pain",
+    "label_fr": "Severe pain"
+  },
+  {
+    "value": "severe_pain_in_the_side_or_back",
+    "label_en": "Severe pain in the side or back",
+    "label_fr": "Severe pain in the side or back"
+  },
+  {
+    "value": "severe_sore_throat",
+    "label_en": "Severe sore throat",
+    "label_fr": "Severe sore throat"
+  },
+  {
+    "value": "severe_swelling_of_the_floor_of_the_mouth",
+    "label_en": "Severe swelling of the floor of the mouth",
+    "label_fr": "Severe swelling of the floor of the mouth"
+  },
+  {
+    "value": "severe_upper_abdominal_pain",
+    "label_en": "Severe upper abdominal pain",
+    "label_fr": "Severe upper abdominal pain"
+  },
+  {
+    "value": "shaking",
+    "label_en": "Shaking",
+    "label_fr": "Shaking"
+  },
+  {
+    "value": "sharp_or_stabbing_pain",
+    "label_en": "Sharp or stabbing pain",
+    "label_fr": "Sharp or stabbing pain"
+  },
+  {
+    "value": "sharp_pain",
+    "label_en": "Sharp pain",
+    "label_fr": "Sharp pain"
+  },
+  {
+    "value": "shivering",
+    "label_en": "Shivering",
+    "label_fr": "Shivering"
+  },
+  {
+    "value": "short_stature",
+    "label_en": "Short stature",
+    "label_fr": "Short stature"
+  },
+  {
+    "value": "shortness_of_breath",
+    "label_en": "Shortness of breath",
+    "label_fr": "Shortness of breath"
+  },
+  {
+    "value": "shoulder_pain",
+    "label_en": "Shoulder pain",
+    "label_fr": "Shoulder pain"
+  },
+  {
+    "value": "shoulder_pain_if_the_fallopian_tube_ruptures",
+    "label_en": "Shoulder pain if the fallopian tube ruptures",
+    "label_fr": "Shoulder pain if the fallopian tube ruptures"
+  },
+  {
+    "value": "shoulder_stiffness",
+    "label_en": "Shoulder stiffness",
+    "label_fr": "Shoulder stiffness"
+  },
+  {
+    "value": "shoulders",
+    "label_en": "Shoulders",
+    "label_fr": "Shoulders"
+  },
+  {
+    "value": "silver_like_dusting",
+    "label_en": "Silver like dusting",
+    "label_fr": "Silver like dusting"
+  },
+  {
+    "value": "sinus_pressure",
+    "label_en": "Sinus pressure",
+    "label_fr": "Sinus pressure"
+  },
+  {
+    "value": "skin_abnormalities",
+    "label_en": "Skin abnormalities",
+    "label_fr": "Skin abnormalities"
+  },
+  {
+    "value": "skin_changes",
+    "label_en": "Skin changes",
+    "label_fr": "Skin changes"
+  },
+  {
+    "value": "skin_discoloration",
+    "label_en": "Skin discoloration",
+    "label_fr": "Skin discoloration"
+  },
+  {
+    "value": "skin_peeling",
+    "label_en": "Skin peeling",
+    "label_fr": "Skin peeling"
+  },
+  {
+    "value": "skin_rash",
+    "label_en": "Skin rash",
+    "label_fr": "Skin rash"
+  },
+  {
+    "value": "skin_rashes",
+    "label_en": "Skin rashes",
+    "label_fr": "Skin rashes"
+  },
+  {
+    "value": "skin_sores",
+    "label_en": "Skin sores",
+    "label_fr": "Skin sores"
+  },
+  {
+    "value": "skipped_or_extra_heartbeats",
+    "label_en": "Skipped or extra heartbeats",
+    "label_fr": "Skipped or extra heartbeats"
+  },
+  {
+    "value": "sleep_disturbances",
+    "label_en": "Sleep disturbances",
+    "label_fr": "Sleep disturbances"
+  },
+  {
+    "value": "slow_healing_of_wounds",
+    "label_en": "Slow healing of wounds",
+    "label_fr": "Slow healing of wounds"
+  },
+  {
+    "value": "slow_heart_rate",
+    "label_en": "Slow heart rate",
+    "label_fr": "Slow heart rate"
+  },
+  {
+    "value": "slowed_breathing",
+    "label_en": "Slowed breathing",
+    "label_fr": "Slowed breathing"
+  },
+  {
+    "value": "slowness_of_movement",
+    "label_en": "Slowness of movement",
+    "label_fr": "Slowness of movement"
+  },
+  {
+    "value": "slurred_speech",
+    "label_en": "Slurred speech",
+    "label_fr": "Slurred speech"
+  },
+  {
+    "value": "small",
+    "label_en": "Small",
+    "label_fr": "Small"
+  },
+  {
+    "value": "small_blisters_or_bumps",
+    "label_en": "Small blisters or bumps",
+    "label_fr": "Small blisters or bumps"
+  },
+  {
+    "value": "small_dents_in_nails",
+    "label_en": "Small dents in nails",
+    "label_fr": "Small dents in nails"
+  },
+  {
+    "value": "smaller_or_underdeveloped_testicle_s",
+    "label_en": "Smaller or underdeveloped testicle s",
+    "label_fr": "Smaller or underdeveloped testicle s"
+  },
+  {
+    "value": "sneezing",
+    "label_en": "Sneezing",
+    "label_fr": "Sneezing"
+  },
+  {
+    "value": "soles",
+    "label_en": "Soles",
+    "label_fr": "Soles"
+  },
+  {
+    "value": "sore_throat",
+    "label_en": "Sore throat",
+    "label_fr": "Sore throat"
+  },
+  {
+    "value": "sore_tongue",
+    "label_en": "Sore tongue",
+    "label_fr": "Sore tongue"
+  },
+  {
+    "value": "speech_sounds_muffled_or_unclear",
+    "label_en": "Speech sounds muffled or unclear",
+    "label_fr": "Speech sounds muffled or unclear"
+  },
+  {
+    "value": "sphincterotomy",
+    "label_en": "Sphincterotomy",
+    "label_fr": "Sphincterotomy"
+  },
+  {
+    "value": "spinal_cord",
+    "label_en": "Spinal cord",
+    "label_fr": "Spinal cord"
+  },
+  {
+    "value": "spinning_movements",
+    "label_en": "Spinning movements",
+    "label_fr": "Spinning movements"
+  },
+  {
+    "value": "splenomegaly",
+    "label_en": "Splenomegaly",
+    "label_fr": "Splenomegaly"
+  },
+  {
+    "value": "spontaneous_bleeding_in_joints_or_muscles",
+    "label_en": "Spontaneous bleeding in joints or muscles",
+    "label_fr": "Spontaneous bleeding in joints or muscles"
+  },
+  {
+    "value": "spotting_or_light_bleeding_between_periods",
+    "label_en": "Spotting or light bleeding between periods",
+    "label_fr": "Spotting or light bleeding between periods"
+  },
+  {
+    "value": "spotting_urination",
+    "label_en": "Spotting urination",
+    "label_fr": "Spotting urination"
+  },
+  {
+    "value": "spraying_of_urine",
+    "label_en": "Spraying of urine",
+    "label_fr": "Spraying of urine"
+  },
+  {
+    "value": "squinting",
+    "label_en": "Squinting",
+    "label_fr": "Squinting"
+  },
+  {
+    "value": "stealing",
+    "label_en": "Stealing",
+    "label_fr": "Stealing"
+  },
+  {
+    "value": "stepladder_fever",
+    "label_en": "Stepladder fever",
+    "label_fr": "Stepladder fever"
+  },
+  {
+    "value": "stiff_neck",
+    "label_en": "Stiff neck",
+    "label_fr": "Stiff neck"
+  },
+  {
+    "value": "stiffness",
+    "label_en": "Stiffness",
+    "label_fr": "Stiffness"
+  },
+  {
+    "value": "stinging",
+    "label_en": "Stinging",
+    "label_fr": "Stinging"
+  },
+  {
+    "value": "stomach_bleeding",
+    "label_en": "Stomach bleeding",
+    "label_fr": "Stomach bleeding"
+  },
+  {
+    "value": "stomach_pain",
+    "label_en": "Stomach pain",
+    "label_fr": "Stomach pain"
+  },
+  {
+    "value": "strokes",
+    "label_en": "Strokes",
+    "label_fr": "Strokes"
+  },
+  {
+    "value": "strong_desire_or_cravings_for_opioids",
+    "label_en": "Strong desire or cravings for opioids",
+    "label_fr": "Strong desire or cravings for opioids"
+  },
+  {
+    "value": "such_as_paralysis",
+    "label_en": "Such as paralysis",
+    "label_fr": "Such as paralysis"
+  },
+  {
+    "value": "sudden",
+    "label_en": "Sudden",
+    "label_fr": "Sudden"
+  },
+  {
+    "value": "sudden_and_severe_abdominal_or_pelvic_pain_on_one_side",
+    "label_en": "Sudden and severe abdominal or pelvic pain on one side",
+    "label_fr": "Sudden and severe abdominal or pelvic pain on one side"
+  },
+  {
+    "value": "sudden_numbness_or_weakness_of_the_face",
+    "label_en": "Sudden numbness or weakness of the face",
+    "label_fr": "Sudden numbness or weakness of the face"
+  },
+  {
+    "value": "sudden_vision_loss",
+    "label_en": "Sudden vision loss",
+    "label_fr": "Sudden vision loss"
+  },
+  {
+    "value": "sunburn_like_rash",
+    "label_en": "Sunburn like rash",
+    "label_fr": "Sunburn like rash"
+  },
+  {
+    "value": "sunken_eyes",
+    "label_en": "Sunken eyes",
+    "label_fr": "Sunken eyes"
+  },
+  {
+    "value": "surgical_site_pain",
+    "label_en": "Surgical site pain",
+    "label_fr": "Surgical site pain"
+  },
+  {
+    "value": "sweating",
+    "label_en": "Sweating",
+    "label_fr": "Sweating"
+  },
+  {
+    "value": "sweating_when_attempting_to_stop_or_reduce_alcohol_use",
+    "label_en": "Sweating when attempting to stop or reduce alcohol use",
+    "label_fr": "Sweating when attempting to stop or reduce alcohol use"
+  },
+  {
+    "value": "swelled_lymph_nodes",
+    "label_en": "Swelled lymph nodes",
+    "label_fr": "Swelled lymph nodes"
+  },
+  {
+    "value": "swelling",
+    "label_en": "Swelling",
+    "label_fr": "Swelling"
+  },
+  {
+    "value": "swelling_and_redness_of_the_ear_or_the_area_behind_the_ear",
+    "label_en": "Swelling and redness of the ear or the area behind the ear",
+    "label_fr": "Swelling and redness of the ear or the area behind the ear"
+  },
+  {
+    "value": "swelling_in_the_abdomen",
+    "label_en": "Swelling in the abdomen",
+    "label_fr": "Swelling in the abdomen"
+  },
+  {
+    "value": "swelling_in_the_ankles",
+    "label_en": "Swelling in the ankles",
+    "label_fr": "Swelling in the ankles"
+  },
+  {
+    "value": "swelling_in_the_legs_and_ankles",
+    "label_en": "Swelling in the legs and ankles",
+    "label_fr": "Swelling in the legs and ankles"
+  },
+  {
+    "value": "swelling_joints",
+    "label_en": "Swelling joints",
+    "label_fr": "Swelling joints"
+  },
+  {
+    "value": "swelling_of_stomach",
+    "label_en": "Swelling of stomach",
+    "label_fr": "Swelling of stomach"
+  },
+  {
+    "value": "swelling_of_the_legs_or_ankles",
+    "label_en": "Swelling of the legs or ankles",
+    "label_fr": "Swelling of the legs or ankles"
+  },
+  {
+    "value": "swelling_of_the_limbs",
+    "label_en": "Swelling of the limbs",
+    "label_fr": "Swelling of the limbs"
+  },
+  {
+    "value": "swelling_or_visible_protrusion",
+    "label_en": "Swelling or visible protrusion",
+    "label_fr": "Swelling or visible protrusion"
+  },
+  {
+    "value": "swollen",
+    "label_en": "Swollen",
+    "label_fr": "Swollen"
+  },
+  {
+    "value": "swollen_and_bleeding_gums",
+    "label_en": "Swollen and bleeding gums",
+    "label_fr": "Swollen and bleeding gums"
+  },
+  {
+    "value": "swollen_and_tender_abdomen",
+    "label_en": "Swollen and tender abdomen",
+    "label_fr": "Swollen and tender abdomen"
+  },
+  {
+    "value": "swollen_blood_vessels",
+    "label_en": "Swollen blood vessels",
+    "label_fr": "Swollen blood vessels"
+  },
+  {
+    "value": "swollen_blood_vessels_in_the_esophagus",
+    "label_en": "Swollen blood vessels in the esophagus",
+    "label_fr": "Swollen blood vessels in the esophagus"
+  },
+  {
+    "value": "swollen_extremeties",
+    "label_en": "Swollen extremeties",
+    "label_fr": "Swollen extremeties"
+  },
+  {
+    "value": "swollen_eyelids",
+    "label_en": "Swollen eyelids",
+    "label_fr": "Swollen eyelids"
+  },
+  {
+    "value": "swollen_glands",
+    "label_en": "Swollen glands",
+    "label_fr": "Swollen glands"
+  },
+  {
+    "value": "swollen_legs",
+    "label_en": "Swollen legs",
+    "label_fr": "Swollen legs"
+  },
+  {
+    "value": "swollen_legs_or_ankles",
+    "label_en": "Swollen legs or ankles",
+    "label_fr": "Swollen legs or ankles"
+  },
+  {
+    "value": "swollen_lymph_nodes",
+    "label_en": "Swollen lymph nodes",
+    "label_fr": "Swollen lymph nodes"
+  },
+  {
+    "value": "swollen_salivary_glands_usually_parotid",
+    "label_en": "Swollen salivary glands usually parotid",
+    "label_fr": "Swollen salivary glands usually parotid"
+  },
+  {
+    "value": "swollen_tonsils",
+    "label_en": "Swollen tonsils",
+    "label_fr": "Swollen tonsils"
+  },
+  {
+    "value": "swollen_veins",
+    "label_en": "Swollen veins",
+    "label_fr": "Swollen veins"
+  },
+  {
+    "value": "tarry_stools",
+    "label_en": "Tarry stools",
+    "label_fr": "Tarry stools"
+  },
+  {
+    "value": "tender_gums",
+    "label_en": "Tender gums",
+    "label_fr": "Tender gums"
+  },
+  {
+    "value": "tenderness",
+    "label_en": "Tenderness",
+    "label_fr": "Tenderness"
+  },
+  {
+    "value": "tenderness_or_pain_when_touching_the_area",
+    "label_en": "Tenderness or pain when touching the area",
+    "label_fr": "Tenderness or pain when touching the area"
+  },
+  {
+    "value": "tenderness_or_swelling_in_affected_areas",
+    "label_en": "Tenderness or swelling in affected areas",
+    "label_fr": "Tenderness or swelling in affected areas"
+  },
+  {
+    "value": "tenderness_or_swelling_over_the_ribcage",
+    "label_en": "Tenderness or swelling over the ribcage",
+    "label_fr": "Tenderness or swelling over the ribcage"
+  },
+  {
+    "value": "tertiary_stage_severe_complications_affecting_the_heart",
+    "label_en": "Tertiary stage severe complications affecting the heart",
+    "label_fr": "Tertiary stage severe complications affecting the heart"
+  },
+  {
+    "value": "tetany_muscle_spasms",
+    "label_en": "Tetany muscle spasms",
+    "label_fr": "Tetany muscle spasms"
+  },
+  {
+    "value": "that_cannot_be_scraped_off",
+    "label_en": "That cannot be scraped off",
+    "label_fr": "That cannot be scraped off"
+  },
+  {
+    "value": "thick",
+    "label_en": "Thick",
+    "label_fr": "Thick"
+  },
+  {
+    "value": "thick_nasal_discharge",
+    "label_en": "Thick nasal discharge",
+    "label_fr": "Thick nasal discharge"
+  },
+  {
+    "value": "thoughts_of_self_harm_or_harming_the_baby",
+    "label_en": "Thoughts of self harm or harming the baby",
+    "label_fr": "Thoughts of self harm or harming the baby"
+  },
+  {
+    "value": "throat_irritation",
+    "label_en": "Throat irritation",
+    "label_fr": "Throat irritation"
+  },
+  {
+    "value": "tingling",
+    "label_en": "Tingling",
+    "label_fr": "Tingling"
+  },
+  {
+    "value": "tingling_in_limbs",
+    "label_en": "Tingling in limbs",
+    "label_fr": "Tingling in limbs"
+  },
+  {
+    "value": "tingling_or_numbness",
+    "label_en": "Tingling or numbness",
+    "label_fr": "Tingling or numbness"
+  },
+  {
+    "value": "tingling_or_numbness_in_extremities_in_severe_cases",
+    "label_en": "Tingling or numbness in extremities in severe cases",
+    "label_fr": "Tingling or numbness in extremities in severe cases"
+  },
+  {
+    "value": "tingling_or_numbness_in_the_hands_and_feet",
+    "label_en": "Tingling or numbness in the hands and feet",
+    "label_fr": "Tingling or numbness in the hands and feet"
+  },
+  {
+    "value": "tinnitus",
+    "label_en": "Tinnitus",
+    "label_fr": "Tinnitus"
+  },
+  {
+    "value": "tinnitus_ringing_in_the_ears",
+    "label_en": "Tinnitus ringing in the ears",
+    "label_fr": "Tinnitus ringing in the ears"
+  },
+  {
+    "value": "tolerance_to_alcohol",
+    "label_en": "Tolerance to alcohol",
+    "label_fr": "Tolerance to alcohol"
+  },
+  {
+    "value": "tolerance_to_opioids",
+    "label_en": "Tolerance to opioids",
+    "label_fr": "Tolerance to opioids"
+  },
+  {
+    "value": "tooth_sensitivity",
+    "label_en": "Tooth sensitivity",
+    "label_fr": "Tooth sensitivity"
+  },
+  {
+    "value": "toothache",
+    "label_en": "Toothache",
+    "label_fr": "Toothache"
+  },
+  {
+    "value": "toxic_look_typhos",
+    "label_en": "Toxic look typhos",
+    "label_fr": "Toxic look typhos"
+  },
+  {
+    "value": "transverse_myelitis_weakness",
+    "label_en": "Transverse myelitis weakness",
+    "label_fr": "Transverse myelitis weakness"
+  },
+  {
+    "value": "trembling",
+    "label_en": "Trembling",
+    "label_fr": "Trembling"
+  },
+  {
+    "value": "tremors",
+    "label_en": "Tremors",
+    "label_fr": "Tremors"
+  },
+  {
+    "value": "tremors_when_attempting_to_stop_or_reduce_benzodiazepine_use",
+    "label_en": "Tremors when attempting to stop or reduce benzodiazepine use",
+    "label_fr": "Tremors when attempting to stop or reduce benzodiazepine use"
+  },
+  {
+    "value": "tremors_when_attempting_to_stop_or_reduce_use",
+    "label_en": "Tremors when attempting to stop or reduce use",
+    "label_fr": "Tremors when attempting to stop or reduce use"
+  },
+  {
+    "value": "trouble_concentrating_or_making_decisions",
+    "label_en": "Trouble concentrating or making decisions",
+    "label_fr": "Trouble concentrating or making decisions"
+  },
+  {
+    "value": "trouble_speaking_or_understanding",
+    "label_en": "Trouble speaking or understanding",
+    "label_fr": "Trouble speaking or understanding"
+  },
+  {
+    "value": "typically_in_specific_areas_such_as_palms",
+    "label_en": "Typically in specific areas such as palms",
+    "label_fr": "Typically in specific areas such as palms"
+  },
+  {
+    "value": "typically_painless",
+    "label_en": "Typically painless",
+    "label_fr": "Typically painless"
+  },
+  {
+    "value": "ulcers_on_tongue",
+    "label_en": "Ulcers on tongue",
+    "label_fr": "Ulcers on tongue"
+  },
+  {
+    "value": "uncomfortable_sensation_in_the_legs",
+    "label_en": "Uncomfortable sensation in the legs",
+    "label_fr": "Uncomfortable sensation in the legs"
+  },
+  {
+    "value": "underarms",
+    "label_en": "Underarms",
+    "label_fr": "Underarms"
+  },
+  {
+    "value": "uneven_curvature_of_cornea",
+    "label_en": "Uneven curvature of cornea",
+    "label_fr": "Uneven curvature of cornea"
+  },
+  {
+    "value": "unexplained_weight_loss",
+    "label_en": "Unexplained weight loss",
+    "label_fr": "Unexplained weight loss"
+  },
+  {
+    "value": "unintentional_weight_loss",
+    "label_en": "Unintentional weight loss",
+    "label_fr": "Unintentional weight loss"
+  },
+  {
+    "value": "unpredictable_bleeding_episodes",
+    "label_en": "Unpredictable bleeding episodes",
+    "label_fr": "Unpredictable bleeding episodes"
+  },
+  {
+    "value": "unrefreshing_sleep",
+    "label_en": "Unrefreshing sleep",
+    "label_fr": "Unrefreshing sleep"
+  },
+  {
+    "value": "unsteadiness",
+    "label_en": "Unsteadiness",
+    "label_fr": "Unsteadiness"
+  },
+  {
+    "value": "urge_to_move_legs_for_relief",
+    "label_en": "Urge to move legs for relief",
+    "label_fr": "Urge to move legs for relief"
+  },
+  {
+    "value": "urgency",
+    "label_en": "Urgency",
+    "label_fr": "Urgency"
+  },
+  {
+    "value": "urinary_frequency",
+    "label_en": "Urinary frequency",
+    "label_fr": "Urinary frequency"
+  },
+  {
+    "value": "urinary_frequency_or_urgency",
+    "label_en": "Urinary frequency or urgency",
+    "label_fr": "Urinary frequency or urgency"
+  },
+  {
+    "value": "urinary_incontinence",
+    "label_en": "Urinary incontinence",
+    "label_fr": "Urinary incontinence"
+  },
+  {
+    "value": "urinary_tract_infections",
+    "label_en": "Urinary tract infections",
+    "label_fr": "Urinary tract infections"
+  },
+  {
+    "value": "urinary_urgency_or_frequency",
+    "label_en": "Urinary urgency or frequency",
+    "label_fr": "Urinary urgency or frequency"
+  },
+  {
+    "value": "usually_in_sun_exposed_areas",
+    "label_en": "Usually in sun exposed areas",
+    "label_fr": "Usually in sun exposed areas"
+  },
+  {
+    "value": "usually_in_the_evening_or_at_night",
+    "label_en": "Usually in the evening or at night",
+    "label_fr": "Usually in the evening or at night"
+  },
+  {
+    "value": "usually_on_the_upper_eyelid",
+    "label_en": "Usually on the upper eyelid",
+    "label_fr": "Usually on the upper eyelid"
+  },
+  {
+    "value": "vaginal_bleeding",
+    "label_en": "Vaginal bleeding",
+    "label_fr": "Vaginal bleeding"
+  },
+  {
+    "value": "vaginal_burning",
+    "label_en": "Vaginal burning",
+    "label_fr": "Vaginal burning"
+  },
+  {
+    "value": "vaginal_dryness",
+    "label_en": "Vaginal dryness",
+    "label_fr": "Vaginal dryness"
+  },
+  {
+    "value": "vertigo",
+    "label_en": "Vertigo",
+    "label_fr": "Vertigo"
+  },
+  {
+    "value": "visible_deformity",
+    "label_en": "Visible deformity",
+    "label_fr": "Visible deformity"
+  },
+  {
+    "value": "visible_peristalsis",
+    "label_en": "Visible peristalsis",
+    "label_fr": "Visible peristalsis"
+  },
+  {
+    "value": "visible_pits_or_holes_in_the_teeth",
+    "label_en": "Visible pits or holes in the teeth",
+    "label_fr": "Visible pits or holes in the teeth"
+  },
+  {
+    "value": "visible_veins",
+    "label_en": "Visible veins",
+    "label_fr": "Visible veins"
+  },
+  {
+    "value": "vision_changes",
+    "label_en": "Vision changes",
+    "label_fr": "Vision changes"
+  },
+  {
+    "value": "vision_loss",
+    "label_en": "Vision loss",
+    "label_fr": "Vision loss"
+  },
+  {
+    "value": "vision_loss_or_blurry_vision",
+    "label_en": "Vision loss or blurry vision",
+    "label_fr": "Vision loss or blurry vision"
+  },
+  {
+    "value": "vision_problems",
+    "label_en": "Vision problems",
+    "label_fr": "Vision problems"
+  },
+  {
+    "value": "vision_problems_such_as_blurred_vision_or_loss_of_peripheral_vision",
+    "label_en": "Vision problems such as blurred vision or loss of peripheral vision",
+    "label_fr": "Vision problems such as blurred vision or loss of peripheral vision"
+  },
+  {
+    "value": "visual_disturbances",
+    "label_en": "Visual disturbances",
+    "label_fr": "Visual disturbances"
+  },
+  {
+    "value": "visual_or_auditory_hallucinations",
+    "label_en": "Visual or auditory hallucinations",
+    "label_fr": "Visual or auditory hallucinations"
+  },
+  {
+    "value": "vocal_changes",
+    "label_en": "Vocal changes",
+    "label_fr": "Vocal changes"
+  },
+  {
+    "value": "vocal_fatigue",
+    "label_en": "Vocal fatigue",
+    "label_fr": "Vocal fatigue"
+  },
+  {
+    "value": "voice_changes",
+    "label_en": "Voice changes",
+    "label_fr": "Voice changes"
+  },
+  {
+    "value": "vomiting",
+    "label_en": "Vomiting",
+    "label_fr": "Vomiting"
+  },
+  {
+    "value": "vomiting_blood",
+    "label_en": "Vomiting blood",
+    "label_fr": "Vomiting blood"
+  },
+  {
+    "value": "warmth",
+    "label_en": "Warmth",
+    "label_fr": "Warmth"
+  },
+  {
+    "value": "watering_from_eyes",
+    "label_en": "Watering from eyes",
+    "label_fr": "Watering from eyes"
+  },
+  {
+    "value": "watery_discharge",
+    "label_en": "Watery discharge",
+    "label_fr": "Watery discharge"
+  },
+  {
+    "value": "weak_grip_strength",
+    "label_en": "Weak grip strength",
+    "label_fr": "Weak grip strength"
+  },
+  {
+    "value": "weak_urine_stream",
+    "label_en": "Weak urine stream",
+    "label_fr": "Weak urine stream"
+  },
+  {
+    "value": "weakened_immune_system",
+    "label_en": "Weakened immune system",
+    "label_fr": "Weakened immune system"
+  },
+  {
+    "value": "weakness",
+    "label_en": "Weakness",
+    "label_fr": "Weakness"
+  },
+  {
+    "value": "weakness_in_limbs",
+    "label_en": "Weakness in limbs",
+    "label_fr": "Weakness in limbs"
+  },
+  {
+    "value": "weakness_of_one_body_side",
+    "label_en": "Weakness of one body side",
+    "label_fr": "Weakness of one body side"
+  },
+  {
+    "value": "weakness_or_loss_of_strength",
+    "label_en": "Weakness or loss of strength",
+    "label_fr": "Weakness or loss of strength"
+  },
+  {
+    "value": "weakness_or_numbness",
+    "label_en": "Weakness or numbness",
+    "label_fr": "Weakness or numbness"
+  },
+  {
+    "value": "webbed_neck",
+    "label_en": "Webbed neck",
+    "label_fr": "Webbed neck"
+  },
+  {
+    "value": "weight_changes",
+    "label_en": "Weight changes",
+    "label_fr": "Weight changes"
+  },
+  {
+    "value": "weight_gain",
+    "label_en": "Weight gain",
+    "label_fr": "Weight gain"
+  },
+  {
+    "value": "weight_gain_or_loss",
+    "label_en": "Weight gain or loss",
+    "label_fr": "Weight gain or loss"
+  },
+  {
+    "value": "weight_loss",
+    "label_en": "Weight loss",
+    "label_fr": "Weight loss"
+  },
+  {
+    "value": "wheezing",
+    "label_en": "Wheezing",
+    "label_fr": "Wheezing"
+  },
+  {
+    "value": "white",
+    "label_en": "White",
+    "label_fr": "White"
+  },
+  {
+    "value": "white_patches_or_plaques_in_the_mouth",
+    "label_en": "White patches or plaques in the mouth",
+    "label_fr": "White patches or plaques in the mouth"
+  },
+  {
+    "value": "widespread_musculoskeletal_pain",
+    "label_en": "Widespread musculoskeletal pain",
+    "label_fr": "Widespread musculoskeletal pain"
+  },
+  {
+    "value": "with_associated_swelling",
+    "label_en": "With associated swelling",
+    "label_fr": "With associated swelling"
+  },
+  {
+    "value": "withdrawal_symptoms_such_as_irritability",
+    "label_en": "Withdrawal symptoms such as irritability",
+    "label_fr": "Withdrawal symptoms such as irritability"
+  },
+  {
+    "value": "withdrawal_symptoms_such_as_nausea",
+    "label_en": "Withdrawal symptoms such as nausea",
+    "label_fr": "Withdrawal symptoms such as nausea"
+  },
+  {
+    "value": "withdrawal_symptoms_such_as_rebound_anxiety",
+    "label_en": "Withdrawal symptoms such as rebound anxiety",
+    "label_fr": "Withdrawal symptoms such as rebound anxiety"
+  },
+  {
+    "value": "withdrawal_symptoms_such_as_tremors",
+    "label_en": "Withdrawal symptoms such as tremors",
+    "label_fr": "Withdrawal symptoms such as tremors"
+  },
+  {
+    "value": "worsens_with_deep_breaths_or_lying_down",
+    "label_en": "Worsens with deep breaths or lying down",
+    "label_fr": "Worsens with deep breaths or lying down"
+  },
+  {
+    "value": "yellow_crust_ooze",
+    "label_en": "Yellow crust ooze",
+    "label_fr": "Yellow crust ooze"
+  },
+  {
+    "value": "yellow_urine",
+    "label_en": "Yellow urine",
+    "label_fr": "Yellow urine"
+  },
+  {
+    "value": "yellowing_of_eyes",
+    "label_en": "Yellowing of eyes",
+    "label_fr": "Yellowing of eyes"
+  },
+  {
+    "value": "yellowing_of_the_skin_and_eyes",
+    "label_en": "Yellowing of the skin and eyes",
+    "label_fr": "Yellowing of the skin and eyes"
+  },
+  {
+    "value": "yellowish_skin",
+    "label_en": "Yellowish skin",
+    "label_fr": "Yellowish skin"
+  }
+]

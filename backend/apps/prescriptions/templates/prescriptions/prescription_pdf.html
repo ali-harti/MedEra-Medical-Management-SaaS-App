@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Ordonnance — {{ patient.get_full_name }}</title>
+</head>
+<body>
+
+<div class="header">
+  <h2 style="margin:0;color:#2563eb;">ORDONNANCE MÉDICALE</h2>
+  <div class="doctor-info">
+    <strong>Dr. {{ doctor.get_full_name }}</strong><br>
+    Médecin — Medera<br>
+    Date d'émission : {{ prescription.issued_at|date:"d/m/Y" }}
+  </div>
+</div>
+
+<div class="patient-info">
+  <strong>Patient :</strong> {{ patient.get_full_name }}<br>
+  <strong>Dossier :</strong> {{ patient.internal_id }}<br>
+  <strong>Date de naissance :</strong> {{ patient.birth_date|date:"d/m/Y" }}<br>
+  {% if patient.allergies %}
+  <strong style="color:#dc2626;">⚠ Allergies :</strong> 
+    {{ patient.allergies|join:", " }}<br>
+  {% endif %}
+</div>
+
+<h3 style="color:#1e40af;">Médicaments prescrits</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Médicament</th>
+      <th>Dosage</th>
+      <th>Forme</th>
+      <th>Posologie</th>
+      <th>Durée</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for line in medication_lines %}
+    <tr>
+      <td><strong>{{ line.drug_name }}</strong></td>
+      <td>{{ line.dosage }}</td>
+      <td>{{ line.form }}</td>
+      <td>{{ line.dosology }}</td>
+      <td>{% if line.duration_days %}{{ line.duration_days }}j{% else %}—{% endif %}</td>
+    </tr>
+    {% if line.special_instructions %}
+    <tr>
+      <td colspan="5" style="font-style:italic;color:#666;font-size:9pt;">
+        ↳ {{ line.special_instructions }}
+      </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+{% if prescription.general_instructions %}
+<p><strong>Instructions générales :</strong><br>
+{{ prescription.general_instructions }}</p>
+{% endif %}
+
+<div class="signature-block">
+  <p>Fait le {{ prescription.issued_at|date:"d/m/Y" }}</p>
+  <p><strong>Dr. {{ doctor.get_full_name }}</strong></p>
+  <p style="font-size:9pt;color:#888;">
+    Ordonnance N° {{ prescription.id }}<br>
+    {% if prescription.is_renewable %}
+      Renouvelable {{ prescription.renewal_count }} fois
+    {% endif %}
+  </p>
+</div>
+
+<div class="footer">
+  <p>Document généré par Medera — Système de gestion de cabinet médical.
+  {% if cancelled %}
+  <strong style="color:#dc2626;">⚠ CETTE ORDONNANCE A ÉTÉ ANNULÉE</strong>
+  {% endif %}
+  </p>
+</div>
+
+</body>
+</html>

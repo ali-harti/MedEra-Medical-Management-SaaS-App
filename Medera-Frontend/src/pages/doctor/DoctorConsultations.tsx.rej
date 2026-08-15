@@ -1,0 +1,53 @@
+diff a/Medera-Frontend/src/pages/doctor/DoctorConsultations.tsx b/Medera-Frontend/src/pages/doctor/DoctorConsultations.tsx	(rejected hunks)
+@@ -265,12 +272,12 @@ export default function DoctorConsultations() {
+                                    <div className="flex items-center gap-4">
+                                      <Video size={16} className="text-[#06B6D4]" />
+                                      <div className="flex flex-col">
+-                                       <span className="text-[14px] font-medium text-text-primary">Video Session</span>
++                                       <span className="text-[14px] font-medium text-text-primary">{t('doctorPortal.consultations.video.session')}</span>
+                                        <span className="text-[12px] font-mono text-[#06B6D4] flex items-center gap-1.5">
+                                          {c.video_session_active ? (
+-                                           <><span className="w-1.5 h-1.5 bg-[#06B6D4] rounded-full animate-pulse" /> LIVE �?" <LiveVideoTimer startTime={new Date(c.video_started_at!).getTime()} /></>
++                                           <><span className="w-1.5 h-1.5 bg-[#06B6D4] rounded-full animate-pulse" /> {t('doctorPortal.consultations.video.live')} �?" <LiveVideoTimer startTime={new Date(c.video_started_at!).getTime()} /></>
+                                          ) : (
+-                                           <span className="text-text-muted">{c.video_duration ? `Ended �?" ${c.video_duration}s` : 'Not started'}</span>
++                                           <span className="text-text-muted">{c.video_duration ? `${t('doctorPortal.consultations.video.ended')} �?" ${c.video_duration}s` : t('doctorPortal.consultations.video.notStarted')}</span>
+                                          )}
+                                        </span>
+                                      </div>
+@@ -310,13 +317,13 @@ export default function DoctorConsultations() {
+ 
+                              {/* Section 2 - Vitals */}
+                              <div>
+-                                <label className="text-[11px] font-mono tracking-widest text-text-muted uppercase mb-3 block">Vital Signs</label>
++                                <label className="text-[11px] font-mono tracking-widest text-text-muted uppercase mb-3 block">{t('doctorPortal.consultations.detail.vitalSigns')}</label>
+                                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                                    {[
+-                                     { label: 'Heart Rate', key: 'heart_rate', unit: 'bpm' },
+-                                     { label: 'Temperature', key: 'temperature', unit: '�C' },
+-                                     { label: 'Blood Pressure', key: 'blood_pressure', unit: 'mmHg' },
+-                                     { label: 'Weight', key: 'weight', unit: 'kg' }
++                                     { label: t('doctorPortal.consultations.detail.heartRate'), key: 'heart_rate', unit: 'bpm' },
++                                     { label: t('doctorPortal.consultations.detail.temperature'), key: 'temperature', unit: '�C' },
++                                     { label: t('doctorPortal.consultations.detail.bloodPressure'), key: 'blood_pressure', unit: 'mmHg' },
++                                     { label: t('doctorPortal.consultations.detail.weight'), key: 'weight', unit: 'kg' }
+                                    ].map((vital) => {
+                                       const val = c.clinical_exam?.[vital.key] || '';
+                                       return (
+@@ -396,13 +403,13 @@ export default function DoctorConsultations() {
+                              {!isReadonly && (
+                                <div className="pt-6 border-t border-ui-border flex flex-wrap items-center justify-end gap-3">
+                                   <button onClick={() => updateStatusMutation.mutate({ id: c.id, data: { status: 'DRAFT' } })} className="flex items-center gap-2 px-5 py-2.5 bg-transparent border border-ui-border hover:bg-bg-input text-text-primary rounded-xl text-[13px] font-medium transition-colors">
+-                                     <Save size={16} /> Save Draft
++                                     <Save size={16} /> {t('doctorPortal.consultations.detail.saveDraft')}
+                                   </button>
+                                   <button onClick={() => updateStatusMutation.mutate({ id: c.id, data: { status: 'IN_PROGRESS' } })} className="flex items-center gap-2 px-5 py-2.5 bg-transparent border border-state-warning/50 hover:bg-state-warning/10 text-state-warning rounded-xl text-[13px] font-medium transition-colors">
+-                                     �-� Mark In Progress
++                                     �-� {t('doctorPortal.consultations.detail.markInProgress')}
+                                   </button>
+                                   <button onClick={() => setShowFinalizeModal(c.id)} className="flex items-center gap-2 px-5 py-2.5 bg-[#22C55E] hover:bg-[#1ea34d] text-white rounded-xl text-[13px] font-medium transition-colors shadow-sm">
+-                                     <Check size={14} /> Finalize Consultation
++                                     <Check size={14} /> {t('doctorPortal.consultations.detail.finalize')}
+                                   </button>
+                                </div>
+                              )}

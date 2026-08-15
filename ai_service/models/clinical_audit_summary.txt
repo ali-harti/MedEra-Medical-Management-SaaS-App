@@ -1,0 +1,13 @@
+# Clinical Engine Feature Audit
+## Top 10 Diagnostic Drivers
+
+435. **E_57_nowhere**: 0.0178
+293. **E_53_pain_somewhere,_related_to_you**: 0.0148
+212. **E_194_have_you_noticed_a_high_pitche**: 0.0142
+181. **E_166_did_you_vomit_after_coughing**: 0.0129
+155. **E_152_nowhere**: 0.0122
+142. **E_151_swelling_in_one_or_more_areas_**: 0.0120
+38. **E_130_val_V_156**: 0.0109
+198. **E_181_nasal_congestion_or_a_clear_ru**: 0.0109
+247. **E_216_pain_that_is_increased_with_mo**: 0.0104
+245. **E_214_have_you_noticed_a_wheezing_so**: 0.0092
