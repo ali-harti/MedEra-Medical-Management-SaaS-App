@@ -27,8 +27,6 @@ MedEra is a multi-tenant clinical management SaaS application designed for solo 
 | **Digital Prescription & PDF Generation** | `docs/screenshots/prescription-generator.png` *(Upcoming)* |
 | **WhatsApp Conversational Triage** | `docs/screenshots/whatsapp-booking-flow.png` *(Upcoming)* |
 
-- **Video Walkthrough**: [Watch MedEra Technical Demo (YouTube Unlisted)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Demo placeholder link)*
-
 ---
 
 ## 2. Core Functional Modules
