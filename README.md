@@ -1,4 +1,4 @@
-# 🔬 MedEra — Medical Management SaaS Platform
+# MedEra — Medical Management SaaS Platform
 
 ![Django](https://img.shields.io/badge/Django-4.2-092E20.svg?logo=django)
 ![React](https://img.shields.io/badge/React-19-61DAFB.svg?logo=react)
@@ -123,12 +123,12 @@ flowchart TD
 
 | Threat Category | Potential Threat | MedEra Defense Implementation | Status |
 | :--- | :--- | :--- | :---: |
-| **Spoofing** | Forging JWT tokens or impersonating staff | Strong secret-signed HMAC-SHA256 tokens (`SECRET_KEY`), strict user model separation. | ✅ Implemented |
-| **Tampering** | Altering finalized consultation or prescription notes | Status checks preventing modification of `FINALIZED` consultations and cancelled prescriptions. | ✅ Implemented |
-| **Repudiation** | Denying issuance of prescriptions or diagnostic reviews | Append-only `AuditLog` records timestamp, user ID, model name, and action type on model signals. | ✅ Implemented |
-| **Information Disclosure** | Cross-tenant patient dossier leaks | Scoped database querysets (`get_queryset`) filtering by `cabinet_doctor` or patient user ownership. | ✅ Implemented |
-| **Denial of Service** | Authentication brute-force or API exhaustion | Account lockout after 5 failed attempts; Django REST Framework throttling classes. | 🟡 Partial |
-| **Elevation of Privilege** | Secretary accessing doctor diagnostic overrides or admin panel | Strict role checks via custom DRF permission classes (`IsMedecin`, `IsAdminUser`). | ✅ Implemented |
+| **Spoofing** | Forging JWT tokens or impersonating staff | Strong secret-signed HMAC-SHA256 tokens (`SECRET_KEY`), strict user model separation. | [Implemented] |
+| **Tampering** | Altering finalized consultation or prescription notes | Status checks preventing modification of `FINALIZED` consultations and cancelled prescriptions. | [Implemented] |
+| **Repudiation** | Denying issuance of prescriptions or diagnostic reviews | Append-only `AuditLog` records timestamp, user ID, model name, and action type on model signals. | [Implemented] |
+| **Information Disclosure** | Cross-tenant patient dossier leaks | Scoped database querysets (`get_queryset`) filtering by `cabinet_doctor` or patient user ownership. | [Implemented] |
+| **Denial of Service** | Authentication brute-force or API exhaustion | Account lockout after 5 failed attempts; Django REST Framework throttling classes. | [Partial] |
+| **Elevation of Privilege** | Secretary accessing doctor diagnostic overrides or admin panel | Strict role checks via custom DRF permission classes (`IsMedecin`, `IsAdminUser`). | [Implemented] |
 
 ---
 
@@ -153,16 +153,16 @@ Access control is enforced at two distinct validation boundaries: view-level rol
 
 | Resource / Action | Administrator (`ADMIN`) | Doctor (`MEDECIN`) | Secretary (`SECRETAIRE`) | Patient (`PATIENT`) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Manage Clinics & Users** | ✅ Full CRUD | 🔲 None | 🔲 None | 🔲 None |
-| **Approve Doctor Candidacies** | ✅ Full CRUD | 🔲 None | 🔲 None | 🔲 None |
-| **Access Audit Log Trail** | ✅ Read-Only | 🔲 None | 🔲 None | 🔲 None |
-| **Patient Dossiers** | 🔲 None | ✅ Full CRUD | ✅ Full CRUD | 🟡 Own Profile Only |
-| **Appointments** | 🔲 None | ✅ Full CRUD | ✅ Full CRUD | 🟡 Own Bookings Only |
-| **Clinical Consultations** | 🔲 None | ✅ Full CRUD | 🔲 None | 🟡 Own Summaries Only |
-| **Trigger AI Diagnostics** | 🔲 None | ✅ Full Access | 🔲 None | 🔲 None |
-| **Create Prescriptions** | 🔲 None | ✅ Full Access | 🔲 None | 🔲 None |
-| **Download Prescription PDF** | 🔲 None | ✅ Prescribing MD | 🔲 None | ✅ Own Prescription |
-| **Billing & Invoices** | 🔲 None | ✅ Full Access | ✅ Create/Update/Read | 🟡 Read & Pay Own |
+| **Manage Clinics & Users** | [Full CRUD] | None | None | None |
+| **Approve Doctor Candidacies** | [Full CRUD] | None | None | None |
+| **Access Audit Log Trail** | [Read-Only] | None | None | None |
+| **Patient Dossiers** | None | [Full CRUD] | [Full CRUD] | Own Profile Only |
+| **Appointments** | None | [Full CRUD] | [Full CRUD] | Own Bookings Only |
+| **Clinical Consultations** | None | [Full CRUD] | None | Own Summaries Only |
+| **Trigger AI Diagnostics** | None | [Full Access] | None | None |
+| **Create Prescriptions** | None | [Full Access] | None | None |
+| **Download Prescription PDF** | None | [Prescribing MD] | None | [Own Prescription] |
+| **Billing & Invoices** | None | [Full Access] | [Create/Update/Read] | Read & Pay Own |
 
 #### Multi-Tenancy Tenant Isolation
 
@@ -189,16 +189,16 @@ Clinic data segregation is implemented through doctor ownership relationships:
 
 | Risk ID | Vulnerability Concept | MedEra Technical Control | Control Status |
 | :--- | :--- | :--- | :---: |
-| **A01:2021** | **Broken Access Control** | Enforced DRF permission classes (`IsMedecin`, `IsMedicalStaff`, `IsAdminUser`) and tenant-filtered querysets (`get_queryset`). | ✅ Implemented |
-| **A02:2021** | **Cryptographic Failures** | TLS termination on Nginx; PBKDF2-SHA256 password hashing; HMAC-SHA256 JWT signatures. | 🟡 Partial *(Self-signed cert)* |
-| **A03:2021** | **Injection** | Django ORM parameterized SQL queries; serializer field sanitization; no raw user-controlled string formatting in SQL. | ✅ Implemented |
-| **A04:2021** | **Insecure Design** | Immutable finalized consultations; audit trails for all sensitive actions; separation of clinical vs administrative roles. | ✅ Implemented |
-| **A05:2021** | **Security Misconfiguration** | `production.py` settings structure present; debug disabled in production module. | 🟡 Partial *(Wildcard CORS)* |
-| **A06:2021** | **Vulnerable & Outdated Components** | Pinned dependencies in `requirements.txt` and `package.json`; modern stack (Django 4.2 LTS, React 19). | ✅ Implemented |
-| **A07:2021** | **Identification & Auth Failures** | Account lockout after 5 consecutive failures; JWT token rotation and server-side blacklisting table. | ✅ Implemented |
-| **A08:2021** | **Software & Data Integrity Failures** | Pickled ML model loading via local verified filesystem artifact; Docker base images pinned to official versions. | 🟡 Partial *(Pickle format)* |
-| **A09:2021** | **Security Logging & Monitoring** | Structured `AuditLog` captures user, action, object ID, and metadata on signals; console JSON logging in production. | ✅ Implemented |
-| **A10:2021** | **Server-Side Request Forgery (SSRF)** | Inter-service calls use fixed internal URLs defined in environment settings without user-controllable endpoints. | ✅ Implemented |
+| **A01:2021** | **Broken Access Control** | Enforced DRF permission classes (`IsMedecin`, `IsMedicalStaff`, `IsAdminUser`) and tenant-filtered querysets (`get_queryset`). | [Implemented] |
+| **A02:2021** | **Cryptographic Failures** | TLS termination on Nginx; PBKDF2-SHA256 password hashing; HMAC-SHA256 JWT signatures. | [Partial] *(Self-signed cert)* |
+| **A03:2021** | **Injection** | Django ORM parameterized SQL queries; serializer field sanitization; no raw user-controlled string formatting in SQL. | [Implemented] |
+| **A04:2021** | **Insecure Design** | Immutable finalized consultations; audit trails for all sensitive actions; separation of clinical vs administrative roles. | [Implemented] |
+| **A05:2021** | **Security Misconfiguration** | `production.py` settings structure present; debug disabled in production module. | [Partial] *(Wildcard CORS)* |
+| **A06:2021** | **Vulnerable & Outdated Components** | Pinned dependencies in `requirements.txt` and `package.json`; modern stack (Django 4.2 LTS, React 19). | [Implemented] |
+| **A07:2021** | **Identification & Auth Failures** | Account lockout after 5 consecutive failures; JWT token rotation and server-side blacklisting table. | [Implemented] |
+| **A08:2021** | **Software & Data Integrity Failures** | Pickled ML model loading via local verified filesystem artifact; Docker base images pinned to official versions. | [Partial] *(Pickle format)* |
+| **A09:2021** | **Security Logging & Monitoring** | Structured `AuditLog` captures user, action, object ID, and metadata on signals; console JSON logging in production. | [Implemented] |
+| **A10:2021** | **Server-Side Request Forgery (SSRF)** | Inter-service calls use fixed internal URLs defined in environment settings without user-controllable endpoints. | [Implemented] |
 
 ---
 
@@ -249,14 +249,14 @@ MedEra is architected around data protection principles codified in **Moroccan L
 
 The following prioritized roadmap outlines recommended engineering improvements for production transition:
 
-- [ ] 🔲 **Replace LocalStorage Refresh Token**: Migrate `medera_refresh` token storage from `localStorage` to an `HttpOnly`, `SameSite=Strict`, `Secure` cookie to eliminate token exposure to XSS.
-- [ ] 🔲 **Twilio Webhook Signature Verification**: Implement `twilio.request_validator.RequestValidator` in `whatsapp_agent/main.py` using `X-Twilio-Signature` to reject spoofed webhooks.
-- [ ] 🔲 **Secure Notification Trigger**: Add shared-secret or JWT authentication to `POST /send-notification` in `whatsapp_agent/main.py`.
-- [ ] 🔲 **Docker Container Non-Root Users**: Add `USER appuser` directives to all Dockerfiles (`backend/Dockerfile`, `ai_service/Dockerfile`, `whatsapp_agent/Dockerfile`) to prevent container breakout risks.
-- [ ] 🔲 **Close Public Host Ports**: In `docker-compose.yml`, remove host port mappings for internal services (`5000:5000`, `8001:8001`, `5432:5432`, `6379:6379`), routing all ingress exclusively through Nginx (`:80`, `:443`).
-- [ ] 🔲 **Enforce Strict CORS**: Replace `CORS_ALLOW_ALL_ORIGINS = True` with a whitelist of approved clinic domains in `backend/config/settings/base.py`.
-- [ ] 🔲 **Nginx Security Headers & Rate Limiting**: Inject `Content-Security-Policy`, `Strict-Transport-Security` (HSTS), `X-Content-Type-Options: nosniff`, and `limit_req_zone` rate limiting inside `nginx/nginx.conf`.
-- [ ] 🔲 **Migrate from Python Pickle to Safe Formats**: Convert `clinical_rf_v1.pkl` to ONNX or Safetensors format to prevent arbitrary code execution vulnerabilities during model deserialization.
+- [ ] **Replace LocalStorage Refresh Token**: Migrate `medera_refresh` token storage from `localStorage` to an `HttpOnly`, `SameSite=Strict`, `Secure` cookie to eliminate token exposure to XSS.
+- [ ] **Twilio Webhook Signature Verification**: Implement `twilio.request_validator.RequestValidator` in `whatsapp_agent/main.py` using `X-Twilio-Signature` to reject spoofed webhooks.
+- [ ] **Secure Notification Trigger**: Add shared-secret or JWT authentication to `POST /send-notification` in `whatsapp_agent/main.py`.
+- [ ] **Docker Container Non-Root Users**: Add `USER appuser` directives to all Dockerfiles (`backend/Dockerfile`, `ai_service/Dockerfile`, `whatsapp_agent/Dockerfile`) to prevent container breakout risks.
+- [ ] **Close Public Host Ports**: In `docker-compose.yml`, remove host port mappings for internal services (`5000:5000`, `8001:8001`, `5432:5432`, `6379:6379`), routing all ingress exclusively through Nginx (`:80`, `:443`).
+- [ ] **Enforce Strict CORS**: Replace `CORS_ALLOW_ALL_ORIGINS = True` with a whitelist of approved clinic domains in `backend/config/settings/base.py`.
+- [ ] **Nginx Security Headers & Rate Limiting**: Inject `Content-Security-Policy`, `Strict-Transport-Security` (HSTS), `X-Content-Type-Options: nosniff`, and `limit_req_zone` rate limiting inside `nginx/nginx.conf`.
+- [ ] **Migrate from Python Pickle to Safe Formats**: Convert `clinical_rf_v1.pkl` to ONNX or Safetensors format to prevent arbitrary code execution vulnerabilities during model deserialization.
 
 ---
 
@@ -502,6 +502,6 @@ This project is open-source software distributed under the terms of the [MIT Lic
 ## 11. Project Author
 
 **Ali Harti**  
-Full-Stack Software Engineer & Creative Technologist  
+Software Engineer  
 - **Email**: `aliharti248@gmail.com`  
 - **GitHub**: [@ali-harti](https://github.com/ali-harti)

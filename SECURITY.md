@@ -14,8 +14,8 @@ Only the latest commit on the `main` branch is actively maintained with security
 
 | Version / Branch | Supported | Release Type |
 | :--- | :---: | :--- |
-| `main` / latest | ✅ | Active Development & Portfolio Release |
-| Earlier tags / forks | 🔲 | Deprecated |
+| `main` / latest | Yes | Active Development & Portfolio Release |
+| Earlier tags / forks | No | Deprecated |
 
 ---
 
