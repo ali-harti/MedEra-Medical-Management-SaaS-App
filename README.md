@@ -15,12 +15,17 @@ MedEra is a multi-tenant clinical management SaaS application designed for solo 
 
 ## 1. Demonstration Media
 
+<p align="center">
+  <img src="docs/screenshots/medera-landing.png" alt="MedEra Platform Interface" width="100%" />
+</p>
+
 | Interface View | Screenshot Preview |
 | :--- | :--- |
-| **Practitioner Dashboard** | `docs/screenshots/dashboard-overview.png` *(Placeholder)* |
-| **Consultation & Clinical AI Differential Engine** | `docs/screenshots/consultation-ai-analysis.png` *(Placeholder)* |
-| **Digital Prescription & PDF Generation** | `docs/screenshots/prescription-generator.png` *(Placeholder)* |
-| **WhatsApp Conversational Triage** | `docs/screenshots/whatsapp-booking-flow.png` *(Placeholder)* |
+| **Landing & Clinic Portal Overview** | `docs/screenshots/medera-landing.png` |
+| **Practitioner Dashboard** | `docs/screenshots/dashboard-overview.png` *(Upcoming)* |
+| **Consultation & Clinical AI Differential Engine** | `docs/screenshots/consultation-ai-analysis.png` *(Upcoming)* |
+| **Digital Prescription & PDF Generation** | `docs/screenshots/prescription-generator.png` *(Upcoming)* |
+| **WhatsApp Conversational Triage** | `docs/screenshots/whatsapp-booking-flow.png` *(Upcoming)* |
 
 - **Video Walkthrough**: [Watch MedEra Technical Demo (YouTube Unlisted)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Demo placeholder link)*
 
